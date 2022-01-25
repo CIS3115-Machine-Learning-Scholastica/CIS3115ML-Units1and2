@@ -1,0 +1,2191 @@
+Age_Range,Age_Guess,Degree,Job_Title,Coding_Years,ML_Years,ML_Years_Guess,Salary_Range,Salary_Guess
+18-21,19,Doctoral degree,Research Scientist,20+ years,20 or more years,26,"> $500,000",719478
+18-21,19,No formal education past high school,Other,< 1 years,I do not use machine learning methods,0,$0-999,427
+18-21,20,Bachelor's degree,Machine Learning Engineer,3-5 years,Under 1 year,0.8,$0-999,573
+18-21,21,Bachelor's degree,Research Scientist,1-2 years,Under 1 year,0.5,$0-999,366
+18-21,21,Some college/university study without earning a bachelor's degree,Research Scientist,1-2 years,I do not use machine learning methods,0,"1,000-1,999",1033
+18-21,21,Bachelor's degree,Software Engineer,3-5 years,Under 1 year,1.0,"15,000-19,999",15923
+18-21,21,No formal education past high school,Software Engineer,3-5 years,1-2 years,2,"2,000-2,999",2652
+18-21,19,Bachelor's degree,Data Analyst,1-2 years,1-2 years,1,"20,000-24,999",23922
+18-21,18,Master's degree,Data Scientist,3-5 years,2-3 years,2,"250,000-299,999",279739
+18-21,19,Bachelor's degree,Business Analyst,I have never written code,,,"30,000-39,999",36010
+18-21,21,Bachelor's degree,Software Engineer,3-5 years,Under 1 year,0.2,"30,000-39,999",33153
+18-21,20,Bachelor's degree,Data Scientist,5-10 years,3-4 years,4,"300,000-500,000",426902
+18-21,21,Master's degree,Research Scientist,3-5 years,I do not use machine learning methods,0,"40,000-49,999",45858
+18-21,21,Bachelor's degree,Other,1-2 years,1-2 years,1,"5,000-7,499",5098
+18-21,20,Bachelor's degree,Software Engineer,3-5 years,1-2 years,1,"80,000-89,999",82624
+18-21,19,Master's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,"90,000-99,999",98016
+18-21,18,Bachelor's degree,Student,1-2 years,1-2 years,1,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,5-10 years,1-2 years,2,,
+18-21,18,Master's degree,Student,3-5 years,2-3 years,2,,
+18-21,18,Doctoral degree,Student,3-5 years,3-4 years,3,,
+18-21,18,Master's degree,Student,5-10 years,4-5 years,4,,
+18-21,18,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+18-21,18,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+18-21,18,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+18-21,18,Bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+18-21,18,I prefer not to answer,Student,1-2 years,I do not use machine learning methods,0,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+18-21,18,Bachelor's degree,Student,5-10 years,Under 1 year,0.5,,
+18-21,18,Bachelor's degree,Student,3-5 years,Under 1 year,0.1,,
+18-21,18,Bachelor's degree,Student,1-2 years,Under 1 year,0.3,,
+18-21,18,Bachelor's degree,Student,1-2 years,Under 1 year,0.8,,
+18-21,18,Bachelor's degree,Student,1-2 years,Under 1 year,0.0,,
+18-21,18,Bachelor's degree,Currently not employed,< 1 years,Under 1 year,0.9,,
+18-21,18,Bachelor's degree,Student,< 1 years,Under 1 year,0.3,,
+18-21,18,Bachelor's degree,Student,< 1 years,Under 1 year,0.3,,
+18-21,18,Master's degree,Student,1-2 years,Under 1 year,0.6,,
+18-21,18,Master's degree,Student,< 1 years,Under 1 year,0.1,,
+18-21,18,Master's degree,Student,1-2 years,Under 1 year,0.4,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,3-5 years,Under 1 year,0.2,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,1-2 years,Under 1 year,0.8,,
+18-21,18,Bachelor's degree,Student,< 1 years,,,,
+18-21,18,Bachelor's degree,Student,1-2 years,,,,
+18-21,18,Bachelor's degree,Student,1-2 years,,,,
+18-21,18,Bachelor's degree,Student,3-5 years,,,,
+18-21,18,Bachelor's degree,Student,1-2 years,,,,
+18-21,18,Bachelor's degree,Software Engineer,1-2 years,,,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,1-2 years,,,,
+18-21,18,Some college/university study without earning a bachelor's degree,Student,< 1 years,,,,
+18-21,19,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+18-21,19,Some college/university study without earning a bachelor's degree,Student,5-10 years,2-3 years,2,,
+18-21,19,Bachelor's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+18-21,19,Bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+18-21,19,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+18-21,19,Some college/university study without earning a bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+18-21,19,Bachelor's degree,Student,1-2 years,Under 1 year,0.1,,
+18-21,19,Bachelor's degree,Student,1-2 years,Under 1 year,0.9,,
+18-21,19,Bachelor's degree,Student,3-5 years,Under 1 year,0.3,,
+18-21,19,Bachelor's degree,Student,< 1 years,Under 1 year,0.1,,
+18-21,19,Bachelor's degree,Student,1-2 years,Under 1 year,0.1,,
+18-21,19,Some college/university study without earning a bachelor's degree,Student,5-10 years,Under 1 year,0.4,,
+18-21,19,Some college/university study without earning a bachelor's degree,Student,1-2 years,Under 1 year,0.3,,
+18-21,19,Bachelor's degree,Other,1-2 years,,,,
+18-21,19,Bachelor's degree,,,,,,
+18-21,19,Some college/university study without earning a bachelor's degree,Student,3-5 years,,,,
+18-21,19,Some college/university study without earning a bachelor's degree,Student,3-5 years,,,,
+18-21,20,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+18-21,20,Master's degree,Student,5-10 years,2-3 years,2,,
+18-21,20,Bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+18-21,20,Bachelor's degree,Machine Learning Engineer,1-2 years,I do not use machine learning methods,0,,
+18-21,20,Bachelor's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+18-21,20,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+18-21,20,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+18-21,20,Bachelor's degree,Student,3-5 years,Under 1 year,0.9,,
+18-21,20,Bachelor's degree,Student,3-5 years,Under 1 year,0.8,,
+18-21,20,Bachelor's degree,Student,3-5 years,Under 1 year,0.6,,
+18-21,20,Bachelor's degree,Student,1-2 years,Under 1 year,0.9,,
+18-21,20,Bachelor's degree,Student,1-2 years,Under 1 year,0.6,,
+18-21,20,Bachelor's degree,Student,1-2 years,Under 1 year,0.8,,
+18-21,20,Master's degree,Student,1-2 years,Under 1 year,0.1,,
+18-21,20,Bachelor's degree,Student,< 1 years,,,,
+18-21,20,Bachelor's degree,Student,< 1 years,,,,
+18-21,20,Bachelor's degree,Student,1-2 years,,,,
+18-21,20,Bachelor's degree,Student,I have never written code,,,,
+18-21,20,Bachelor's degree,Student,3-5 years,,,,
+18-21,20,Bachelor's degree,Student,1-2 years,,,,
+18-21,20,Bachelor's degree,Data Engineer,1-2 years,,,,
+18-21,20,Bachelor's degree,Student,3-5 years,,,,
+18-21,20,Master's degree,Student,5-10 years,,,,
+18-21,20,Master's degree,Student,1-2 years,,,,
+18-21,20,No formal education past high school,Student,I have never written code,,,,
+18-21,20,Some college/university study without earning a bachelor's degree,Student,3-5 years,,,,
+18-21,20,Some college/university study without earning a bachelor's degree,Other,5-10 years,,,,
+18-21,20,Some college/university study without earning a bachelor's degree,Student,< 1 years,,,,
+18-21,20,Some college/university study without earning a bachelor's degree,Student,I have never written code,,,,
+18-21,21,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+18-21,21,Bachelor's degree,Student,3-5 years,1-2 years,2,,
+18-21,21,Master's degree,Student,3-5 years,1-2 years,1,,
+18-21,21,Bachelor's degree,Software Engineer,5-10 years,2-3 years,2,,
+18-21,21,Bachelor's degree,Student,5-10 years,2-3 years,2,,
+18-21,21,Bachelor's degree,Student,3-5 years,2-3 years,3,,
+18-21,21,Bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+18-21,21,Bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+18-21,21,Bachelor's degree,Student,3-5 years,Under 1 year,0.6,,
+18-21,21,Bachelor's degree,Student,< 1 years,Under 1 year,0.3,,
+18-21,21,Bachelor's degree,Student,1-2 years,Under 1 year,0.7,,
+18-21,21,Bachelor's degree,Student,1-2 years,Under 1 year,0.3,,
+18-21,21,Bachelor's degree,Student,1-2 years,Under 1 year,0.2,,
+18-21,21,Bachelor's degree,Student,3-5 years,Under 1 year,0.4,,
+18-21,21,Bachelor's degree,Student,3-5 years,Under 1 year,0.7,,
+18-21,21,Bachelor's degree,Student,1-2 years,Under 1 year,0.0,,
+18-21,21,Master's degree,Student,3-5 years,Under 1 year,0.2,,
+18-21,21,Some college/university study without earning a bachelor's degree,Student,1-2 years,Under 1 year,0.8,,
+18-21,21,Some college/university study without earning a bachelor's degree,Student,3-5 years,Under 1 year,1.0,,
+18-21,21,Some college/university study without earning a bachelor's degree,Student,1-2 years,Under 1 year,0.9,,
+18-21,21,Bachelor's degree,Data Scientist,1-2 years,,,,
+18-21,21,I prefer not to answer,,,,,,
+18-21,21,Some college/university study without earning a bachelor's degree,Student,1-2 years,,,,
+18-21,21,Some college/university study without earning a bachelor's degree,Student,5-10 years,,,,
+22-24,22,Master's degree,Data Analyst,1-2 years,2-3 years,2,$0-999,513
+22-24,22,Master's degree,Data Scientist,3-5 years,1-2 years,1,$0-999,576
+22-24,24,Master's degree,Data Scientist,I have never written code,,,$0-999,10
+22-24,24,Master's degree,Data Analyst,5-10 years,1-2 years,2,$0-999,516
+22-24,24,Master's degree,Data Analyst,3-5 years,2-3 years,3,$0-999,812
+22-24,24,Master's degree,Machine Learning Engineer,3-5 years,2-3 years,2,$0-999,892
+22-24,23,Master's degree,Other,3-5 years,3-4 years,4,"1,000-1,999",1332
+22-24,22,Master's degree,Business Analyst,3-5 years,1-2 years,1,"10,000-14,999",14483
+22-24,23,Bachelor's degree,Other,3-5 years,1-2 years,1,"10,000-14,999",14823
+22-24,23,Bachelor's degree,Research Scientist,3-5 years,1-2 years,2,"100,000-124,999",106285
+22-24,23,Master's degree,Other,1-2 years,Under 1 year,0.1,"100,000-124,999",108252
+22-24,23,Master's degree,Software Engineer,3-5 years,1-2 years,1,"100,000-124,999",118449
+22-24,24,Bachelor's degree,Software Engineer,5-10 years,1-2 years,1,"100,000-124,999",109139
+22-24,24,Bachelor's degree,Data Scientist,3-5 years,1-2 years,1,"100,000-124,999",111163
+22-24,24,Master's degree,Data Scientist,3-5 years,3-4 years,3,"100,000-124,999",113602
+22-24,24,Master's degree,Research Scientist,10-20 years,1-2 years,2,"100,000-124,999",118002
+22-24,24,Bachelor's degree,Business Analyst,1-2 years,Under 1 year,0.8,"100,000-124,999",120662
+22-24,22,Bachelor's degree,Data Scientist,1-2 years,1-2 years,1,"125,000-149,999",132422
+22-24,22,Master's degree,Data Scientist,3-5 years,4-5 years,5,"125,000-149,999",139072
+22-24,22,Bachelor's degree,Data Scientist,3-5 years,1-2 years,1,"125,000-149,999",145290
+22-24,22,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"125,000-149,999",145476
+22-24,23,Bachelor's degree,Data Analyst,1-2 years,I do not use machine learning methods,0,"125,000-149,999",145005
+22-24,22,Master's degree,Data Scientist,1-2 years,1-2 years,1,"150,000-199,999",189356
+22-24,23,Bachelor's degree,Data Scientist,3-5 years,Under 1 year,0.5,"20,000-24,999",20950
+22-24,24,Bachelor's degree,Data Analyst,3-5 years,2-3 years,3,"25,000-29,999",28951
+22-24,22,Master's degree,Business Analyst,< 1 years,Under 1 year,0.7,"30,000-39,999",30966
+22-24,22,Bachelor's degree,Other,5-10 years,3-4 years,3,"30,000-39,999",39486
+22-24,24,Master's degree,Data Analyst,3-5 years,Under 1 year,0.9,"30,000-39,999",37890
+22-24,22,Master's degree,Data Scientist,3-5 years,2-3 years,3,"40,000-49,999",43793
+22-24,23,Bachelor's degree,Other,3-5 years,3-4 years,4,"40,000-49,999",42043
+22-24,23,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.2,"40,000-49,999",46216
+22-24,24,Master's degree,Machine Learning Engineer,3-5 years,1-2 years,2,"40,000-49,999",45821
+22-24,24,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.1,"40,000-49,999",47595
+22-24,22,Master's degree,Business Analyst,3-5 years,Under 1 year,0.7,"5,000-7,499",7540
+22-24,24,Master's degree,Software Engineer,3-5 years,2-3 years,3,"5,000-7,499",7780
+22-24,22,Bachelor's degree,Business Analyst,I have never written code,,,"50,000-59,999",55702
+22-24,22,Master's degree,Machine Learning Engineer,5-10 years,1-2 years,2,"50,000-59,999",55808
+22-24,22,Bachelor's degree,Product/Project Manager,1-2 years,I do not use machine learning methods,0,"50,000-59,999",56412
+22-24,23,Some college/university study without earning a bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"50,000-59,999",51335
+22-24,23,Master's degree,Data Analyst,1-2 years,1-2 years,2,"50,000-59,999",54947
+22-24,23,Bachelor's degree,Other,3-5 years,Under 1 year,0.7,"50,000-59,999",57970
+22-24,23,Bachelor's degree,Software Engineer,3-5 years,1-2 years,1,"50,000-59,999",58670
+22-24,23,Master's degree,Data Analyst,1-2 years,Under 1 year,0.6,"50,000-59,999",59287
+22-24,24,Bachelor's degree,Research Scientist,3-5 years,2-3 years,3,"50,000-59,999",50386
+22-24,24,Master's degree,Research Scientist,5-10 years,3-4 years,3,"50,000-59,999",57797
+22-24,24,Master's degree,Statistician,3-5 years,1-2 years,2,"50,000-59,999",57997
+22-24,24,Bachelor's degree,Other,3-5 years,1-2 years,2,"50,000-59,999",58495
+22-24,22,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.8,"60,000-69,999",64932
+22-24,23,Bachelor's degree,Business Analyst,3-5 years,Under 1 year,0.4,"60,000-69,999",61351
+22-24,23,Master's degree,Business Analyst,3-5 years,1-2 years,2,"60,000-69,999",62241
+22-24,23,Bachelor's degree,Data Analyst,3-5 years,1-2 years,2,"60,000-69,999",63076
+22-24,23,Master's degree,Data Scientist,1-2 years,Under 1 year,0.1,"60,000-69,999",63691
+22-24,23,Master's degree,Software Engineer,3-5 years,1-2 years,1,"60,000-69,999",63915
+22-24,23,Master's degree,Data Analyst,3-5 years,1-2 years,2,"60,000-69,999",69262
+22-24,24,Master's degree,Business Analyst,1-2 years,1-2 years,2,"60,000-69,999",63604
+22-24,24,Bachelor's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,"60,000-69,999",69786
+22-24,22,Bachelor's degree,Data Analyst,3-5 years,2-3 years,3,"70,000-79,999",72409
+22-24,22,Bachelor's degree,Other,1-2 years,Under 1 year,0.8,"70,000-79,999",75518
+22-24,22,Bachelor's degree,Software Engineer,5-10 years,1-2 years,1,"70,000-79,999",76143
+22-24,22,Bachelor's degree,Data Analyst,I have never written code,,,"70,000-79,999",77334
+22-24,22,Bachelor's degree,Data Scientist,3-5 years,2-3 years,3,"70,000-79,999",78783
+22-24,23,Master's degree,Data Analyst,5-10 years,1-2 years,1,"70,000-79,999",79524
+22-24,24,Master's degree,Software Engineer,5-10 years,Under 1 year,0.4,"70,000-79,999",76735
+22-24,24,Bachelor's degree,Software Engineer,3-5 years,1-2 years,2,"70,000-79,999",78103
+22-24,22,Bachelor's degree,Software Engineer,3-5 years,2-3 years,2,"80,000-89,999",81234
+22-24,22,Master's degree,Data Analyst,3-5 years,1-2 years,2,"80,000-89,999",81816
+22-24,22,Master's degree,Software Engineer,5-10 years,2-3 years,3,"80,000-89,999",88484
+22-24,23,Bachelor's degree,Business Analyst,3-5 years,Under 1 year,0.5,"80,000-89,999",81723
+22-24,23,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.9,"80,000-89,999",89690
+22-24,24,Master's degree,Data Analyst,1-2 years,Under 1 year,0.7,"80,000-89,999",82780
+22-24,24,Bachelor's degree,Data Analyst,5-10 years,2-3 years,3,"80,000-89,999",82892
+22-24,23,Master's degree,Data Analyst,3-5 years,1-2 years,1,"90,000-99,999",91979
+22-24,23,Master's degree,Data Analyst,1-2 years,Under 1 year,0.8,"90,000-99,999",95649
+22-24,23,Bachelor's degree,Software Engineer,5-10 years,2-3 years,2,"90,000-99,999",97667
+22-24,24,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.3,"90,000-99,999",91979
+22-24,24,Bachelor's degree,Data Analyst,3-5 years,1-2 years,1,"90,000-99,999",93383
+22-24,24,Bachelor's degree,Machine Learning Engineer,3-5 years,1-2 years,1,"90,000-99,999",96504
+22-24,24,Bachelor's degree,Data Scientist,3-5 years,Under 1 year,0.5,"90,000-99,999",97311
+22-24,22,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+22-24,22,Bachelor's degree,Student,5-10 years,1-2 years,2,,
+22-24,22,Master's degree,Student,3-5 years,1-2 years,2,,
+22-24,22,Master's degree,Student,1-2 years,1-2 years,1,,
+22-24,22,Master's degree,Student,3-5 years,1-2 years,1,,
+22-24,22,Master's degree,Student,3-5 years,1-2 years,1,,
+22-24,22,Master's degree,Student,1-2 years,1-2 years,2,,
+22-24,22,Master's degree,Student,1-2 years,2-3 years,2,,
+22-24,22,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+22-24,22,Doctoral degree,Student,3-5 years,I do not use machine learning methods,0,,
+22-24,22,Master's degree,Student,1-2 years,I do not use machine learning methods,0,,
+22-24,22,Master's degree,Student,< 1 years,I do not use machine learning methods,0,,
+22-24,22,Some college/university study without earning a bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+22-24,22,Bachelor's degree,Student,< 1 years,Under 1 year,0.6,,
+22-24,22,Bachelor's degree,Student,1-2 years,Under 1 year,0.5,,
+22-24,22,Bachelor's degree,Student,3-5 years,Under 1 year,0.4,,
+22-24,22,Bachelor's degree,Student,3-5 years,Under 1 year,0.7,,
+22-24,22,Doctoral degree,Student,3-5 years,Under 1 year,0.4,,
+22-24,22,Master's degree,Student,3-5 years,Under 1 year,0.8,,
+22-24,22,Master's degree,Student,1-2 years,Under 1 year,0.7,,
+22-24,22,Master's degree,Student,3-5 years,Under 1 year,0.8,,
+22-24,22,Master's degree,Student,1-2 years,Under 1 year,0.2,,
+22-24,22,Master's degree,Student,3-5 years,Under 1 year,0.9,,
+22-24,22,Master's degree,Student,1-2 years,Under 1 year,0.5,,
+22-24,22,Master's degree,Currently not employed,3-5 years,Under 1 year,0.7,,
+22-24,22,Master's degree,Student,3-5 years,Under 1 year,0.7,,
+22-24,22,Master's degree,Student,1-2 years,Under 1 year,0.7,,
+22-24,22,Master's degree,Student,3-5 years,Under 1 year,1.0,,
+22-24,22,Bachelor's degree,Other,3-5 years,,,,
+22-24,22,Bachelor's degree,Student,3-5 years,,,,
+22-24,22,Master's degree,Student,1-2 years,,,,
+22-24,22,Master's degree,Business Analyst,3-5 years,,,,
+22-24,22,Some college/university study without earning a bachelor's degree,Student,< 1 years,,,,
+22-24,22,Some college/university study without earning a bachelor's degree,Student,I have never written code,,,,
+22-24,23,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+22-24,23,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+22-24,23,Doctoral degree,Student,5-10 years,1-2 years,1,,
+22-24,23,Master's degree,Data Scientist,1-2 years,1-2 years,2,,
+22-24,23,Master's degree,Student,3-5 years,1-2 years,1,,
+22-24,23,Bachelor's degree,Currently not employed,3-5 years,2-3 years,2,,
+22-24,23,Bachelor's degree,Student,3-5 years,2-3 years,3,,
+22-24,23,Master's degree,Student,3-5 years,2-3 years,3,,
+22-24,23,Bachelor's degree,Currently not employed,3-5 years,3-4 years,4,,
+22-24,23,Bachelor's degree,Data Scientist,5-10 years,3-4 years,4,,
+22-24,23,Master's degree,Student,3-5 years,3-4 years,3,,
+22-24,23,Bachelor's degree,Software Engineer,< 1 years,I do not use machine learning methods,0,,
+22-24,23,Master's degree,Student,< 1 years,I do not use machine learning methods,0,,
+22-24,23,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.9,,
+22-24,23,Bachelor's degree,Currently not employed,< 1 years,Under 1 year,0.4,,
+22-24,23,Bachelor's degree,Student,< 1 years,Under 1 year,0.6,,
+22-24,23,Bachelor's degree,Student,< 1 years,Under 1 year,0.1,,
+22-24,23,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.0,,
+22-24,23,Master's degree,Student,3-5 years,Under 1 year,0.7,,
+22-24,23,Some college/university study without earning a bachelor's degree,Student,< 1 years,Under 1 year,0.2,,
+22-24,23,Bachelor's degree,Data Analyst,,,,,
+22-24,23,Bachelor's degree,Student,3-5 years,,,,
+22-24,23,Bachelor's degree,Student,I have never written code,,,,
+22-24,23,Bachelor's degree,Data Scientist,3-5 years,,,,
+22-24,23,Bachelor's degree,Research Scientist,3-5 years,,,,
+22-24,23,Master's degree,Data Analyst,3-5 years,,,,
+22-24,23,Master's degree,Student,,,,,
+22-24,23,Master's degree,Student,1-2 years,,,,
+22-24,23,Master's degree,Student,1-2 years,,,,
+22-24,23,Master's degree,Student,< 1 years,,,,
+22-24,24,Bachelor's degree,Currently not employed,3-5 years,1-2 years,1,,
+22-24,24,Bachelor's degree,Student,1-2 years,1-2 years,2,,
+22-24,24,Bachelor's degree,Currently not employed,3-5 years,1-2 years,1,,
+22-24,24,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+22-24,24,Doctoral degree,Student,1-2 years,1-2 years,2,,
+22-24,24,Master's degree,Student,3-5 years,1-2 years,2,,
+22-24,24,Master's degree,Student,3-5 years,1-2 years,1,,
+22-24,24,Master's degree,Student,3-5 years,1-2 years,2,,
+22-24,24,Master's degree,Student,3-5 years,1-2 years,2,,
+22-24,24,Master's degree,Student,1-2 years,1-2 years,1,,
+22-24,24,Master's degree,Student,5-10 years,1-2 years,1,,
+22-24,24,Master's degree,Student,1-2 years,1-2 years,2,,
+22-24,24,Bachelor's degree,Student,3-5 years,2-3 years,3,,
+22-24,24,Doctoral degree,Student,5-10 years,2-3 years,3,,
+22-24,24,Master's degree,Student,3-5 years,2-3 years,3,,
+22-24,24,Some college/university study without earning a bachelor's degree,Student,5-10 years,2-3 years,2,,
+22-24,24,Bachelor's degree,Currently not employed,5-10 years,I do not use machine learning methods,0,,
+22-24,24,Bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+22-24,24,Some college/university study without earning a bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+22-24,24,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+22-24,24,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,1.0,,
+22-24,24,Bachelor's degree,Student,1-2 years,Under 1 year,0.2,,
+22-24,24,Bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.8,,
+22-24,24,Bachelor's degree,Student,3-5 years,Under 1 year,0.0,,
+22-24,24,Bachelor's degree,Student,1-2 years,Under 1 year,0.3,,
+22-24,24,Bachelor's degree,Student,3-5 years,Under 1 year,0.9,,
+22-24,24,Bachelor's degree,Statistician,< 1 years,Under 1 year,0.3,,
+22-24,24,Doctoral degree,Student,3-5 years,Under 1 year,0.1,,
+22-24,24,Master's degree,Student,1-2 years,Under 1 year,0.7,,
+22-24,24,Master's degree,Currently not employed,< 1 years,Under 1 year,0.3,,
+22-24,24,Master's degree,Currently not employed,1-2 years,Under 1 year,0.3,,
+22-24,24,Master's degree,Student,< 1 years,Under 1 year,0.9,,
+22-24,24,Master's degree,Student,3-5 years,Under 1 year,0.6,,
+22-24,24,Master's degree,Student,< 1 years,Under 1 year,0.1,,
+22-24,24,Master's degree,Student,3-5 years,Under 1 year,0.0,,
+22-24,24,Master's degree,Student,3-5 years,Under 1 year,0.7,,
+22-24,24,Bachelor's degree,Business Analyst,3-5 years,,,,
+22-24,24,Bachelor's degree,,,,,,
+22-24,24,Master's degree,Data Analyst,3-5 years,,,,
+22-24,24,Master's degree,Student,< 1 years,,,,
+22-24,24,Master's degree,Student,3-5 years,,,,
+22-24,24,Master's degree,,,,,,
+22-24,24,Master's degree,,,,,,
+22-24,24,Master's degree,Other,I have never written code,,,,
+25-29,25,Master's degree,Data Scientist,1-2 years,1-2 years,2,$0-999,282
+25-29,26,Master's degree,Data Scientist,3-5 years,Under 1 year,0.7,$0-999,21
+25-29,26,Bachelor's degree,Other,I have never written code,,,$0-999,343
+25-29,26,Master's degree,Data Analyst,< 1 years,Under 1 year,0.4,$0-999,921
+25-29,27,Bachelor's degree,Data Scientist,5-10 years,1-2 years,1,$0-999,918
+25-29,28,Bachelor's degree,Data Scientist,< 1 years,Under 1 year,0.9,$0-999,296
+25-29,25,Bachelor's degree,Software Engineer,1-2 years,1-2 years,2,"1,000-1,999",1796
+25-29,25,Master's degree,Data Engineer,5-10 years,4-5 years,4,"10,000-14,999",13282
+25-29,26,Master's degree,Data Scientist,3-5 years,1-2 years,1,"10,000-14,999",11596
+25-29,27,Master's degree,Other,< 1 years,Under 1 year,0.6,"10,000-14,999",12173
+25-29,28,Master's degree,Data Scientist,3-5 years,3-4 years,4,"10,000-14,999",14519
+25-29,25,Master's degree,Data Scientist,3-5 years,2-3 years,3,"100,000-124,999",100917
+25-29,25,Bachelor's degree,Data Analyst,3-5 years,1-2 years,2,"100,000-124,999",102444
+25-29,25,Master's degree,Machine Learning Engineer,3-5 years,1-2 years,1,"100,000-124,999",104811
+25-29,25,Master's degree,Data Engineer,3-5 years,2-3 years,2,"100,000-124,999",106590
+25-29,25,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,4,"100,000-124,999",107440
+25-29,25,Master's degree,Data Scientist,1-2 years,Under 1 year,0.4,"100,000-124,999",112243
+25-29,25,Master's degree,Data Scientist,3-5 years,3-4 years,3,"100,000-124,999",113745
+25-29,25,Master's degree,Other,3-5 years,3-4 years,3,"100,000-124,999",122194
+25-29,25,Master's degree,Data Scientist,1-2 years,2-3 years,2,"100,000-124,999",122756
+25-29,26,Bachelor's degree,Machine Learning Engineer,5-10 years,1-2 years,2,"100,000-124,999",100501
+25-29,26,Master's degree,Data Scientist,5-10 years,3-4 years,4,"100,000-124,999",100829
+25-29,26,Master's degree,Machine Learning Engineer,10-20 years,3-4 years,4,"100,000-124,999",101453
+25-29,26,Bachelor's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"100,000-124,999",102793
+25-29,26,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,3-5 years,1-2 years,1,"100,000-124,999",103114
+25-29,26,Master's degree,Data Scientist,3-5 years,1-2 years,1,"100,000-124,999",104221
+25-29,26,Bachelor's degree,Data Scientist,5-10 years,4-5 years,5,"100,000-124,999",106254
+25-29,26,Master's degree,Data Analyst,5-10 years,5-10 years,8,"100,000-124,999",109024
+25-29,26,Master's degree,Data Analyst,1-2 years,1-2 years,1,"100,000-124,999",112192
+25-29,26,Master's degree,Data Scientist,1-2 years,1-2 years,1,"100,000-124,999",115479
+25-29,26,Master's degree,Data Scientist,5-10 years,Under 1 year,0.5,"100,000-124,999",118287
+25-29,27,Master's degree,Data Scientist,5-10 years,2-3 years,2,"100,000-124,999",112360
+25-29,27,Bachelor's degree,Data Scientist,3-5 years,3-4 years,4,"100,000-124,999",116335
+25-29,27,Master's degree,Business Analyst,1-2 years,1-2 years,1,"100,000-124,999",118306
+25-29,27,Master's degree,Software Engineer,< 1 years,1-2 years,2,"100,000-124,999",121835
+25-29,28,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"100,000-124,999",103198
+25-29,28,Master's degree,Data Scientist,3-5 years,3-4 years,3,"100,000-124,999",107586
+25-29,28,Master's degree,Data Scientist,5-10 years,2-3 years,3,"100,000-124,999",118480
+25-29,28,Bachelor's degree,Data Scientist,10-20 years,3-4 years,4,"100,000-124,999",119223
+25-29,28,Master's degree,Data Scientist,3-5 years,3-4 years,3,"100,000-124,999",123317
+25-29,29,Master's degree,Business Analyst,3-5 years,1-2 years,1,"100,000-124,999",101163
+25-29,29,Bachelor's degree,Other,3-5 years,2-3 years,3,"100,000-124,999",103033
+25-29,29,Bachelor's degree,Machine Learning Engineer,5-10 years,2-3 years,2,"100,000-124,999",106938
+25-29,29,Master's degree,Data Scientist,1-2 years,2-3 years,3,"100,000-124,999",107108
+25-29,29,Master's degree,Machine Learning Engineer,3-5 years,3-4 years,4,"100,000-124,999",110565
+25-29,29,Master's degree,Data Engineer,3-5 years,I do not use machine learning methods,0,"100,000-124,999",112831
+25-29,29,Master's degree,Data Scientist,3-5 years,2-3 years,2,"100,000-124,999",113026
+25-29,29,Bachelor's degree,Data Analyst,5-10 years,I do not use machine learning methods,0,"100,000-124,999",114598
+25-29,29,Bachelor's degree,Data Analyst,1-2 years,1-2 years,2,"100,000-124,999",117241
+25-29,29,Master's degree,Data Scientist,5-10 years,4-5 years,4,"100,000-124,999",119311
+25-29,29,Master's degree,Data Scientist,5-10 years,5-10 years,9,"100,000-124,999",121112
+25-29,29,Master's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,"100,000-124,999",121143
+25-29,29,Bachelor's degree,Data Scientist,5-10 years,4-5 years,5,"100,000-124,999",122954
+25-29,26,Doctoral degree,Research Scientist,10-20 years,5-10 years,9,"125,000-149,999",134597
+25-29,27,Master's degree,Data Scientist,3-5 years,3-4 years,3,"125,000-149,999",128127
+25-29,27,Master's degree,Data Scientist,3-5 years,2-3 years,2,"125,000-149,999",137861
+25-29,28,Master's degree,Data Scientist,5-10 years,4-5 years,5,"125,000-149,999",130051
+25-29,28,Bachelor's degree,Data Scientist,3-5 years,2-3 years,3,"125,000-149,999",131535
+25-29,28,Bachelor's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,"125,000-149,999",132012
+25-29,28,Bachelor's degree,Other,1-2 years,Under 1 year,0.7,"125,000-149,999",132262
+25-29,29,Master's degree,Machine Learning Engineer,3-5 years,2-3 years,3,"125,000-149,999",130445
+25-29,29,Bachelor's degree,Machine Learning Engineer,3-5 years,1-2 years,1,"125,000-149,999",132316
+25-29,29,Master's degree,Data Scientist,5-10 years,2-3 years,2,"125,000-149,999",146679
+25-29,25,Doctoral degree,Statistician,5-10 years,4-5 years,4,"15,000-19,999",15497
+25-29,25,Master's degree,Data Analyst,< 1 years,Under 1 year,0.7,"15,000-19,999",19858
+25-29,27,Doctoral degree,Data Scientist,5-10 years,1-2 years,2,"15,000-19,999",17959
+25-29,27,Doctoral degree,Machine Learning Engineer,3-5 years,3-4 years,3,"15,000-19,999",19259
+25-29,28,Doctoral degree,Other,3-5 years,Under 1 year,0.5,"15,000-19,999",15612
+25-29,28,Master's degree,Other,3-5 years,1-2 years,1,"15,000-19,999",16326
+25-29,28,Bachelor's degree,Software Engineer,1-2 years,Under 1 year,0.8,"15,000-19,999",19831
+25-29,25,Master's degree,Data Scientist,10-20 years,4-5 years,5,"150,000-199,999",151762
+25-29,26,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,5,"150,000-199,999",175994
+25-29,26,Master's degree,Data Scientist,3-5 years,4-5 years,4,"150,000-199,999",191084
+25-29,27,Master's degree,Machine Learning Engineer,5-10 years,3-4 years,3,"150,000-199,999",155049
+25-29,27,Master's degree,Data Scientist,5-10 years,3-4 years,3,"150,000-199,999",155658
+25-29,27,Bachelor's degree,Data Scientist,5-10 years,2-3 years,2,"150,000-199,999",164153
+25-29,27,Bachelor's degree,Software Engineer,5-10 years,5-10 years,10,"150,000-199,999",170880
+25-29,27,Bachelor's degree,Data Scientist,5-10 years,5-10 years,5,"150,000-199,999",180523
+25-29,27,Bachelor's degree,Data Scientist,1-2 years,1-2 years,2,"150,000-199,999",195630
+25-29,28,Doctoral degree,Research Scientist,3-5 years,3-4 years,4,"150,000-199,999",154711
+25-29,28,Master's degree,Research Scientist,5-10 years,5-10 years,8,"150,000-199,999",165261
+25-29,28,Bachelor's degree,Machine Learning Engineer,1-2 years,1-2 years,2,"150,000-199,999",176710
+25-29,28,Master's degree,Product/Project Manager,5-10 years,5-10 years,5,"150,000-199,999",181171
+25-29,28,Bachelor's degree,Software Engineer,5-10 years,2-3 years,2,"150,000-199,999",189433
+25-29,28,Doctoral degree,Research Scientist,5-10 years,4-5 years,5,"150,000-199,999",192992
+25-29,29,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"150,000-199,999",156648
+25-29,29,Bachelor's degree,Machine Learning Engineer,5-10 years,4-5 years,5,"150,000-199,999",170461
+25-29,29,Master's degree,Machine Learning Engineer,5-10 years,5-10 years,6,"150,000-199,999",180882
+25-29,29,Master's degree,Research Scientist,5-10 years,5-10 years,9,"150,000-199,999",182845
+25-29,26,Master's degree,Machine Learning Engineer,3-5 years,4-5 years,5,"20,000-24,999",20729
+25-29,29,Master's degree,Other,1-2 years,Under 1 year,0.4,"20,000-24,999",20287
+25-29,25,Master's degree,Data Scientist,5-10 years,3-4 years,4,"200,000-249,999",232212
+25-29,26,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,4,"200,000-249,999",216568
+25-29,26,Master's degree,Software Engineer,5-10 years,1-2 years,1,"200,000-249,999",224859
+25-29,26,Master's degree,Other,3-5 years,2-3 years,2,"200,000-249,999",228580
+25-29,26,Master's degree,Data Scientist,5-10 years,5-10 years,7,"200,000-249,999",239122
+25-29,27,Bachelor's degree,Data Engineer,5-10 years,I do not use machine learning methods,0,"200,000-249,999",233153
+25-29,29,Doctoral degree,Data Scientist,5-10 years,5-10 years,9,"200,000-249,999",239420
+25-29,25,Bachelor's degree,Business Analyst,1-2 years,Under 1 year,0.7,"25,000-29,999",26697
+25-29,25,Master's degree,Other,I have never written code,,,"25,000-29,999",26946
+25-29,25,Master's degree,Data Analyst,3-5 years,2-3 years,2,"25,000-29,999",27245
+25-29,28,Doctoral degree,Research Scientist,1-2 years,Under 1 year,0.0,"25,000-29,999",29055
+25-29,25,Bachelor's degree,Data Analyst,3-5 years,1-2 years,2,"3,000-3,999",3654
+25-29,26,Master's degree,Data Analyst,1-2 years,Under 1 year,1.0,"30,000-39,999",38374
+25-29,26,Doctoral degree,Research Scientist,1-2 years,Under 1 year,0.5,"30,000-39,999",38528
+25-29,27,Bachelor's degree,Other,1-2 years,Under 1 year,0.8,"30,000-39,999",34204
+25-29,27,Bachelor's degree,Software Engineer,3-5 years,Under 1 year,0.4,"30,000-39,999",34553
+25-29,28,Bachelor's degree,Other,< 1 years,Under 1 year,0.2,"30,000-39,999",30694
+25-29,28,Bachelor's degree,Other,3-5 years,Under 1 year,0.8,"30,000-39,999",37815
+25-29,28,Bachelor's degree,Other,1-2 years,I do not use machine learning methods,0,"30,000-39,999",38164
+25-29,29,Bachelor's degree,Product/Project Manager,3-5 years,3-4 years,3,"30,000-39,999",30287
+25-29,29,Bachelor's degree,Other,< 1 years,Under 1 year,0.9,"30,000-39,999",36043
+25-29,27,Bachelor's degree,Statistician,10-20 years,4-5 years,5,"300,000-500,000",411263
+25-29,29,Master's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"300,000-500,000",480055
+25-29,28,Bachelor's degree,Research Scientist,3-5 years,2-3 years,3,"4,000-4,999",4000
+25-29,25,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.6,"40,000-49,999",42810
+25-29,26,Bachelor's degree,Data Scientist,3-5 years,3-4 years,3,"40,000-49,999",41872
+25-29,26,Some college/university study without earning a bachelor's degree,Other,1-2 years,1-2 years,2,"40,000-49,999",44433
+25-29,27,Bachelor's degree,Other,I have never written code,,,"40,000-49,999",42537
+25-29,27,Some college/university study without earning a bachelor's degree,Other,5-10 years,Under 1 year,0.5,"40,000-49,999",43656
+25-29,27,Master's degree,Software Engineer,5-10 years,4-5 years,5,"40,000-49,999",46741
+25-29,27,Bachelor's degree,Other,1-2 years,Under 1 year,0.2,"40,000-49,999",49643
+25-29,28,Master's degree,Business Analyst,1-2 years,Under 1 year,0.6,"40,000-49,999",49602
+25-29,25,Master's degree,Software Engineer,5-10 years,1-2 years,1,"50,000-59,999",56423
+25-29,25,Master's degree,Software Engineer,3-5 years,2-3 years,3,"50,000-59,999",59828
+25-29,26,Doctoral degree,Research Scientist,3-5 years,1-2 years,2,"50,000-59,999",52850
+25-29,26,Bachelor's degree,Other,1-2 years,Under 1 year,0.3,"50,000-59,999",55251
+25-29,26,Bachelor's degree,Software Engineer,5-10 years,Under 1 year,0.3,"50,000-59,999",55926
+25-29,27,Bachelor's degree,Business Analyst,< 1 years,1-2 years,1,"50,000-59,999",51222
+25-29,27,Doctoral degree,Other,< 1 years,Under 1 year,0.0,"50,000-59,999",58974
+25-29,28,Bachelor's degree,Data Analyst,< 1 years,I do not use machine learning methods,0,"50,000-59,999",51396
+25-29,29,Master's degree,Data Scientist,5-10 years,3-4 years,3,"50,000-59,999",52511
+25-29,25,Bachelor's degree,Data Engineer,1-2 years,Under 1 year,0.0,"60,000-69,999",60071
+25-29,25,Master's degree,Business Analyst,1-2 years,Under 1 year,0.9,"60,000-69,999",62450
+25-29,25,Master's degree,Data Analyst,3-5 years,1-2 years,2,"60,000-69,999",65525
+25-29,25,Master's degree,Other,3-5 years,Under 1 year,0.5,"60,000-69,999",65834
+25-29,26,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"60,000-69,999",65236
+25-29,27,Bachelor's degree,Statistician,1-2 years,1-2 years,2,"60,000-69,999",62780
+25-29,27,Bachelor's degree,Software Engineer,3-5 years,3-4 years,4,"60,000-69,999",64643
+25-29,27,Master's degree,Software Engineer,10-20 years,1-2 years,2,"60,000-69,999",67012
+25-29,28,Master's degree,DBA/Database Engineer,5-10 years,2-3 years,2,"60,000-69,999",61414
+25-29,28,Master's degree,Data Analyst,3-5 years,1-2 years,1,"60,000-69,999",67344
+25-29,28,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"60,000-69,999",69893
+25-29,29,Master's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"60,000-69,999",63686
+25-29,29,Bachelor's degree,Data Scientist,1-2 years,1-2 years,1,"60,000-69,999",67331
+25-29,29,Bachelor's degree,Other,3-5 years,3-4 years,3,"60,000-69,999",69577
+25-29,25,Master's degree,Data Scientist,3-5 years,2-3 years,2,"70,000-79,999",73185
+25-29,25,Master's degree,Research Scientist,3-5 years,Under 1 year,0.7,"70,000-79,999",76020
+25-29,25,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"70,000-79,999",76981
+25-29,26,Master's degree,Data Analyst,3-5 years,Under 1 year,0.9,"70,000-79,999",73275
+25-29,26,Master's degree,Data Scientist,5-10 years,2-3 years,2,"70,000-79,999",73712
+25-29,26,Professional degree,Data Scientist,5-10 years,1-2 years,1,"70,000-79,999",75296
+25-29,26,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.8,"70,000-79,999",79115
+25-29,27,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"70,000-79,999",70570
+25-29,27,Bachelor's degree,Business Analyst,1-2 years,I do not use machine learning methods,0,"70,000-79,999",71081
+25-29,27,Master's degree,Data Analyst,3-5 years,2-3 years,3,"70,000-79,999",73387
+25-29,27,Master's degree,Data Scientist,3-5 years,2-3 years,2,"70,000-79,999",78941
+25-29,27,Master's degree,Software Engineer,3-5 years,Under 1 year,0.7,"70,000-79,999",79206
+25-29,28,Bachelor's degree,Data Scientist,5-10 years,2-3 years,3,"70,000-79,999",73668
+25-29,28,Master's degree,Data Analyst,3-5 years,2-3 years,2,"70,000-79,999",75410
+25-29,28,Master's degree,Data Scientist,3-5 years,2-3 years,2,"70,000-79,999",78373
+25-29,28,Master's degree,Data Analyst,3-5 years,Under 1 year,0.7,"70,000-79,999",78835
+25-29,28,Doctoral degree,Research Scientist,5-10 years,4-5 years,5,"70,000-79,999",79278
+25-29,29,Master's degree,Machine Learning Engineer,3-5 years,2-3 years,3,"70,000-79,999",75350
+25-29,29,Master's degree,Data Engineer,3-5 years,1-2 years,1,"70,000-79,999",76861
+25-29,29,Bachelor's degree,Other,3-5 years,Under 1 year,0.9,"70,000-79,999",77130
+25-29,25,Bachelor's degree,Data Scientist,5-10 years,3-4 years,4,"80,000-89,999",83618
+25-29,25,Master's degree,Data Scientist,5-10 years,2-3 years,3,"80,000-89,999",84721
+25-29,25,Master's degree,Data Scientist,10-20 years,3-4 years,4,"80,000-89,999",85018
+25-29,25,Master's degree,Business Analyst,1-2 years,I do not use machine learning methods,0,"80,000-89,999",85096
+25-29,26,Bachelor's degree,Data Scientist,3-5 years,2-3 years,2,"80,000-89,999",86567
+25-29,26,Bachelor's degree,Data Analyst,3-5 years,2-3 years,3,"80,000-89,999",89063
+25-29,27,Master's degree,Statistician,3-5 years,Under 1 year,0.3,"80,000-89,999",80266
+25-29,27,Master's degree,Data Scientist,5-10 years,3-4 years,4,"80,000-89,999",89252
+25-29,28,Master's degree,Data Analyst,3-5 years,3-4 years,3,"80,000-89,999",81670
+25-29,28,Master's degree,Research Scientist,3-5 years,1-2 years,2,"80,000-89,999",85404
+25-29,28,Master's degree,Product/Project Manager,I have never written code,,,"80,000-89,999",88627
+25-29,29,Doctoral degree,Machine Learning Engineer,3-5 years,1-2 years,2,"80,000-89,999",80009
+25-29,29,Master's degree,Data Engineer,3-5 years,1-2 years,1,"80,000-89,999",80382
+25-29,29,Bachelor's degree,Data Scientist,1-2 years,1-2 years,2,"80,000-89,999",83554
+25-29,29,Bachelor's degree,Data Engineer,5-10 years,3-4 years,4,"80,000-89,999",86577
+25-29,29,Master's degree,Data Analyst,3-5 years,2-3 years,2,"80,000-89,999",87881
+25-29,25,Bachelor's degree,Data Scientist,3-5 years,2-3 years,3,"90,000-99,999",90183
+25-29,25,Master's degree,Other,3-5 years,3-4 years,4,"90,000-99,999",90559
+25-29,25,Bachelor's degree,Data Analyst,5-10 years,1-2 years,2,"90,000-99,999",90822
+25-29,25,Doctoral degree,Research Scientist,5-10 years,3-4 years,3,"90,000-99,999",94835
+25-29,25,Bachelor's degree,Business Analyst,5-10 years,Under 1 year,0.1,"90,000-99,999",98323
+25-29,26,Master's degree,Data Scientist,5-10 years,4-5 years,4,"90,000-99,999",91908
+25-29,26,Bachelor's degree,Other,< 1 years,Under 1 year,0.9,"90,000-99,999",92411
+25-29,26,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.7,"90,000-99,999",92473
+25-29,26,Master's degree,Data Analyst,5-10 years,4-5 years,4,"90,000-99,999",94612
+25-29,26,Master's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,"90,000-99,999",95414
+25-29,26,Master's degree,Software Engineer,5-10 years,Under 1 year,0.8,"90,000-99,999",98295
+25-29,27,Master's degree,Data Scientist,5-10 years,4-5 years,5,"90,000-99,999",90125
+25-29,27,Doctoral degree,Data Analyst,1-2 years,1-2 years,2,"90,000-99,999",91336
+25-29,27,Master's degree,Machine Learning Engineer,3-5 years,4-5 years,4,"90,000-99,999",91394
+25-29,27,Master's degree,Data Scientist,3-5 years,1-2 years,1,"90,000-99,999",93801
+25-29,27,Master's degree,Machine Learning Engineer,5-10 years,1-2 years,1,"90,000-99,999",96986
+25-29,27,Master's degree,Data Scientist,5-10 years,2-3 years,3,"90,000-99,999",98045
+25-29,28,Master's degree,Data Scientist,5-10 years,5-10 years,8,"90,000-99,999",95889
+25-29,28,Master's degree,Data Engineer,3-5 years,2-3 years,3,"90,000-99,999",96025
+25-29,29,Master's degree,Data Scientist,3-5 years,2-3 years,2,"90,000-99,999",92921
+25-29,29,Master's degree,Data Analyst,3-5 years,2-3 years,3,"90,000-99,999",94305
+25-29,29,Master's degree,Data Analyst,5-10 years,3-4 years,4,"90,000-99,999",94399
+25-29,25,Bachelor's degree,Software Engineer,3-5 years,1-2 years,2,,
+25-29,25,Bachelor's degree,Student,3-5 years,1-2 years,1,,
+25-29,25,Doctoral degree,Student,1-2 years,1-2 years,1,,
+25-29,25,Doctoral degree,Student,1-2 years,1-2 years,2,,
+25-29,25,I prefer not to answer,Data Analyst,3-5 years,1-2 years,2,,
+25-29,25,Master's degree,Student,3-5 years,1-2 years,1,,
+25-29,25,Master's degree,Student,10-20 years,1-2 years,2,,
+25-29,25,Master's degree,Student,1-2 years,1-2 years,2,,
+25-29,25,Master's degree,Student,< 1 years,1-2 years,1,,
+25-29,25,Doctoral degree,Student,3-5 years,2-3 years,3,,
+25-29,25,Master's degree,Student,5-10 years,2-3 years,3,,
+25-29,25,Master's degree,Student,3-5 years,2-3 years,3,,
+25-29,25,Master's degree,Student,3-5 years,2-3 years,2,,
+25-29,25,Doctoral degree,Student,5-10 years,3-4 years,4,,
+25-29,25,Doctoral degree,Student,5-10 years,3-4 years,3,,
+25-29,25,Doctoral degree,Student,5-10 years,4-5 years,4,,
+25-29,25,Doctoral degree,Software Engineer,5-10 years,4-5 years,4,,
+25-29,25,Master's degree,Other,< 1 years,I do not use machine learning methods,0,,
+25-29,25,Some college/university study without earning a bachelor's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,,
+25-29,25,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.7,,
+25-29,25,Doctoral degree,Student,< 1 years,Under 1 year,0.1,,
+25-29,25,Doctoral degree,Student,5-10 years,Under 1 year,0.6,,
+25-29,25,Master's degree,Currently not employed,1-2 years,Under 1 year,0.9,,
+25-29,25,Master's degree,Student,5-10 years,Under 1 year,0.9,,
+25-29,25,Master's degree,Student,< 1 years,Under 1 year,0.4,,
+25-29,25,Master's degree,Student,3-5 years,Under 1 year,0.7,,
+25-29,25,Master's degree,Student,3-5 years,Under 1 year,0.3,,
+25-29,25,Master's degree,Student,1-2 years,Under 1 year,0.1,,
+25-29,25,Master's degree,Currently not employed,1-2 years,Under 1 year,0.3,,
+25-29,25,Some college/university study without earning a bachelor's degree,Student,< 1 years,Under 1 year,0.5,,
+25-29,25,Some college/university study without earning a bachelor's degree,Currently not employed,5-10 years,Under 1 year,0.2,,
+25-29,25,Bachelor's degree,Business Analyst,< 1 years,,,,
+25-29,25,Bachelor's degree,Currently not employed,I have never written code,,,,
+25-29,25,Bachelor's degree,Other,< 1 years,,,,
+25-29,25,Bachelor's degree,Other,< 1 years,,,,
+25-29,25,Master's degree,Other,3-5 years,,,,
+25-29,25,No formal education past high school,Currently not employed,I have never written code,,,,
+25-29,25,Some college/university study without earning a bachelor's degree,Other,< 1 years,,,,
+25-29,26,Bachelor's degree,Other,1-2 years,1-2 years,2,,
+25-29,26,Master's degree,Student,5-10 years,1-2 years,1,,
+25-29,26,Master's degree,Student,1-2 years,1-2 years,2,,
+25-29,26,Master's degree,Student,3-5 years,1-2 years,2,,
+25-29,26,Master's degree,Student,5-10 years,1-2 years,1,,
+25-29,26,Master's degree,Student,1-2 years,1-2 years,2,,
+25-29,26,Master's degree,Student,5-10 years,1-2 years,2,,
+25-29,26,Some college/university study without earning a bachelor's degree,Student,3-5 years,1-2 years,2,,
+25-29,26,Master's degree,Student,3-5 years,2-3 years,2,,
+25-29,26,Bachelor's degree,Software Engineer,5-10 years,3-4 years,4,,
+25-29,26,Doctoral degree,Student,5-10 years,3-4 years,4,,
+25-29,26,Doctoral degree,Student,5-10 years,3-4 years,3,,
+25-29,26,Master's degree,Currently not employed,< 1 years,3-4 years,4,,
+25-29,26,Some college/university study without earning a bachelor's degree,Currently not employed,5-10 years,3-4 years,4,,
+25-29,26,Bachelor's degree,Data Scientist,5-10 years,4-5 years,5,,
+25-29,26,Doctoral degree,Currently not employed,5-10 years,4-5 years,4,,
+25-29,26,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,4,,
+25-29,26,Doctoral degree,Student,5-10 years,5-10 years,8,,
+25-29,26,Bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+25-29,26,Master's degree,Statistician,3-5 years,I do not use machine learning methods,0,,
+25-29,26,Bachelor's degree,Student,5-10 years,Under 1 year,0.3,,
+25-29,26,Bachelor's degree,Student,3-5 years,Under 1 year,0.5,,
+25-29,26,Doctoral degree,Currently not employed,5-10 years,Under 1 year,1.0,,
+25-29,26,Doctoral degree,Student,3-5 years,Under 1 year,0.4,,
+25-29,26,Master's degree,Student,3-5 years,Under 1 year,0.4,,
+25-29,26,Master's degree,Student,5-10 years,Under 1 year,0.9,,
+25-29,26,Master's degree,Student,3-5 years,Under 1 year,0.6,,
+25-29,26,Master's degree,Student,1-2 years,Under 1 year,0.3,,
+25-29,26,Master's degree,Student,3-5 years,Under 1 year,0.2,,
+25-29,26,Master's degree,Student,1-2 years,Under 1 year,0.1,,
+25-29,26,Some college/university study without earning a bachelor's degree,Student,< 1 years,Under 1 year,0.2,,
+25-29,26,Some college/university study without earning a bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.8,,
+25-29,26,Some college/university study without earning a bachelor's degree,Student,< 1 years,Under 1 year,0.3,,
+25-29,26,Bachelor's degree,Student,1-2 years,,,,
+25-29,26,Master's degree,Student,< 1 years,,,,
+25-29,26,Master's degree,Student,< 1 years,,,,
+25-29,26,Master's degree,Software Engineer,3-5 years,,,,
+25-29,26,Master's degree,Data Analyst,1-2 years,,,,
+25-29,27,Doctoral degree,Student,5-10 years,1-2 years,1,,
+25-29,27,Master's degree,Student,1-2 years,1-2 years,1,,
+25-29,27,Master's degree,Student,1-2 years,1-2 years,2,,
+25-29,27,Master's degree,Student,3-5 years,1-2 years,2,,
+25-29,27,Some college/university study without earning a bachelor's degree,Student,3-5 years,1-2 years,1,,
+25-29,27,Master's degree,Data Engineer,5-10 years,2-3 years,3,,
+25-29,27,Master's degree,Business Analyst,3-5 years,2-3 years,2,,
+25-29,27,Master's degree,Data Analyst,3-5 years,2-3 years,2,,
+25-29,27,Master's degree,Student,3-5 years,2-3 years,2,,
+25-29,27,Master's degree,Student,5-10 years,2-3 years,2,,
+25-29,27,Doctoral degree,Student,5-10 years,3-4 years,3,,
+25-29,27,Doctoral degree,Student,3-5 years,3-4 years,3,,
+25-29,27,Master's degree,Student,3-5 years,3-4 years,3,,
+25-29,27,Master's degree,Student,5-10 years,3-4 years,3,,
+25-29,27,Bachelor's degree,Student,5-10 years,4-5 years,5,,
+25-29,27,Master's degree,Student,1-2 years,I do not use machine learning methods,0,,
+25-29,27,Some college/university study without earning a bachelor's degree,Currently not employed,5-10 years,I do not use machine learning methods,0,,
+25-29,27,Bachelor's degree,Currently not employed,< 1 years,Under 1 year,0.2,,
+25-29,27,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.7,,
+25-29,27,Bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.9,,
+25-29,27,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.5,,
+25-29,27,Doctoral degree,Student,3-5 years,Under 1 year,0.4,,
+25-29,27,Master's degree,Currently not employed,< 1 years,Under 1 year,0.7,,
+25-29,27,Master's degree,Student,< 1 years,Under 1 year,0.1,,
+25-29,27,Master's degree,Student,< 1 years,Under 1 year,0.6,,
+25-29,27,Master's degree,Student,1-2 years,Under 1 year,0.5,,
+25-29,27,Master's degree,Student,1-2 years,Under 1 year,0.1,,
+25-29,27,Master's degree,Currently not employed,< 1 years,Under 1 year,1.0,,
+25-29,27,Bachelor's degree,Business Analyst,1-2 years,,,,
+25-29,27,Master's degree,Data Analyst,1-2 years,,,,
+25-29,27,Master's degree,Software Engineer,5-10 years,,,,
+25-29,27,Master's degree,Student,3-5 years,,,,
+25-29,27,Master's degree,Student,3-5 years,,,,
+25-29,28,Bachelor's degree,Currently not employed,1-2 years,1-2 years,2,,
+25-29,28,Doctoral degree,Student,5-10 years,1-2 years,2,,
+25-29,28,Master's degree,Student,1-2 years,1-2 years,2,,
+25-29,28,Master's degree,Student,3-5 years,1-2 years,1,,
+25-29,28,Master's degree,Student,3-5 years,1-2 years,1,,
+25-29,28,Master's degree,Student,1-2 years,1-2 years,1,,
+25-29,28,Master's degree,Data Scientist,1-2 years,1-2 years,1,,
+25-29,28,Master's degree,Student,3-5 years,1-2 years,1,,
+25-29,28,Master's degree,Student,1-2 years,1-2 years,2,,
+25-29,28,Master's degree,Student,1-2 years,1-2 years,1,,
+25-29,28,Doctoral degree,Data Scientist,3-5 years,2-3 years,2,,
+25-29,28,Doctoral degree,Student,5-10 years,2-3 years,2,,
+25-29,28,Master's degree,Student,1-2 years,2-3 years,2,,
+25-29,28,Master's degree,Data Analyst,3-5 years,2-3 years,2,,
+25-29,28,Master's degree,Currently not employed,3-5 years,2-3 years,2,,
+25-29,28,Doctoral degree,Student,5-10 years,4-5 years,5,,
+25-29,28,Master's degree,Student,3-5 years,I do not use machine learning methods,0,,
+25-29,28,Master's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+25-29,28,Bachelor's degree,Student,1-2 years,Under 1 year,0.9,,
+25-29,28,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.9,,
+25-29,28,Bachelor's degree,Student,1-2 years,Under 1 year,0.9,,
+25-29,28,Doctoral degree,Student,3-5 years,Under 1 year,0.8,,
+25-29,28,Master's degree,Student,5-10 years,Under 1 year,0.3,,
+25-29,28,Master's degree,Software Engineer,3-5 years,Under 1 year,0.5,,
+25-29,28,Bachelor's degree,,,,,,
+25-29,28,Bachelor's degree,Currently not employed,I have never written code,,,,
+25-29,28,Master's degree,Data Engineer,3-5 years,,,,
+25-29,28,Master's degree,Product/Project Manager,< 1 years,,,,
+25-29,28,Master's degree,Student,3-5 years,,,,
+25-29,28,Master's degree,Data Engineer,3-5 years,,,,
+25-29,28,Master's degree,Business Analyst,,,,,
+25-29,28,Master's degree,,,,,,
+25-29,29,Doctoral degree,Student,1-2 years,1-2 years,2,,
+25-29,29,Doctoral degree,Student,3-5 years,1-2 years,1,,
+25-29,29,Doctoral degree,Student,3-5 years,1-2 years,1,,
+25-29,29,Master's degree,Student,3-5 years,1-2 years,1,,
+25-29,29,Master's degree,Student,3-5 years,1-2 years,2,,
+25-29,29,Master's degree,Currently not employed,5-10 years,1-2 years,1,,
+25-29,29,Master's degree,Student,5-10 years,3-4 years,4,,
+25-29,29,Master's degree,Machine Learning Engineer,3-5 years,4-5 years,4,,
+25-29,29,Master's degree,Student,3-5 years,4-5 years,4,,
+25-29,29,Master's degree,Student,5-10 years,4-5 years,5,,
+25-29,29,Bachelor's degree,Software Engineer,< 1 years,I do not use machine learning methods,0,,
+25-29,29,Bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+25-29,29,Master's degree,Student,< 1 years,I do not use machine learning methods,0,,
+25-29,29,Master's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+25-29,29,Some college/university study without earning a bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+25-29,29,Some college/university study without earning a bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+25-29,29,Bachelor's degree,Student,< 1 years,Under 1 year,0.1,,
+25-29,29,Bachelor's degree,Other,< 1 years,Under 1 year,0.1,,
+25-29,29,Master's degree,Currently not employed,< 1 years,Under 1 year,0.3,,
+25-29,29,Master's degree,Student,< 1 years,Under 1 year,0.9,,
+25-29,29,Master's degree,Student,3-5 years,Under 1 year,0.5,,
+25-29,29,Master's degree,Student,1-2 years,Under 1 year,0.2,,
+25-29,29,Master's degree,Currently not employed,1-2 years,Under 1 year,0.6,,
+25-29,29,Master's degree,Student,< 1 years,Under 1 year,0.8,,
+25-29,29,Master's degree,Student,3-5 years,Under 1 year,0.8,,
+25-29,29,Master's degree,Student,< 1 years,Under 1 year,0.4,,
+25-29,29,Master's degree,Student,1-2 years,Under 1 year,0.1,,
+25-29,29,Master's degree,Business Analyst,3-5 years,Under 1 year,0.0,,
+25-29,29,Bachelor's degree,Student,1-2 years,,,,
+25-29,29,Bachelor's degree,Business Analyst,,,,,
+25-29,29,Doctoral degree,Student,,,,,
+25-29,29,Master's degree,Data Scientist,1-2 years,,,,
+25-29,29,Master's degree,Software Engineer,5-10 years,,,,
+25-29,29,Master's degree,Other,< 1 years,,,,
+25-29,29,No formal education past high school,Currently not employed,1-2 years,,,,
+25-29,29,Some college/university study without earning a bachelor's degree,,,,,,
+30-34,32,Doctoral degree,Other,20+ years,10-20 years,13,"> $500,000",875419
+30-34,30,Doctoral degree,Data Scientist,5-10 years,3-4 years,3,$0-999,286
+30-34,30,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.9,$0-999,741
+30-34,30,Bachelor's degree,Other,1-2 years,Under 1 year,0.4,$0-999,956
+30-34,31,Some college/university study without earning a bachelor's degree,Business Analyst,I have never written code,,,$0-999,418
+30-34,31,Master's degree,Data Scientist,1-2 years,Under 1 year,0.3,$0-999,419
+30-34,31,Doctoral degree,Other,10-20 years,5-10 years,5,$0-999,840
+30-34,32,Master's degree,Data Engineer,10-20 years,1-2 years,1,$0-999,970
+30-34,33,Master's degree,Product/Project Manager,10-20 years,1-2 years,2,$0-999,353
+30-34,33,Doctoral degree,Research Scientist,1-2 years,Under 1 year,0.4,$0-999,956
+30-34,34,Doctoral degree,Machine Learning Engineer,3-5 years,1-2 years,1,$0-999,226
+30-34,34,Bachelor's degree,Software Engineer,3-5 years,Under 1 year,0.7,$0-999,468
+30-34,30,Master's degree,Machine Learning Engineer,1-2 years,1-2 years,2,"1,000-1,999",1073
+30-34,33,Doctoral degree,Data Scientist,5-10 years,1-2 years,1,"1,000-1,999",1628
+30-34,30,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"10,000-14,999",12779
+30-34,31,Master's degree,Product/Project Manager,5-10 years,1-2 years,2,"10,000-14,999",10422
+30-34,31,Bachelor's degree,Other,5-10 years,Under 1 year,0.4,"10,000-14,999",10906
+30-34,33,Master's degree,Software Engineer,3-5 years,2-3 years,3,"10,000-14,999",10105
+30-34,30,Doctoral degree,Software Engineer,5-10 years,1-2 years,2,"100,000-124,999",100889
+30-34,30,Master's degree,Data Scientist,5-10 years,3-4 years,4,"100,000-124,999",101099
+30-34,30,Bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"100,000-124,999",102295
+30-34,30,Master's degree,Data Scientist,5-10 years,2-3 years,3,"100,000-124,999",103553
+30-34,30,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.7,"100,000-124,999",105166
+30-34,30,Master's degree,Data Scientist,3-5 years,2-3 years,2,"100,000-124,999",106333
+30-34,30,Master's degree,Data Scientist,5-10 years,5-10 years,7,"100,000-124,999",108820
+30-34,30,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"100,000-124,999",109186
+30-34,30,Master's degree,Data Analyst,5-10 years,1-2 years,1,"100,000-124,999",110996
+30-34,30,Master's degree,Data Analyst,3-5 years,4-5 years,4,"100,000-124,999",112107
+30-34,30,I prefer not to answer,Research Scientist,10-20 years,1-2 years,2,"100,000-124,999",112950
+30-34,30,Master's degree,Other,5-10 years,1-2 years,2,"100,000-124,999",114510
+30-34,30,Bachelor's degree,Data Analyst,5-10 years,I do not use machine learning methods,0,"100,000-124,999",119465
+30-34,30,Bachelor's degree,Other,1-2 years,Under 1 year,0.5,"100,000-124,999",123940
+30-34,31,Master's degree,Data Scientist,3-5 years,2-3 years,3,"100,000-124,999",104182
+30-34,31,Master's degree,Other,3-5 years,2-3 years,3,"100,000-124,999",104300
+30-34,31,Master's degree,Data Analyst,3-5 years,1-2 years,2,"100,000-124,999",104587
+30-34,31,Doctoral degree,Data Scientist,5-10 years,3-4 years,3,"100,000-124,999",104971
+30-34,31,Bachelor's degree,Other,3-5 years,1-2 years,1,"100,000-124,999",109476
+30-34,31,Bachelor's degree,Data Scientist,5-10 years,5-10 years,8,"100,000-124,999",112252
+30-34,31,Doctoral degree,Data Scientist,10-20 years,5-10 years,7,"100,000-124,999",113352
+30-34,31,Bachelor's degree,Product/Project Manager,3-5 years,2-3 years,3,"100,000-124,999",113962
+30-34,31,Master's degree,Business Analyst,3-5 years,Under 1 year,0.5,"100,000-124,999",115585
+30-34,31,Master's degree,Data Analyst,3-5 years,Under 1 year,0.9,"100,000-124,999",119078
+30-34,31,Master's degree,Data Scientist,3-5 years,2-3 years,3,"100,000-124,999",122705
+30-34,32,Master's degree,Other,10-20 years,Under 1 year,0.6,"100,000-124,999",100958
+30-34,32,Doctoral degree,Research Scientist,10-20 years,3-4 years,4,"100,000-124,999",101271
+30-34,32,Master's degree,Software Engineer,3-5 years,Under 1 year,0.0,"100,000-124,999",101560
+30-34,32,Bachelor's degree,Research Scientist,3-5 years,3-4 years,3,"100,000-124,999",112254
+30-34,32,Bachelor's degree,Data Scientist,3-5 years,3-4 years,3,"100,000-124,999",113790
+30-34,32,Doctoral degree,Statistician,1-2 years,I do not use machine learning methods,0,"100,000-124,999",121811
+30-34,32,Master's degree,Software Engineer,1-2 years,I do not use machine learning methods,0,"100,000-124,999",124006
+30-34,32,Doctoral degree,Data Scientist,3-5 years,2-3 years,2,"100,000-124,999",124510
+30-34,33,Master's degree,Data Engineer,3-5 years,Under 1 year,0.6,"100,000-124,999",102197
+30-34,33,Master's degree,Data Engineer,5-10 years,1-2 years,1,"100,000-124,999",102335
+30-34,33,Master's degree,Other,< 1 years,I do not use machine learning methods,0,"100,000-124,999",103574
+30-34,33,Doctoral degree,Data Scientist,10-20 years,5-10 years,6,"100,000-124,999",105121
+30-34,33,Master's degree,Machine Learning Engineer,5-10 years,1-2 years,1,"100,000-124,999",106422
+30-34,33,Bachelor's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"100,000-124,999",106596
+30-34,33,Doctoral degree,Data Scientist,10-20 years,1-2 years,1,"100,000-124,999",107387
+30-34,33,Master's degree,Data Scientist,3-5 years,Under 1 year,0.1,"100,000-124,999",109440
+30-34,33,Master's degree,Business Analyst,I have never written code,,,"100,000-124,999",110359
+30-34,33,Master's degree,Data Engineer,5-10 years,1-2 years,2,"100,000-124,999",111334
+30-34,33,Bachelor's degree,Other,3-5 years,Under 1 year,0.7,"100,000-124,999",120331
+30-34,33,Doctoral degree,Data Scientist,5-10 years,5-10 years,10,"100,000-124,999",120894
+30-34,34,Master's degree,Data Scientist,3-5 years,3-4 years,4,"100,000-124,999",101595
+30-34,34,Doctoral degree,Data Scientist,3-5 years,1-2 years,2,"100,000-124,999",104118
+30-34,34,Master's degree,Business Analyst,3-5 years,3-4 years,4,"100,000-124,999",104354
+30-34,34,Master's degree,Data Scientist,10-20 years,4-5 years,4,"100,000-124,999",106442
+30-34,34,Master's degree,Research Scientist,5-10 years,5-10 years,6,"100,000-124,999",108718
+30-34,34,Doctoral degree,Data Scientist,3-5 years,2-3 years,3,"100,000-124,999",109240
+30-34,34,Master's degree,Data Scientist,10-20 years,10-20 years,10,"100,000-124,999",109822
+30-34,34,Master's degree,Data Engineer,10-20 years,1-2 years,2,"100,000-124,999",112464
+30-34,34,Bachelor's degree,Software Engineer,5-10 years,I do not use machine learning methods,0,"100,000-124,999",114091
+30-34,34,Bachelor's degree,Software Engineer,3-5 years,2-3 years,2,"100,000-124,999",114147
+30-34,34,Master's degree,Data Scientist,3-5 years,4-5 years,4,"100,000-124,999",115791
+30-34,34,Doctoral degree,Data Scientist,5-10 years,3-4 years,4,"100,000-124,999",116764
+30-34,34,Doctoral degree,Data Scientist,3-5 years,4-5 years,4,"100,000-124,999",117577
+30-34,34,Master's degree,Data Scientist,3-5 years,2-3 years,2,"100,000-124,999",120889
+30-34,34,Doctoral degree,Data Engineer,5-10 years,I do not use machine learning methods,0,"100,000-124,999",122357
+30-34,34,Doctoral degree,Data Scientist,5-10 years,3-4 years,3,"100,000-124,999",122675
+30-34,34,Some college/university study without earning a bachelor's degree,Software Engineer,5-10 years,2-3 years,2,"100,000-124,999",124739
+30-34,30,Master's degree,Other,1-2 years,2-3 years,3,"125,000-149,999",127428
+30-34,30,Master's degree,Software Engineer,5-10 years,Under 1 year,0.1,"125,000-149,999",128143
+30-34,30,Master's degree,Data Scientist,10-20 years,5-10 years,8,"125,000-149,999",128421
+30-34,30,Master's degree,Data Scientist,3-5 years,2-3 years,2,"125,000-149,999",128765
+30-34,30,Master's degree,Software Engineer,3-5 years,2-3 years,2,"125,000-149,999",130211
+30-34,30,Doctoral degree,Data Scientist,5-10 years,4-5 years,4,"125,000-149,999",139274
+30-34,30,Master's degree,Software Engineer,5-10 years,I do not use machine learning methods,0,"125,000-149,999",141475
+30-34,30,Doctoral degree,Other,3-5 years,Under 1 year,0.6,"125,000-149,999",141601
+30-34,30,Doctoral degree,Data Scientist,3-5 years,2-3 years,2,"125,000-149,999",141850
+30-34,30,Master's degree,Data Scientist,5-10 years,3-4 years,3,"125,000-149,999",142970
+30-34,30,Master's degree,Data Analyst,5-10 years,1-2 years,1,"125,000-149,999",143578
+30-34,30,Doctoral degree,Data Scientist,10-20 years,2-3 years,3,"125,000-149,999",144713
+30-34,30,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"125,000-149,999",148190
+30-34,30,Master's degree,Data Scientist,3-5 years,2-3 years,3,"125,000-149,999",148454
+30-34,31,Master's degree,Data Engineer,5-10 years,4-5 years,5,"125,000-149,999",128583
+30-34,31,Master's degree,Data Scientist,5-10 years,5-10 years,7,"125,000-149,999",130814
+30-34,31,Master's degree,Other,1-2 years,Under 1 year,0.2,"125,000-149,999",131663
+30-34,31,Bachelor's degree,Data Scientist,10-20 years,4-5 years,5,"125,000-149,999",132577
+30-34,31,Master's degree,Software Engineer,10-20 years,Under 1 year,0.6,"125,000-149,999",134308
+30-34,31,Doctoral degree,Machine Learning Engineer,10-20 years,5-10 years,5,"125,000-149,999",137461
+30-34,31,Master's degree,Data Scientist,5-10 years,5-10 years,6,"125,000-149,999",142488
+30-34,31,Doctoral degree,Data Scientist,5-10 years,4-5 years,5,"125,000-149,999",147735
+30-34,32,Master's degree,Other,5-10 years,1-2 years,1,"125,000-149,999",127135
+30-34,32,Master's degree,Data Scientist,3-5 years,1-2 years,2,"125,000-149,999",131146
+30-34,32,Master's degree,Data Scientist,3-5 years,1-2 years,1,"125,000-149,999",133807
+30-34,32,Master's degree,Software Engineer,10-20 years,Under 1 year,0.4,"125,000-149,999",134722
+30-34,32,Master's degree,Research Scientist,5-10 years,4-5 years,5,"125,000-149,999",136390
+30-34,32,Master's degree,Product/Project Manager,10-20 years,5-10 years,7,"125,000-149,999",138930
+30-34,32,Doctoral degree,Data Scientist,5-10 years,4-5 years,4,"125,000-149,999",140320
+30-34,32,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,5,"125,000-149,999",142803
+30-34,32,Doctoral degree,Data Scientist,5-10 years,2-3 years,2,"125,000-149,999",143719
+30-34,32,Master's degree,Other,5-10 years,5-10 years,7,"125,000-149,999",148409
+30-34,33,Master's degree,Research Scientist,5-10 years,4-5 years,4,"125,000-149,999",126790
+30-34,33,Master's degree,Research Scientist,5-10 years,4-5 years,4,"125,000-149,999",129173
+30-34,33,Master's degree,Machine Learning Engineer,5-10 years,3-4 years,4,"125,000-149,999",131261
+30-34,33,Some college/university study without earning a bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"125,000-149,999",133552
+30-34,33,Master's degree,Data Scientist,3-5 years,4-5 years,5,"125,000-149,999",138328
+30-34,33,Doctoral degree,Statistician,10-20 years,I do not use machine learning methods,0,"125,000-149,999",139022
+30-34,33,Doctoral degree,Research Scientist,3-5 years,Under 1 year,0.7,"125,000-149,999",140527
+30-34,33,Master's degree,Data Engineer,5-10 years,Under 1 year,0.2,"125,000-149,999",145305
+30-34,34,Master's degree,Product/Project Manager,3-5 years,2-3 years,2,"125,000-149,999",126835
+30-34,34,Master's degree,Data Engineer,10-20 years,4-5 years,5,"125,000-149,999",132988
+30-34,34,Master's degree,Data Engineer,5-10 years,1-2 years,1,"125,000-149,999",135762
+30-34,34,Doctoral degree,Data Scientist,10-20 years,4-5 years,4,"125,000-149,999",136056
+30-34,34,Master's degree,Data Scientist,10-20 years,4-5 years,5,"125,000-149,999",140543
+30-34,34,Doctoral degree,Data Scientist,5-10 years,4-5 years,4,"125,000-149,999",142502
+30-34,34,Some college/university study without earning a bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"125,000-149,999",144844
+30-34,34,Master's degree,Machine Learning Engineer,5-10 years,5-10 years,9,"125,000-149,999",146737
+30-34,34,Bachelor's degree,Data Scientist,5-10 years,5-10 years,7,"125,000-149,999",146870
+30-34,34,Doctoral degree,Data Scientist,10-20 years,10-20 years,12,"125,000-149,999",147589
+30-34,33,Doctoral degree,Other,3-5 years,Under 1 year,0.3,"15,000-19,999",18403
+30-34,30,Master's degree,Data Scientist,5-10 years,5-10 years,7,"150,000-199,999",152382
+30-34,30,Master's degree,Machine Learning Engineer,3-5 years,3-4 years,3,"150,000-199,999",158555
+30-34,30,Master's degree,Data Scientist,10-20 years,5-10 years,6,"150,000-199,999",161790
+30-34,30,Master's degree,Data Scientist,5-10 years,5-10 years,5,"150,000-199,999",161863
+30-34,30,Master's degree,Business Analyst,5-10 years,5-10 years,6,"150,000-199,999",164317
+30-34,30,Bachelor's degree,Software Engineer,3-5 years,1-2 years,2,"150,000-199,999",167491
+30-34,30,Master's degree,Machine Learning Engineer,3-5 years,4-5 years,5,"150,000-199,999",175537
+30-34,30,Master's degree,Data Scientist,10-20 years,5-10 years,7,"150,000-199,999",177339
+30-34,30,Master's degree,Other,10-20 years,Under 1 year,0.7,"150,000-199,999",179104
+30-34,31,Doctoral degree,Data Scientist,10-20 years,5-10 years,9,"150,000-199,999",151283
+30-34,31,Doctoral degree,Data Scientist,5-10 years,5-10 years,5,"150,000-199,999",158745
+30-34,31,Doctoral degree,Data Scientist,5-10 years,4-5 years,4,"150,000-199,999",160490
+30-34,31,Master's degree,Research Scientist,10-20 years,10-20 years,20,"150,000-199,999",166781
+30-34,31,Bachelor's degree,Software Engineer,5-10 years,Under 1 year,0.4,"150,000-199,999",168729
+30-34,31,Master's degree,Data Analyst,< 1 years,Under 1 year,0.9,"150,000-199,999",171526
+30-34,31,Master's degree,Product/Project Manager,5-10 years,4-5 years,4,"150,000-199,999",182495
+30-34,31,Master's degree,Data Scientist,3-5 years,2-3 years,2,"150,000-199,999",193062
+30-34,31,Master's degree,Other,1-2 years,Under 1 year,0.6,"150,000-199,999",196305
+30-34,31,Doctoral degree,Data Scientist,5-10 years,5-10 years,10,"150,000-199,999",196513
+30-34,31,Professional degree,Data Scientist,5-10 years,5-10 years,10,"150,000-199,999",197442
+30-34,31,Master's degree,Data Scientist,5-10 years,5-10 years,5,"150,000-199,999",198872
+30-34,32,Bachelor's degree,Data Scientist,5-10 years,5-10 years,7,"150,000-199,999",151806
+30-34,32,Master's degree,Data Scientist,10-20 years,5-10 years,6,"150,000-199,999",157785
+30-34,32,Doctoral degree,Data Scientist,10-20 years,3-4 years,4,"150,000-199,999",158028
+30-34,32,Master's degree,Other,5-10 years,5-10 years,10,"150,000-199,999",162647
+30-34,32,Master's degree,Data Scientist,3-5 years,4-5 years,5,"150,000-199,999",164895
+30-34,32,Doctoral degree,Research Scientist,< 1 years,I do not use machine learning methods,0,"150,000-199,999",168190
+30-34,32,Master's degree,Data Scientist,5-10 years,5-10 years,9,"150,000-199,999",190529
+30-34,33,Master's degree,Data Scientist,3-5 years,2-3 years,3,"150,000-199,999",159593
+30-34,34,Doctoral degree,Research Scientist,5-10 years,3-4 years,3,"150,000-199,999",155259
+30-34,34,Bachelor's degree,Business Analyst,5-10 years,2-3 years,2,"150,000-199,999",160367
+30-34,34,Master's degree,Data Scientist,5-10 years,4-5 years,4,"150,000-199,999",168869
+30-34,34,Doctoral degree,Data Scientist,3-5 years,4-5 years,4,"150,000-199,999",172017
+30-34,34,Master's degree,Data Scientist,10-20 years,3-4 years,4,"150,000-199,999",173652
+30-34,34,Doctoral degree,Data Scientist,10-20 years,4-5 years,5,"150,000-199,999",179232
+30-34,34,Master's degree,Data Scientist,5-10 years,4-5 years,5,"150,000-199,999",182851
+30-34,34,Master's degree,Machine Learning Engineer,5-10 years,5-10 years,10,"150,000-199,999",190853
+30-34,34,Master's degree,Product/Project Manager,1-2 years,I do not use machine learning methods,0,"150,000-199,999",198554
+30-34,33,Master's degree,Data Analyst,5-10 years,2-3 years,2,"20,000-24,999",21048
+30-34,30,Master's degree,Data Scientist,5-10 years,5-10 years,7,"200,000-249,999",215452
+30-34,30,Master's degree,Data Scientist,5-10 years,2-3 years,2,"200,000-249,999",227005
+30-34,30,Master's degree,Software Engineer,5-10 years,1-2 years,2,"200,000-249,999",233907
+30-34,30,Doctoral degree,Data Scientist,10-20 years,4-5 years,5,"200,000-249,999",243048
+30-34,30,Master's degree,Machine Learning Engineer,5-10 years,3-4 years,3,"200,000-249,999",243503
+30-34,31,Bachelor's degree,Data Scientist,3-5 years,4-5 years,4,"200,000-249,999",209642
+30-34,32,Doctoral degree,Other,10-20 years,1-2 years,1,"200,000-249,999",248615
+30-34,33,Master's degree,Data Scientist,1-2 years,1-2 years,1,"200,000-249,999",212598
+30-34,33,Master's degree,Data Scientist,10-20 years,10-20 years,12,"200,000-249,999",216017
+30-34,34,Some college/university study without earning a bachelor's degree,Other,5-10 years,2-3 years,2,"200,000-249,999",210858
+30-34,30,Some college/university study without earning a bachelor's degree,Other,1-2 years,Under 1 year,0.9,"25,000-29,999",29054
+30-34,32,Bachelor's degree,Other,< 1 years,Under 1 year,0.0,"25,000-29,999",26197
+30-34,30,Master's degree,Research Scientist,5-10 years,5-10 years,5,"250,000-299,999",295480
+30-34,32,Master's degree,Machine Learning Engineer,5-10 years,3-4 years,4,"250,000-299,999",251474
+30-34,33,Master's degree,Software Engineer,5-10 years,5-10 years,5,"250,000-299,999",276597
+30-34,33,Master's degree,Product/Project Manager,5-10 years,I do not use machine learning methods,0,"250,000-299,999",278694
+30-34,34,Bachelor's degree,Data Scientist,< 1 years,Under 1 year,0.4,"3,000-3,999",3381
+30-34,31,Doctoral degree,Research Scientist,3-5 years,1-2 years,1,"30,000-39,999",34031
+30-34,30,Doctoral degree,Software Engineer,10-20 years,4-5 years,5,"300,000-500,000",321877
+30-34,31,Master's degree,Data Scientist,5-10 years,10-20 years,19,"300,000-500,000",355906
+30-34,31,Doctoral degree,Data Scientist,10-20 years,4-5 years,5,"300,000-500,000",405454
+30-34,31,Bachelor's degree,Data Scientist,10-20 years,5-10 years,7,"300,000-500,000",423276
+30-34,33,Doctoral degree,Product/Project Manager,10-20 years,5-10 years,6,"300,000-500,000",386001
+30-34,33,Master's degree,Data Scientist,10-20 years,5-10 years,10,"300,000-500,000",455027
+30-34,30,Bachelor's degree,Business Analyst,1-2 years,1-2 years,2,"40,000-49,999",49879
+30-34,31,Bachelor's degree,Other,1-2 years,I do not use machine learning methods,0,"40,000-49,999",47962
+30-34,31,Some college/university study without earning a bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"40,000-49,999",49369
+30-34,32,Master's degree,Business Analyst,1-2 years,1-2 years,2,"40,000-49,999",45788
+30-34,32,Master's degree,Software Engineer,5-10 years,1-2 years,1,"40,000-49,999",48386
+30-34,33,Doctoral degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"40,000-49,999",44722
+30-34,33,Bachelor's degree,Other,I have never written code,,,"40,000-49,999",47158
+30-34,30,Doctoral degree,Research Scientist,5-10 years,2-3 years,2,"5,000-7,499",5037
+30-34,31,Master's degree,Data Scientist,5-10 years,1-2 years,2,"5,000-7,499",7976
+30-34,33,Bachelor's degree,Other,< 1 years,Under 1 year,0.3,"5,000-7,499",5696
+30-34,30,Doctoral degree,Research Scientist,10-20 years,2-3 years,2,"50,000-59,999",52211
+30-34,30,Master's degree,Data Analyst,3-5 years,Under 1 year,0.7,"50,000-59,999",55712
+30-34,31,Bachelor's degree,Other,1-2 years,Under 1 year,0.7,"50,000-59,999",57695
+30-34,32,Master's degree,Business Analyst,5-10 years,2-3 years,2,"50,000-59,999",50564
+30-34,32,Doctoral degree,Research Scientist,5-10 years,Under 1 year,0.7,"50,000-59,999",51689
+30-34,32,Master's degree,Other,1-2 years,1-2 years,2,"50,000-59,999",59899
+30-34,33,Master's degree,Data Analyst,5-10 years,Under 1 year,0.4,"50,000-59,999",51422
+30-34,34,Doctoral degree,Other,5-10 years,Under 1 year,0.5,"50,000-59,999",52819
+30-34,34,Master's degree,Business Analyst,1-2 years,Under 1 year,0.7,"50,000-59,999",57589
+30-34,30,Master's degree,Other,1-2 years,Under 1 year,0.2,"60,000-69,999",68768
+30-34,30,Master's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"60,000-69,999",68785
+30-34,31,Master's degree,Other,3-5 years,I do not use machine learning methods,0,"60,000-69,999",62197
+30-34,31,Doctoral degree,Machine Learning Engineer,3-5 years,2-3 years,3,"60,000-69,999",68056
+30-34,32,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"60,000-69,999",61490
+30-34,33,Bachelor's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"60,000-69,999",61919
+30-34,33,Master's degree,Data Scientist,3-5 years,1-2 years,1,"60,000-69,999",66123
+30-34,33,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"60,000-69,999",67191
+30-34,33,Master's degree,Business Analyst,1-2 years,I do not use machine learning methods,0,"60,000-69,999",67306
+30-34,34,Master's degree,Data Analyst,1-2 years,1-2 years,2,"60,000-69,999",60461
+30-34,34,Doctoral degree,Other,< 1 years,Under 1 year,0.1,"60,000-69,999",60703
+30-34,34,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"60,000-69,999",61150
+30-34,34,Doctoral degree,Research Scientist,5-10 years,1-2 years,1,"60,000-69,999",65068
+30-34,34,Doctoral degree,Research Scientist,5-10 years,4-5 years,5,"60,000-69,999",66158
+30-34,34,Bachelor's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"60,000-69,999",69862
+30-34,30,Bachelor's degree,Business Analyst,3-5 years,1-2 years,1,"70,000-79,999",73262
+30-34,30,Master's degree,Data Scientist,3-5 years,2-3 years,2,"70,000-79,999",74268
+30-34,30,Master's degree,Other,3-5 years,3-4 years,3,"70,000-79,999",76061
+30-34,30,Master's degree,Data Scientist,1-2 years,3-4 years,4,"70,000-79,999",78421
+30-34,30,Doctoral degree,Research Scientist,10-20 years,5-10 years,8,"70,000-79,999",78447
+30-34,31,Bachelor's degree,Software Engineer,1-2 years,I do not use machine learning methods,0,"70,000-79,999",70710
+30-34,31,Master's degree,Business Analyst,1-2 years,1-2 years,2,"70,000-79,999",71051
+30-34,31,Bachelor's degree,Data Scientist,5-10 years,4-5 years,4,"70,000-79,999",72341
+30-34,31,Doctoral degree,Data Scientist,3-5 years,1-2 years,2,"70,000-79,999",78665
+30-34,31,Some college/university study without earning a bachelor's degree,Data Scientist,1-2 years,1-2 years,2,"70,000-79,999",79993
+30-34,32,Some college/university study without earning a bachelor's degree,Software Engineer,1-2 years,Under 1 year,0.7,"70,000-79,999",72195
+30-34,32,Master's degree,Other,1-2 years,1-2 years,1,"70,000-79,999",75110
+30-34,32,Master's degree,Data Analyst,3-5 years,2-3 years,2,"70,000-79,999",79481
+30-34,33,Doctoral degree,Data Scientist,10-20 years,3-4 years,3,"70,000-79,999",73519
+30-34,33,Doctoral degree,Research Scientist,10-20 years,5-10 years,7,"70,000-79,999",73916
+30-34,34,Master's degree,Software Engineer,3-5 years,1-2 years,2,"70,000-79,999",72113
+30-34,34,Master's degree,Business Analyst,3-5 years,3-4 years,4,"70,000-79,999",72224
+30-34,34,Master's degree,Machine Learning Engineer,3-5 years,4-5 years,4,"70,000-79,999",73832
+30-34,34,Master's degree,Research Scientist,1-2 years,1-2 years,2,"70,000-79,999",75349
+30-34,34,Master's degree,Data Analyst,3-5 years,1-2 years,2,"70,000-79,999",76016
+30-34,34,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"70,000-79,999",76393
+30-34,34,Master's degree,Other,5-10 years,4-5 years,5,"70,000-79,999",77681
+30-34,34,Master's degree,Business Analyst,5-10 years,2-3 years,2,"70,000-79,999",79545
+30-34,30,Doctoral degree,Research Scientist,5-10 years,1-2 years,2,"80,000-89,999",82773
+30-34,30,Master's degree,Data Analyst,3-5 years,2-3 years,3,"80,000-89,999",85190
+30-34,31,Master's degree,Data Analyst,10-20 years,3-4 years,4,"80,000-89,999",81303
+30-34,31,Doctoral degree,Research Scientist,10-20 years,5-10 years,8,"80,000-89,999",82261
+30-34,32,Bachelor's degree,Product/Project Manager,3-5 years,1-2 years,2,"80,000-89,999",80380
+30-34,32,Master's degree,Other,I have never written code,,,"80,000-89,999",80924
+30-34,32,Bachelor's degree,Software Engineer,10-20 years,1-2 years,2,"80,000-89,999",81841
+30-34,32,Doctoral degree,Data Scientist,1-2 years,1-2 years,2,"80,000-89,999",82290
+30-34,32,Master's degree,Data Scientist,1-2 years,1-2 years,2,"80,000-89,999",83233
+30-34,32,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.6,"80,000-89,999",86153
+30-34,32,Master's degree,Other,3-5 years,1-2 years,1,"80,000-89,999",87285
+30-34,32,Master's degree,Data Analyst,1-2 years,Under 1 year,0.1,"80,000-89,999",87322
+30-34,32,Master's degree,Other,1-2 years,Under 1 year,0.1,"80,000-89,999",87766
+30-34,33,Bachelor's degree,Business Analyst,3-5 years,I do not use machine learning methods,0,"80,000-89,999",83609
+30-34,33,Bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"80,000-89,999",86071
+30-34,33,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"80,000-89,999",87455
+30-34,33,Master's degree,Data Scientist,5-10 years,3-4 years,3,"80,000-89,999",88997
+30-34,34,Doctoral degree,Data Engineer,5-10 years,2-3 years,2,"80,000-89,999",80076
+30-34,34,Master's degree,Data Engineer,3-5 years,Under 1 year,0.7,"80,000-89,999",83685
+30-34,34,Master's degree,Business Analyst,3-5 years,2-3 years,3,"80,000-89,999",86006
+30-34,34,Master's degree,Software Engineer,10-20 years,Under 1 year,0.4,"80,000-89,999",87483
+30-34,34,Bachelor's degree,DBA/Database Engineer,5-10 years,I do not use machine learning methods,0,"80,000-89,999",87969
+30-34,34,Master's degree,Data Scientist,5-10 years,3-4 years,3,"80,000-89,999",88788
+30-34,30,Master's degree,Data Scientist,3-5 years,2-3 years,2,"90,000-99,999",94217
+30-34,30,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"90,000-99,999",94387
+30-34,30,Doctoral degree,Data Scientist,5-10 years,2-3 years,2,"90,000-99,999",96406
+30-34,30,Master's degree,Data Analyst,3-5 years,2-3 years,3,"90,000-99,999",97671
+30-34,30,Master's degree,Machine Learning Engineer,5-10 years,5-10 years,6,"90,000-99,999",98619
+30-34,31,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"90,000-99,999",91160
+30-34,31,Bachelor's degree,Data Scientist,5-10 years,3-4 years,3,"90,000-99,999",94421
+30-34,31,Bachelor's degree,Research Scientist,1-2 years,I do not use machine learning methods,0,"90,000-99,999",95836
+30-34,31,Doctoral degree,Data Scientist,3-5 years,3-4 years,4,"90,000-99,999",96315
+30-34,31,Master's degree,Data Scientist,3-5 years,3-4 years,4,"90,000-99,999",96928
+30-34,32,Some college/university study without earning a bachelor's degree,Software Engineer,5-10 years,2-3 years,2,"90,000-99,999",90079
+30-34,32,Master's degree,Machine Learning Engineer,3-5 years,1-2 years,2,"90,000-99,999",93925
+30-34,32,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.7,"90,000-99,999",95261
+30-34,33,Bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"90,000-99,999",91843
+30-34,33,Master's degree,Data Scientist,3-5 years,2-3 years,3,"90,000-99,999",94623
+30-34,33,Bachelor's degree,Data Analyst,5-10 years,Under 1 year,0.1,"90,000-99,999",98313
+30-34,33,Master's degree,Product/Project Manager,20+ years,I do not use machine learning methods,0,"90,000-99,999",98656
+30-34,33,Master's degree,Data Scientist,3-5 years,2-3 years,3,"90,000-99,999",99662
+30-34,34,Bachelor's degree,Other,3-5 years,1-2 years,1,"90,000-99,999",91291
+30-34,34,Bachelor's degree,Data Engineer,5-10 years,2-3 years,3,"90,000-99,999",91503
+30-34,34,Master's degree,Data Scientist,5-10 years,3-4 years,3,"90,000-99,999",93972
+30-34,34,Master's degree,Statistician,3-5 years,Under 1 year,0.4,"90,000-99,999",95999
+30-34,34,Master's degree,Other,5-10 years,Under 1 year,0.8,"90,000-99,999",97513
+30-34,30,Doctoral degree,Currently not employed,5-10 years,1-2 years,2,,
+30-34,30,Master's degree,Data Scientist,3-5 years,1-2 years,1,,
+30-34,30,Master's degree,Currently not employed,1-2 years,2-3 years,3,,
+30-34,30,Doctoral degree,Student,3-5 years,3-4 years,4,,
+30-34,30,Bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+30-34,30,Master's degree,Student,1-2 years,I do not use machine learning methods,0,,
+30-34,30,Bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.9,,
+30-34,30,Bachelor's degree,Software Engineer,3-5 years,Under 1 year,0.4,,
+30-34,30,Master's degree,Currently not employed,1-2 years,Under 1 year,0.7,,
+30-34,30,Master's degree,Currently not employed,1-2 years,Under 1 year,0.2,,
+30-34,30,Master's degree,Currently not employed,< 1 years,Under 1 year,0.1,,
+30-34,30,Bachelor's degree,Software Engineer,3-5 years,,,,
+30-34,30,Bachelor's degree,Business Analyst,< 1 years,,,,
+30-34,30,I prefer not to answer,Student,< 1 years,,,,
+30-34,30,Master's degree,Currently not employed,I have never written code,,,,
+30-34,30,Master's degree,Data Analyst,3-5 years,,,,
+30-34,30,Master's degree,Currently not employed,< 1 years,,,,
+30-34,30,Master's degree,Business Analyst,1-2 years,,,,
+30-34,30,Master's degree,Data Scientist,5-10 years,,,,
+30-34,30,Master's degree,Student,< 1 years,,,,
+30-34,30,Professional degree,Data Analyst,,,,,
+30-34,31,Bachelor's degree,Currently not employed,1-2 years,1-2 years,2,,
+30-34,31,Master's degree,Data Scientist,5-10 years,1-2 years,2,,
+30-34,31,Doctoral degree,Student,10-20 years,2-3 years,3,,
+30-34,31,Doctoral degree,Currently not employed,5-10 years,4-5 years,4,,
+30-34,31,Bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+30-34,31,Master's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+30-34,31,Bachelor's degree,Currently not employed,< 1 years,Under 1 year,0.5,,
+30-34,31,Bachelor's degree,Student,I have never written code,,,,
+30-34,31,Bachelor's degree,Product/Project Manager,10-20 years,,,,
+30-34,31,Bachelor's degree,,,,,,
+30-34,31,Doctoral degree,Student,1-2 years,,,,
+30-34,31,Master's degree,,,,,,
+30-34,31,Master's degree,Data Analyst,< 1 years,,,,
+30-34,32,Bachelor's degree,Student,1-2 years,1-2 years,1,,
+30-34,32,Master's degree,Currently not employed,5-10 years,2-3 years,3,,
+30-34,32,Doctoral degree,Student,3-5 years,4-5 years,5,,
+30-34,32,Bachelor's degree,Currently not employed,10-20 years,5-10 years,6,,
+30-34,32,Doctoral degree,Student,10-20 years,5-10 years,10,,
+30-34,32,Bachelor's degree,Student,< 1 years,Under 1 year,1.0,,
+30-34,32,Bachelor's degree,DBA/Database Engineer,5-10 years,Under 1 year,0.6,,
+30-34,32,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.9,,
+30-34,32,Bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.8,,
+30-34,32,Doctoral degree,Currently not employed,< 1 years,Under 1 year,0.2,,
+30-34,32,Doctoral degree,Student,1-2 years,Under 1 year,0.7,,
+30-34,32,Doctoral degree,Currently not employed,10-20 years,Under 1 year,0.7,,
+30-34,32,Doctoral degree,Machine Learning Engineer,3-5 years,,,,
+30-34,32,Master's degree,Business Analyst,< 1 years,,,,
+30-34,32,Master's degree,Machine Learning Engineer,5-10 years,,,,
+30-34,32,Master's degree,Student,I have never written code,,,,
+30-34,32,Master's degree,Software Engineer,10-20 years,,,,
+30-34,32,Professional degree,Data Analyst,3-5 years,,,,
+30-34,33,Doctoral degree,Student,3-5 years,1-2 years,2,,
+30-34,33,Doctoral degree,Student,1-2 years,1-2 years,1,,
+30-34,33,Doctoral degree,Student,1-2 years,1-2 years,2,,
+30-34,33,Master's degree,Data Engineer,5-10 years,1-2 years,2,,
+30-34,33,Master's degree,Student,1-2 years,1-2 years,1,,
+30-34,33,Professional degree,Currently not employed,1-2 years,1-2 years,2,,
+30-34,33,Doctoral degree,Research Scientist,3-5 years,2-3 years,2,,
+30-34,33,Master's degree,Data Scientist,3-5 years,3-4 years,3,,
+30-34,33,Professional degree,Currently not employed,5-10 years,4-5 years,5,,
+30-34,33,Master's degree,Software Engineer,10-20 years,5-10 years,5,,
+30-34,33,Master's degree,Student,< 1 years,I do not use machine learning methods,0,,
+30-34,33,Master's degree,Currently not employed,3-5 years,I do not use machine learning methods,0,,
+30-34,33,Some college/university study without earning a bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+30-34,33,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.1,,
+30-34,33,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.6,,
+30-34,33,Bachelor's degree,Currently not employed,1-2 years,Under 1 year,0.0,,
+30-34,33,Doctoral degree,Student,< 1 years,Under 1 year,0.7,,
+30-34,33,Doctoral degree,Currently not employed,5-10 years,Under 1 year,0.9,,
+30-34,33,Master's degree,Student,1-2 years,Under 1 year,0.2,,
+30-34,33,Master's degree,Currently not employed,< 1 years,Under 1 year,0.7,,
+30-34,33,Bachelor's degree,Software Engineer,10-20 years,,,,
+30-34,33,Doctoral degree,Student,1-2 years,,,,
+30-34,33,Master's degree,Other,I have never written code,,,,
+30-34,33,Master's degree,Currently not employed,I have never written code,,,,
+30-34,33,Master's degree,,,,,,
+30-34,33,Master's degree,Software Engineer,5-10 years,,,,
+30-34,33,Master's degree,Student,< 1 years,,,,
+30-34,34,Master's degree,Student,3-5 years,1-2 years,1,,
+30-34,34,Master's degree,Currently not employed,1-2 years,1-2 years,1,,
+30-34,34,Master's degree,Data Engineer,5-10 years,1-2 years,1,,
+30-34,34,Master's degree,Student,1-2 years,1-2 years,2,,
+30-34,34,Master's degree,Currently not employed,10-20 years,2-3 years,2,,
+30-34,34,Master's degree,Student,5-10 years,2-3 years,3,,
+30-34,34,Master's degree,Student,3-5 years,3-4 years,3,,
+30-34,34,Doctoral degree,Machine Learning Engineer,5-10 years,5-10 years,10,,
+30-34,34,Bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+30-34,34,Bachelor's degree,Currently not employed,3-5 years,I do not use machine learning methods,0,,
+30-34,34,Bachelor's degree,Currently not employed,5-10 years,Under 1 year,0.4,,
+30-34,34,Doctoral degree,Student,5-10 years,Under 1 year,0.6,,
+30-34,34,Master's degree,Other,5-10 years,Under 1 year,0.7,,
+30-34,34,Bachelor's degree,Student,3-5 years,,,,
+30-34,34,Bachelor's degree,Student,I have never written code,,,,
+30-34,34,Master's degree,Student,< 1 years,,,,
+30-34,34,Master's degree,Student,I have never written code,,,,
+30-34,34,Master's degree,Data Analyst,,,,,
+30-34,34,Some college/university study without earning a bachelor's degree,Software Engineer,5-10 years,,,,
+35-39,35,Doctoral degree,Research Scientist,10-20 years,20 or more years,23,"> $500,000",662044
+35-39,35,Master's degree,Data Analyst,3-5 years,4-5 years,5,$0-999,13
+35-39,35,Master's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,$0-999,187
+35-39,35,Bachelor's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,$0-999,340
+35-39,35,Master's degree,Software Engineer,10-20 years,Under 1 year,0.1,$0-999,374
+35-39,35,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,20 or more years,29,$0-999,654
+35-39,36,Some college/university study without earning a bachelor's degree,Software Engineer,< 1 years,Under 1 year,0.1,$0-999,145
+35-39,37,Bachelor's degree,Other,5-10 years,1-2 years,2,$0-999,323
+35-39,37,Master's degree,Data Analyst,5-10 years,1-2 years,1,$0-999,425
+35-39,37,Bachelor's degree,Other,20+ years,Under 1 year,0.7,$0-999,436
+35-39,38,Master's degree,Other,10-20 years,5-10 years,5,$0-999,181
+35-39,38,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.6,$0-999,274
+35-39,39,Bachelor's degree,Machine Learning Engineer,20+ years,5-10 years,6,$0-999,248
+35-39,39,Bachelor's degree,Other,3-5 years,Under 1 year,0.9,$0-999,379
+35-39,39,Some college/university study without earning a bachelor's degree,Other,10-20 years,1-2 years,1,$0-999,985
+35-39,35,Doctoral degree,Research Scientist,1-2 years,Under 1 year,0.5,"1,000-1,999",1382
+35-39,35,Bachelor's degree,Machine Learning Engineer,3-5 years,2-3 years,3,"100,000-124,999",102310
+35-39,35,Master's degree,Data Scientist,5-10 years,Under 1 year,0.6,"100,000-124,999",104931
+35-39,35,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.7,"100,000-124,999",107901
+35-39,35,Doctoral degree,Statistician,10-20 years,Under 1 year,0.1,"100,000-124,999",111097
+35-39,35,Professional degree,Software Engineer,10-20 years,3-4 years,3,"100,000-124,999",115260
+35-39,35,Master's degree,Other,3-5 years,Under 1 year,0.7,"100,000-124,999",116821
+35-39,35,Master's degree,Machine Learning Engineer,10-20 years,10-20 years,20,"100,000-124,999",120699
+35-39,35,Master's degree,Data Scientist,5-10 years,5-10 years,9,"100,000-124,999",121480
+35-39,35,Some college/university study without earning a bachelor's degree,Business Analyst,10-20 years,Under 1 year,0.1,"100,000-124,999",124981
+35-39,36,Master's degree,Research Scientist,5-10 years,5-10 years,10,"100,000-124,999",104443
+35-39,36,Master's degree,Business Analyst,5-10 years,I do not use machine learning methods,0,"100,000-124,999",105265
+35-39,36,Master's degree,Product/Project Manager,10-20 years,1-2 years,1,"100,000-124,999",110174
+35-39,36,Bachelor's degree,Product/Project Manager,10-20 years,I do not use machine learning methods,0,"100,000-124,999",111751
+35-39,36,Bachelor's degree,Data Analyst,5-10 years,I do not use machine learning methods,0,"100,000-124,999",117921
+35-39,36,Doctoral degree,Research Scientist,10-20 years,4-5 years,4,"100,000-124,999",119508
+35-39,36,Doctoral degree,Research Scientist,1-2 years,1-2 years,1,"100,000-124,999",123749
+35-39,37,Master's degree,Data Scientist,5-10 years,5-10 years,9,"100,000-124,999",100694
+35-39,37,Bachelor's degree,Data Engineer,< 1 years,Under 1 year,0.2,"100,000-124,999",102400
+35-39,37,Doctoral degree,Data Analyst,5-10 years,I do not use machine learning methods,0,"100,000-124,999",111237
+35-39,37,Doctoral degree,Data Scientist,5-10 years,2-3 years,2,"100,000-124,999",112048
+35-39,37,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.2,"100,000-124,999",113203
+35-39,37,Master's degree,Research Scientist,10-20 years,2-3 years,2,"100,000-124,999",113243
+35-39,37,Master's degree,Data Analyst,1-2 years,Under 1 year,0.3,"100,000-124,999",113422
+35-39,37,Master's degree,Machine Learning Engineer,10-20 years,5-10 years,8,"100,000-124,999",113497
+35-39,37,Master's degree,Data Engineer,10-20 years,1-2 years,2,"100,000-124,999",113798
+35-39,37,Doctoral degree,Data Scientist,5-10 years,2-3 years,2,"100,000-124,999",115162
+35-39,37,Doctoral degree,Other,5-10 years,5-10 years,8,"100,000-124,999",124700
+35-39,38,Master's degree,Machine Learning Engineer,10-20 years,Under 1 year,0.0,"100,000-124,999",103461
+35-39,38,Master's degree,Business Analyst,10-20 years,4-5 years,5,"100,000-124,999",108814
+35-39,38,Professional degree,Data Scientist,5-10 years,4-5 years,4,"100,000-124,999",109711
+35-39,38,Master's degree,Data Analyst,10-20 years,I do not use machine learning methods,0,"100,000-124,999",116824
+35-39,38,Professional degree,Data Analyst,10-20 years,Under 1 year,0.2,"100,000-124,999",124343
+35-39,39,Master's degree,DBA/Database Engineer,5-10 years,I do not use machine learning methods,0,"100,000-124,999",103296
+35-39,39,Bachelor's degree,Data Scientist,5-10 years,4-5 years,5,"100,000-124,999",104765
+35-39,39,Master's degree,Data Scientist,10-20 years,10-20 years,16,"100,000-124,999",110662
+35-39,39,Master's degree,Statistician,5-10 years,4-5 years,5,"100,000-124,999",116189
+35-39,39,Master's degree,Data Engineer,5-10 years,1-2 years,1,"100,000-124,999",117198
+35-39,39,Master's degree,Business Analyst,10-20 years,10-20 years,14,"100,000-124,999",120899
+35-39,35,Doctoral degree,Other,5-10 years,4-5 years,4,"125,000-149,999",137738
+35-39,35,Master's degree,Data Analyst,3-5 years,2-3 years,3,"125,000-149,999",144308
+35-39,35,Master's degree,Business Analyst,3-5 years,I do not use machine learning methods,0,"125,000-149,999",144773
+35-39,35,Bachelor's degree,Data Scientist,10-20 years,1-2 years,1,"125,000-149,999",147434
+35-39,36,Doctoral degree,Data Scientist,5-10 years,3-4 years,4,"125,000-149,999",134490
+35-39,36,Master's degree,Data Scientist,3-5 years,3-4 years,3,"125,000-149,999",135667
+35-39,36,Doctoral degree,Research Scientist,< 1 years,Under 1 year,0.4,"125,000-149,999",136958
+35-39,36,Master's degree,Data Scientist,10-20 years,4-5 years,5,"125,000-149,999",141448
+35-39,36,Master's degree,Product/Project Manager,I have never written code,,,"125,000-149,999",141621
+35-39,36,Master's degree,Product/Project Manager,< 1 years,Under 1 year,0.2,"125,000-149,999",141878
+35-39,36,Master's degree,Data Scientist,5-10 years,4-5 years,4,"125,000-149,999",143229
+35-39,36,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,5-10 years,2-3 years,2,"125,000-149,999",144495
+35-39,36,Doctoral degree,Data Scientist,5-10 years,5-10 years,5,"125,000-149,999",144550
+35-39,36,Bachelor's degree,Product/Project Manager,5-10 years,5-10 years,10,"125,000-149,999",145232
+35-39,37,Bachelor's degree,Data Scientist,3-5 years,2-3 years,2,"125,000-149,999",128610
+35-39,37,Master's degree,Data Scientist,5-10 years,10-20 years,17,"125,000-149,999",131035
+35-39,37,Doctoral degree,Data Scientist,10-20 years,5-10 years,10,"125,000-149,999",134084
+35-39,37,Master's degree,Other,< 1 years,I do not use machine learning methods,0,"125,000-149,999",145090
+35-39,37,Master's degree,Data Engineer,1-2 years,3-4 years,4,"125,000-149,999",148339
+35-39,37,Master's degree,Product/Project Manager,5-10 years,5-10 years,5,"125,000-149,999",149081
+35-39,38,Bachelor's degree,Machine Learning Engineer,5-10 years,4-5 years,4,"125,000-149,999",126132
+35-39,38,Doctoral degree,Research Scientist,10-20 years,20 or more years,28,"125,000-149,999",128743
+35-39,38,Doctoral degree,Data Scientist,5-10 years,5-10 years,7,"125,000-149,999",129020
+35-39,38,Bachelor's degree,Product/Project Manager,10-20 years,Under 1 year,0.6,"125,000-149,999",129465
+35-39,38,Master's degree,Other,20+ years,5-10 years,8,"125,000-149,999",129529
+35-39,38,Doctoral degree,Data Scientist,10-20 years,4-5 years,4,"125,000-149,999",133615
+35-39,38,Bachelor's degree,Data Engineer,10-20 years,I do not use machine learning methods,0,"125,000-149,999",136616
+35-39,38,Master's degree,Data Analyst,10-20 years,10-20 years,20,"125,000-149,999",138498
+35-39,38,Master's degree,Data Scientist,5-10 years,5-10 years,8,"125,000-149,999",143275
+35-39,38,Doctoral degree,Research Scientist,20+ years,2-3 years,3,"125,000-149,999",145423
+35-39,39,Bachelor's degree,Product/Project Manager,3-5 years,I do not use machine learning methods,0,"125,000-149,999",126174
+35-39,39,Some college/university study without earning a bachelor's degree,Data Scientist,10-20 years,5-10 years,5,"125,000-149,999",129531
+35-39,39,Doctoral degree,Data Scientist,10-20 years,5-10 years,10,"125,000-149,999",132704
+35-39,39,Doctoral degree,Data Scientist,5-10 years,3-4 years,4,"125,000-149,999",133323
+35-39,39,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.4,"125,000-149,999",137129
+35-39,39,Master's degree,Data Scientist,10-20 years,10-20 years,10,"125,000-149,999",146516
+35-39,39,Master's degree,Product/Project Manager,I have never written code,,,"125,000-149,999",148249
+35-39,35,Doctoral degree,Research Scientist,10-20 years,3-4 years,4,"150,000-199,999",152104
+35-39,35,Doctoral degree,Machine Learning Engineer,5-10 years,5-10 years,8,"150,000-199,999",152709
+35-39,35,Master's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"150,000-199,999",167626
+35-39,35,Bachelor's degree,Business Analyst,I have never written code,,,"150,000-199,999",170788
+35-39,35,Doctoral degree,Data Scientist,5-10 years,3-4 years,3,"150,000-199,999",186238
+35-39,35,Doctoral degree,Machine Learning Engineer,10-20 years,5-10 years,9,"150,000-199,999",188361
+35-39,35,Master's degree,Data Scientist,3-5 years,3-4 years,4,"150,000-199,999",195994
+35-39,35,Doctoral degree,Data Scientist,20+ years,10-20 years,15,"150,000-199,999",197551
+35-39,36,Master's degree,Other,5-10 years,3-4 years,4,"150,000-199,999",161111
+35-39,36,Doctoral degree,Machine Learning Engineer,10-20 years,4-5 years,4,"150,000-199,999",166029
+35-39,36,Master's degree,Machine Learning Engineer,10-20 years,3-4 years,3,"150,000-199,999",177993
+35-39,36,Doctoral degree,Machine Learning Engineer,5-10 years,5-10 years,6,"150,000-199,999",187444
+35-39,36,Doctoral degree,Software Engineer,20+ years,10-20 years,18,"150,000-199,999",190538
+35-39,36,Doctoral degree,Data Scientist,5-10 years,5-10 years,6,"150,000-199,999",190563
+35-39,36,Doctoral degree,Data Scientist,10-20 years,10-20 years,13,"150,000-199,999",199511
+35-39,37,Master's degree,Data Scientist,20+ years,10-20 years,15,"150,000-199,999",162602
+35-39,37,Master's degree,Machine Learning Engineer,20+ years,5-10 years,7,"150,000-199,999",166666
+35-39,37,Doctoral degree,Data Scientist,10-20 years,5-10 years,8,"150,000-199,999",167673
+35-39,37,Doctoral degree,Other,10-20 years,4-5 years,5,"150,000-199,999",187381
+35-39,37,Bachelor's degree,Other,20+ years,10-20 years,17,"150,000-199,999",187679
+35-39,37,Master's degree,Software Engineer,10-20 years,5-10 years,5,"150,000-199,999",189650
+35-39,37,Master's degree,Machine Learning Engineer,5-10 years,5-10 years,10,"150,000-199,999",192597
+35-39,37,Doctoral degree,Data Scientist,10-20 years,4-5 years,4,"150,000-199,999",194549
+35-39,38,Master's degree,Research Scientist,5-10 years,4-5 years,4,"150,000-199,999",152193
+35-39,38,Bachelor's degree,Data Engineer,5-10 years,1-2 years,2,"150,000-199,999",160532
+35-39,38,Master's degree,Data Engineer,5-10 years,2-3 years,3,"150,000-199,999",164537
+35-39,38,Master's degree,Data Scientist,10-20 years,4-5 years,5,"150,000-199,999",169214
+35-39,38,Master's degree,Data Scientist,3-5 years,1-2 years,2,"150,000-199,999",170203
+35-39,38,Master's degree,Other,< 1 years,Under 1 year,0.8,"150,000-199,999",176210
+35-39,38,Master's degree,Data Scientist,5-10 years,5-10 years,7,"150,000-199,999",183256
+35-39,38,Master's degree,Data Scientist,10-20 years,4-5 years,4,"150,000-199,999",190026
+35-39,38,Doctoral degree,Data Scientist,20+ years,4-5 years,4,"150,000-199,999",194964
+35-39,38,Doctoral degree,Data Scientist,3-5 years,3-4 years,4,"150,000-199,999",195123
+35-39,38,Master's degree,Data Scientist,3-5 years,4-5 years,4,"150,000-199,999",195693
+35-39,38,Master's degree,Business Analyst,5-10 years,5-10 years,8,"150,000-199,999",195737
+35-39,39,Professional degree,Product/Project Manager,1-2 years,Under 1 year,0.7,"150,000-199,999",156285
+35-39,39,Doctoral degree,Machine Learning Engineer,10-20 years,2-3 years,2,"150,000-199,999",168699
+35-39,39,Bachelor's degree,Machine Learning Engineer,10-20 years,2-3 years,2,"150,000-199,999",170260
+35-39,39,Master's degree,Product/Project Manager,< 1 years,Under 1 year,0.1,"150,000-199,999",170508
+35-39,39,Master's degree,Other,10-20 years,2-3 years,2,"150,000-199,999",171985
+35-39,39,Doctoral degree,Data Scientist,10-20 years,3-4 years,4,"150,000-199,999",173640
+35-39,39,Doctoral degree,Data Scientist,10-20 years,5-10 years,7,"150,000-199,999",178374
+35-39,39,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,5,"150,000-199,999",188007
+35-39,39,Master's degree,Software Engineer,5-10 years,I do not use machine learning methods,0,"150,000-199,999",199340
+35-39,37,Master's degree,Other,1-2 years,Under 1 year,0.5,"20,000-24,999",23951
+35-39,38,Doctoral degree,Statistician,3-5 years,2-3 years,3,"20,000-24,999",21041
+35-39,35,Doctoral degree,Research Scientist,10-20 years,3-4 years,3,"200,000-249,999",211559
+35-39,35,Bachelor's degree,Data Scientist,10-20 years,5-10 years,9,"200,000-249,999",235881
+35-39,36,Master's degree,Data Scientist,10-20 years,I do not use machine learning methods,0,"200,000-249,999",203748
+35-39,36,Doctoral degree,Machine Learning Engineer,5-10 years,3-4 years,4,"200,000-249,999",213670
+35-39,36,Master's degree,Business Analyst,10-20 years,2-3 years,2,"200,000-249,999",234683
+35-39,36,Master's degree,Data Scientist,3-5 years,Under 1 year,0.5,"200,000-249,999",241863
+35-39,36,Master's degree,Data Analyst,3-5 years,1-2 years,2,"200,000-249,999",245681
+35-39,36,Master's degree,Product/Project Manager,10-20 years,5-10 years,10,"200,000-249,999",245967
+35-39,37,Bachelor's degree,Machine Learning Engineer,10-20 years,4-5 years,4,"200,000-249,999",223925
+35-39,37,Master's degree,Machine Learning Engineer,10-20 years,4-5 years,5,"200,000-249,999",238822
+35-39,38,Master's degree,Data Scientist,10-20 years,5-10 years,7,"200,000-249,999",206325
+35-39,38,Master's degree,Business Analyst,10-20 years,Under 1 year,1.0,"200,000-249,999",213438
+35-39,38,Doctoral degree,Data Scientist,3-5 years,2-3 years,2,"200,000-249,999",220266
+35-39,38,Bachelor's degree,Machine Learning Engineer,10-20 years,10-20 years,12,"200,000-249,999",249433
+35-39,36,Doctoral degree,Research Scientist,3-5 years,4-5 years,4,"25,000-29,999",26677
+35-39,36,Professional degree,Research Scientist,5-10 years,4-5 years,5,"250,000-299,999",280865
+35-39,37,Master's degree,Data Scientist,10-20 years,5-10 years,6,"250,000-299,999",252010
+35-39,37,Master's degree,Data Engineer,10-20 years,1-2 years,2,"250,000-299,999",255236
+35-39,37,Master's degree,Software Engineer,10-20 years,5-10 years,10,"250,000-299,999",262825
+35-39,37,Some college/university study without earning a bachelor's degree,Software Engineer,10-20 years,2-3 years,3,"250,000-299,999",299315
+35-39,39,Master's degree,Product/Project Manager,< 1 years,I do not use machine learning methods,0,"250,000-299,999",257195
+35-39,36,Bachelor's degree,Business Analyst,I have never written code,,,"30,000-39,999",31069
+35-39,39,Master's degree,Other,1-2 years,Under 1 year,0.3,"30,000-39,999",30516
+35-39,39,Doctoral degree,Research Scientist,1-2 years,Under 1 year,0.2,"30,000-39,999",30690
+35-39,35,Doctoral degree,Data Scientist,10-20 years,10-20 years,20,"300,000-500,000",471476
+35-39,36,Doctoral degree,Data Scientist,5-10 years,5-10 years,10,"300,000-500,000",359058
+35-39,36,Doctoral degree,Data Engineer,10-20 years,10-20 years,12,"300,000-500,000",409427
+35-39,37,Master's degree,Data Scientist,20+ years,10-20 years,20,"300,000-500,000",373834
+35-39,37,Master's degree,Data Scientist,10-20 years,10-20 years,16,"300,000-500,000",499451
+35-39,38,Doctoral degree,Data Analyst,5-10 years,4-5 years,5,"300,000-500,000",361221
+35-39,37,Master's degree,Data Scientist,3-5 years,2-3 years,3,"4,000-4,999",5000
+35-39,37,Doctoral degree,Research Scientist,10-20 years,10-20 years,11,"40,000-49,999",44776
+35-39,38,Master's degree,Data Analyst,1-2 years,Under 1 year,0.2,"40,000-49,999",49124
+35-39,39,Master's degree,Research Scientist,5-10 years,I do not use machine learning methods,0,"40,000-49,999",48028
+35-39,35,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"50,000-59,999",50136
+35-39,37,Master's degree,Data Analyst,5-10 years,I do not use machine learning methods,0,"50,000-59,999",58440
+35-39,37,Master's degree,Data Scientist,5-10 years,1-2 years,2,"50,000-59,999",58761
+35-39,39,Bachelor's degree,Other,1-2 years,Under 1 year,0.8,"50,000-59,999",50154
+35-39,36,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.6,"60,000-69,999",69141
+35-39,37,Bachelor's degree,Business Analyst,< 1 years,Under 1 year,0.4,"60,000-69,999",62358
+35-39,37,Master's degree,Statistician,3-5 years,2-3 years,3,"60,000-69,999",64035
+35-39,37,Master's degree,Data Analyst,< 1 years,I do not use machine learning methods,0,"60,000-69,999",66069
+35-39,37,Master's degree,Data Analyst,5-10 years,5-10 years,10,"60,000-69,999",67314
+35-39,37,Master's degree,Data Analyst,3-5 years,2-3 years,3,"60,000-69,999",67876
+35-39,38,Master's degree,Statistician,5-10 years,1-2 years,2,"60,000-69,999",67768
+35-39,39,Master's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"60,000-69,999",65506
+35-39,35,Master's degree,Data Analyst,3-5 years,2-3 years,3,"70,000-79,999",72757
+35-39,35,Bachelor's degree,Machine Learning Engineer,20+ years,1-2 years,2,"70,000-79,999",78565
+35-39,37,Master's degree,Machine Learning Engineer,10-20 years,2-3 years,3,"70,000-79,999",74640
+35-39,37,Bachelor's degree,Software Engineer,5-10 years,Under 1 year,1.0,"70,000-79,999",74814
+35-39,37,Bachelor's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,"70,000-79,999",78325
+35-39,37,Professional degree,Software Engineer,3-5 years,Under 1 year,0.5,"70,000-79,999",78666
+35-39,38,Master's degree,Product/Project Manager,3-5 years,Under 1 year,0.7,"70,000-79,999",72415
+35-39,39,Doctoral degree,Data Analyst,1-2 years,1-2 years,2,"70,000-79,999",71264
+35-39,39,Master's degree,Other,1-2 years,I do not use machine learning methods,0,"70,000-79,999",73470
+35-39,39,Master's degree,Data Analyst,< 1 years,Under 1 year,0.9,"70,000-79,999",74485
+35-39,39,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"70,000-79,999",77653
+35-39,39,Master's degree,Data Analyst,3-5 years,Under 1 year,0.5,"70,000-79,999",77724
+35-39,39,Master's degree,Data Analyst,3-5 years,1-2 years,1,"70,000-79,999",78040
+35-39,39,Master's degree,Data Analyst,10-20 years,I do not use machine learning methods,0,"70,000-79,999",79361
+35-39,35,Bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"80,000-89,999",80415
+35-39,35,Bachelor's degree,Other,< 1 years,Under 1 year,0.9,"80,000-89,999",83644
+35-39,35,Master's degree,Data Scientist,10-20 years,5-10 years,10,"80,000-89,999",85748
+35-39,35,Master's degree,Other,1-2 years,Under 1 year,0.4,"80,000-89,999",87918
+35-39,37,Doctoral degree,Other,5-10 years,4-5 years,5,"80,000-89,999",86271
+35-39,37,Bachelor's degree,Software Engineer,10-20 years,1-2 years,1,"80,000-89,999",88734
+35-39,37,Master's degree,Data Scientist,5-10 years,3-4 years,4,"80,000-89,999",88899
+35-39,38,Master's degree,Data Analyst,1-2 years,Under 1 year,0.3,"80,000-89,999",81997
+35-39,38,Bachelor's degree,Business Analyst,1-2 years,1-2 years,1,"80,000-89,999",84901
+35-39,38,Bachelor's degree,Software Engineer,5-10 years,I do not use machine learning methods,0,"80,000-89,999",86276
+35-39,38,Master's degree,Product/Project Manager,I have never written code,,,"80,000-89,999",87489
+35-39,38,Master's degree,Data Scientist,3-5 years,2-3 years,2,"80,000-89,999",87711
+35-39,39,Master's degree,Data Scientist,3-5 years,3-4 years,4,"80,000-89,999",87636
+35-39,39,Bachelor's degree,Data Analyst,5-10 years,1-2 years,2,"80,000-89,999",88101
+35-39,35,Master's degree,Data Scientist,3-5 years,3-4 years,3,"90,000-99,999",91068
+35-39,35,Some college/university study without earning a bachelor's degree,Data Analyst,1-2 years,1-2 years,1,"90,000-99,999",91790
+35-39,35,Master's degree,Other,10-20 years,5-10 years,8,"90,000-99,999",92289
+35-39,35,Some college/university study without earning a bachelor's degree,Software Engineer,3-5 years,1-2 years,2,"90,000-99,999",93134
+35-39,35,I prefer not to answer,DBA/Database Engineer,5-10 years,I do not use machine learning methods,0,"90,000-99,999",97817
+35-39,36,Master's degree,Data Scientist,5-10 years,10-20 years,20,"90,000-99,999",90202
+35-39,36,Master's degree,Data Engineer,1-2 years,Under 1 year,0.0,"90,000-99,999",91468
+35-39,36,Doctoral degree,Research Scientist,3-5 years,2-3 years,2,"90,000-99,999",96463
+35-39,36,Master's degree,Data Scientist,3-5 years,3-4 years,4,"90,000-99,999",97017
+35-39,36,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.7,"90,000-99,999",97757
+35-39,36,Bachelor's degree,Product/Project Manager,1-2 years,1-2 years,1,"90,000-99,999",98640
+35-39,36,Bachelor's degree,Data Analyst,5-10 years,1-2 years,1,"90,000-99,999",98725
+35-39,37,Master's degree,Business Analyst,5-10 years,Under 1 year,0.0,"90,000-99,999",91146
+35-39,37,Master's degree,Business Analyst,3-5 years,2-3 years,2,"90,000-99,999",92559
+35-39,37,Doctoral degree,Product/Project Manager,10-20 years,1-2 years,1,"90,000-99,999",98471
+35-39,37,Master's degree,Product/Project Manager,< 1 years,Under 1 year,0.5,"90,000-99,999",98955
+35-39,38,Master's degree,Data Engineer,3-5 years,2-3 years,3,"90,000-99,999",94155
+35-39,38,Master's degree,Business Analyst,3-5 years,Under 1 year,0.1,"90,000-99,999",99936
+35-39,39,Master's degree,Data Scientist,3-5 years,3-4 years,3,"90,000-99,999",94742
+35-39,39,Master's degree,Data Scientist,5-10 years,4-5 years,4,"90,000-99,999",98967
+35-39,35,Bachelor's degree,Data Engineer,10-20 years,2-3 years,2,,
+35-39,35,Doctoral degree,Currently not employed,3-5 years,2-3 years,2,,
+35-39,35,Master's degree,Data Scientist,3-5 years,3-4 years,3,,
+35-39,35,Doctoral degree,Software Engineer,3-5 years,4-5 years,5,,
+35-39,35,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+35-39,35,Bachelor's degree,Currently not employed,< 1 years,Under 1 year,0.5,,
+35-39,35,Master's degree,Student,1-2 years,Under 1 year,0.7,,
+35-39,35,Master's degree,Other,3-5 years,Under 1 year,0.3,,
+35-39,35,Bachelor's degree,Currently not employed,5-10 years,,,,
+35-39,35,Bachelor's degree,,,,,,
+35-39,35,Master's degree,Data Scientist,10-20 years,,,,
+35-39,35,Master's degree,Data Scientist,10-20 years,,,,
+35-39,35,Master's degree,Software Engineer,10-20 years,,,,
+35-39,35,Master's degree,Research Scientist,10-20 years,,,,
+35-39,35,Master's degree,Data Analyst,3-5 years,,,,
+35-39,35,Master's degree,Data Scientist,3-5 years,,,,
+35-39,35,Master's degree,Product/Project Manager,1-2 years,,,,
+35-39,36,Doctoral degree,Currently not employed,1-2 years,1-2 years,1,,
+35-39,36,Master's degree,Student,3-5 years,1-2 years,1,,
+35-39,36,Bachelor's degree,DBA/Database Engineer,3-5 years,2-3 years,2,,
+35-39,36,Doctoral degree,Student,3-5 years,2-3 years,2,,
+35-39,36,Master's degree,Product/Project Manager,20+ years,I do not use machine learning methods,0,,
+35-39,36,Master's degree,Student,< 1 years,Under 1 year,0.9,,
+35-39,36,Master's degree,Student,1-2 years,Under 1 year,0.8,,
+35-39,36,Master's degree,Currently not employed,5-10 years,Under 1 year,0.1,,
+35-39,36,Master's degree,Student,3-5 years,,,,
+35-39,36,Master's degree,Data Analyst,1-2 years,,,,
+35-39,36,Master's degree,,,,,,
+35-39,36,Some college/university study without earning a bachelor's degree,,,,,,
+35-39,37,Master's degree,Product/Project Manager,5-10 years,2-3 years,3,,
+35-39,37,Bachelor's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+35-39,37,Master's degree,Currently not employed,5-10 years,I do not use machine learning methods,0,,
+35-39,37,Bachelor's degree,Currently not employed,10-20 years,Under 1 year,0.6,,
+35-39,37,Doctoral degree,Currently not employed,1-2 years,Under 1 year,0.0,,
+35-39,37,Doctoral degree,Student,< 1 years,Under 1 year,0.8,,
+35-39,37,Master's degree,Software Engineer,10-20 years,Under 1 year,0.3,,
+35-39,37,Master's degree,Student,< 1 years,Under 1 year,0.4,,
+35-39,37,Bachelor's degree,Currently not employed,1-2 years,,,,
+35-39,37,Master's degree,,,,,,
+35-39,37,Some college/university study without earning a bachelor's degree,Currently not employed,I have never written code,,,,
+35-39,38,Doctoral degree,Currently not employed,10-20 years,1-2 years,2,,
+35-39,38,Doctoral degree,Student,3-5 years,2-3 years,3,,
+35-39,38,Master's degree,Software Engineer,20+ years,2-3 years,3,,
+35-39,38,Master's degree,Software Engineer,10-20 years,3-4 years,3,,
+35-39,38,Doctoral degree,Currently not employed,1-2 years,4-5 years,5,,
+35-39,38,Bachelor's degree,Software Engineer,3-5 years,I do not use machine learning methods,0,,
+35-39,38,Bachelor's degree,Other,1-2 years,Under 1 year,0.8,,
+35-39,38,Master's degree,Data Scientist,3-5 years,,,,
+35-39,39,Master's degree,Software Engineer,10-20 years,1-2 years,1,,
+35-39,39,Master's degree,Currently not employed,1-2 years,1-2 years,2,,
+35-39,39,Master's degree,Currently not employed,5-10 years,2-3 years,2,,
+35-39,39,Bachelor's degree,Currently not employed,5-10 years,I do not use machine learning methods,0,,
+35-39,39,Master's degree,Student,1-2 years,I do not use machine learning methods,0,,
+35-39,39,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+35-39,39,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+35-39,39,I prefer not to answer,Currently not employed,1-2 years,Under 1 year,0.7,,
+35-39,39,Master's degree,Student,1-2 years,Under 1 year,0.1,,
+35-39,39,Bachelor's degree,Currently not employed,I have never written code,,,,
+35-39,39,Doctoral degree,Student,3-5 years,,,,
+35-39,39,Master's degree,Currently not employed,I have never written code,,,,
+35-39,39,Master's degree,,,,,,
+35-39,39,Master's degree,Currently not employed,,,,,
+35-39,39,Master's degree,Currently not employed,I have never written code,,,,
+35-39,39,Master's degree,Currently not employed,I have never written code,,,,
+40-44,41,Doctoral degree,Other,20+ years,5-10 years,8,"> $500,000",572122
+40-44,41,Doctoral degree,Software Engineer,20+ years,5-10 years,10,"> $500,000",766693
+40-44,42,Doctoral degree,Data Scientist,20+ years,20 or more years,28,"> $500,000",743786
+40-44,40,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.1,$0-999,70
+40-44,40,Bachelor's degree,Other,1-2 years,I do not use machine learning methods,0,$0-999,424
+40-44,40,Master's degree,Machine Learning Engineer,5-10 years,5-10 years,10,$0-999,705
+40-44,41,Bachelor's degree,Data Scientist,3-5 years,I do not use machine learning methods,0,$0-999,382
+40-44,41,Master's degree,Software Engineer,20+ years,3-4 years,4,$0-999,664
+40-44,42,Professional degree,Other,10-20 years,I do not use machine learning methods,0,$0-999,880
+40-44,44,Bachelor's degree,Research Scientist,10-20 years,2-3 years,2,$0-999,312
+40-44,44,Master's degree,Other,< 1 years,I do not use machine learning methods,0,$0-999,429
+40-44,40,Doctoral degree,Research Scientist,20+ years,5-10 years,10,"100,000-124,999",103612
+40-44,40,Master's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"100,000-124,999",104198
+40-44,40,Doctoral degree,Data Analyst,5-10 years,10-20 years,11,"100,000-124,999",110514
+40-44,40,Doctoral degree,Data Scientist,10-20 years,5-10 years,5,"100,000-124,999",110545
+40-44,40,Doctoral degree,Data Scientist,5-10 years,4-5 years,5,"100,000-124,999",114961
+40-44,40,Master's degree,Other,3-5 years,1-2 years,2,"100,000-124,999",118069
+40-44,40,Bachelor's degree,Software Engineer,5-10 years,I do not use machine learning methods,0,"100,000-124,999",119424
+40-44,40,Master's degree,Data Engineer,10-20 years,1-2 years,1,"100,000-124,999",124286
+40-44,41,Master's degree,Business Analyst,20+ years,I do not use machine learning methods,0,"100,000-124,999",102671
+40-44,41,Master's degree,Software Engineer,10-20 years,4-5 years,5,"100,000-124,999",105523
+40-44,41,Doctoral degree,Research Scientist,10-20 years,5-10 years,7,"100,000-124,999",108732
+40-44,41,Master's degree,Data Engineer,10-20 years,2-3 years,2,"100,000-124,999",112290
+40-44,41,Professional degree,Data Analyst,10-20 years,4-5 years,5,"100,000-124,999",114349
+40-44,41,Master's degree,Machine Learning Engineer,3-5 years,3-4 years,4,"100,000-124,999",120158
+40-44,41,Doctoral degree,Other,10-20 years,5-10 years,6,"100,000-124,999",122364
+40-44,41,Bachelor's degree,Data Engineer,1-2 years,I do not use machine learning methods,0,"100,000-124,999",123760
+40-44,41,Doctoral degree,Research Scientist,20+ years,10-20 years,15,"100,000-124,999",123978
+40-44,42,Master's degree,Data Analyst,< 1 years,Under 1 year,0.2,"100,000-124,999",100607
+40-44,42,Master's degree,Business Analyst,10-20 years,Under 1 year,0.7,"100,000-124,999",104066
+40-44,42,Doctoral degree,Other,10-20 years,Under 1 year,0.1,"100,000-124,999",121616
+40-44,43,Master's degree,Other,3-5 years,Under 1 year,0.4,"100,000-124,999",100295
+40-44,43,Bachelor's degree,Other,5-10 years,3-4 years,3,"100,000-124,999",112913
+40-44,43,Master's degree,Other,3-5 years,2-3 years,3,"100,000-124,999",122323
+40-44,43,Bachelor's degree,Other,3-5 years,Under 1 year,0.1,"100,000-124,999",123756
+40-44,44,Master's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"100,000-124,999",104396
+40-44,44,Master's degree,Data Analyst,3-5 years,Under 1 year,0.9,"100,000-124,999",112549
+40-44,44,Master's degree,Data Engineer,< 1 years,I do not use machine learning methods,0,"100,000-124,999",113865
+40-44,44,Professional degree,Data Analyst,5-10 years,2-3 years,2,"100,000-124,999",114759
+40-44,44,Master's degree,Data Analyst,10-20 years,I do not use machine learning methods,0,"100,000-124,999",116645
+40-44,44,Doctoral degree,Research Scientist,5-10 years,5-10 years,7,"100,000-124,999",119510
+40-44,44,Doctoral degree,Data Scientist,20+ years,4-5 years,5,"100,000-124,999",123438
+40-44,44,Master's degree,Data Analyst,1-2 years,1-2 years,1,"100,000-124,999",124747
+40-44,40,Doctoral degree,Data Scientist,3-5 years,3-4 years,3,"125,000-149,999",133966
+40-44,40,Doctoral degree,Statistician,20+ years,1-2 years,2,"125,000-149,999",138849
+40-44,40,Master's degree,Other,10-20 years,1-2 years,2,"125,000-149,999",143078
+40-44,40,Master's degree,Product/Project Manager,5-10 years,4-5 years,4,"125,000-149,999",144782
+40-44,40,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.7,"125,000-149,999",146198
+40-44,41,Professional degree,Other,3-5 years,Under 1 year,0.4,"125,000-149,999",129638
+40-44,41,Doctoral degree,Other,1-2 years,1-2 years,1,"125,000-149,999",138427
+40-44,41,Master's degree,Data Scientist,20+ years,20 or more years,24,"125,000-149,999",140904
+40-44,41,Doctoral degree,Data Scientist,1-2 years,5-10 years,10,"125,000-149,999",143798
+40-44,42,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,10-20 years,10-20 years,16,"125,000-149,999",125345
+40-44,42,Doctoral degree,Data Scientist,5-10 years,4-5 years,4,"125,000-149,999",127411
+40-44,42,Bachelor's degree,Other,< 1 years,Under 1 year,0.7,"125,000-149,999",128123
+40-44,42,Bachelor's degree,DBA/Database Engineer,10-20 years,I do not use machine learning methods,0,"125,000-149,999",132311
+40-44,42,Bachelor's degree,Data Engineer,5-10 years,1-2 years,1,"125,000-149,999",134272
+40-44,42,Bachelor's degree,Data Scientist,20+ years,2-3 years,3,"125,000-149,999",137531
+40-44,42,Doctoral degree,Data Scientist,10-20 years,1-2 years,2,"125,000-149,999",147557
+40-44,43,Master's degree,Data Scientist,10-20 years,5-10 years,5,"125,000-149,999",140786
+40-44,43,Doctoral degree,Data Scientist,10-20 years,2-3 years,2,"125,000-149,999",142546
+40-44,44,Bachelor's degree,Software Engineer,10-20 years,4-5 years,5,"125,000-149,999",128062
+40-44,44,Bachelor's degree,Business Analyst,10-20 years,Under 1 year,0.2,"125,000-149,999",136162
+40-44,44,Master's degree,DBA/Database Engineer,20+ years,4-5 years,5,"125,000-149,999",146351
+40-44,40,No formal education past high school,Other,20+ years,5-10 years,6,"15,000-19,999",19449
+40-44,40,Professional degree,Product/Project Manager,10-20 years,2-3 years,2,"150,000-199,999",151371
+40-44,40,Doctoral degree,Other,10-20 years,1-2 years,2,"150,000-199,999",164818
+40-44,40,Master's degree,Data Analyst,10-20 years,5-10 years,7,"150,000-199,999",172118
+40-44,40,Doctoral degree,Research Scientist,10-20 years,10-20 years,14,"150,000-199,999",188243
+40-44,40,Master's degree,Product/Project Manager,1-2 years,Under 1 year,0.9,"150,000-199,999",191530
+40-44,40,Doctoral degree,Data Scientist,20+ years,5-10 years,9,"150,000-199,999",196675
+40-44,40,Bachelor's degree,Other,5-10 years,3-4 years,3,"150,000-199,999",197229
+40-44,41,Master's degree,Product/Project Manager,1-2 years,Under 1 year,0.0,"150,000-199,999",155006
+40-44,41,Master's degree,Other,10-20 years,1-2 years,1,"150,000-199,999",159664
+40-44,41,Doctoral degree,Data Scientist,10-20 years,10-20 years,10,"150,000-199,999",163904
+40-44,41,Master's degree,Product/Project Manager,5-10 years,2-3 years,2,"150,000-199,999",174026
+40-44,41,Master's degree,Data Scientist,10-20 years,5-10 years,5,"150,000-199,999",180782
+40-44,41,Master's degree,Data Scientist,5-10 years,5-10 years,6,"150,000-199,999",182470
+40-44,41,Master's degree,Data Scientist,10-20 years,5-10 years,6,"150,000-199,999",185789
+40-44,42,Master's degree,Data Analyst,20+ years,10-20 years,10,"150,000-199,999",151614
+40-44,42,Some college/university study without earning a bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"150,000-199,999",152010
+40-44,42,Master's degree,Data Engineer,1-2 years,Under 1 year,0.9,"150,000-199,999",156037
+40-44,42,Master's degree,Other,3-5 years,I do not use machine learning methods,0,"150,000-199,999",159979
+40-44,42,Master's degree,Data Scientist,10-20 years,5-10 years,6,"150,000-199,999",164870
+40-44,42,Master's degree,Data Scientist,5-10 years,1-2 years,2,"150,000-199,999",168634
+40-44,42,Master's degree,Product/Project Manager,10-20 years,2-3 years,2,"150,000-199,999",171291
+40-44,42,Master's degree,Other,20+ years,5-10 years,9,"150,000-199,999",173725
+40-44,42,Bachelor's degree,Product/Project Manager,20+ years,Under 1 year,1.0,"150,000-199,999",180619
+40-44,42,Doctoral degree,Research Scientist,5-10 years,5-10 years,8,"150,000-199,999",183645
+40-44,42,Master's degree,Other,20+ years,Under 1 year,0.7,"150,000-199,999",188669
+40-44,42,Professional degree,Business Analyst,10-20 years,Under 1 year,0.3,"150,000-199,999",190399
+40-44,42,Doctoral degree,Machine Learning Engineer,20+ years,10-20 years,18,"150,000-199,999",197338
+40-44,42,Master's degree,Data Scientist,3-5 years,2-3 years,3,"150,000-199,999",199060
+40-44,43,Doctoral degree,Research Scientist,1-2 years,1-2 years,1,"150,000-199,999",169318
+40-44,43,Master's degree,Software Engineer,20+ years,2-3 years,3,"150,000-199,999",196079
+40-44,44,Doctoral degree,Data Scientist,20+ years,4-5 years,5,"150,000-199,999",158474
+40-44,44,Doctoral degree,Data Scientist,10-20 years,5-10 years,5,"150,000-199,999",160377
+40-44,44,Master's degree,Statistician,10-20 years,3-4 years,4,"150,000-199,999",160820
+40-44,44,Bachelor's degree,Data Engineer,10-20 years,2-3 years,3,"150,000-199,999",176852
+40-44,44,Master's degree,Data Scientist,3-5 years,3-4 years,3,"150,000-199,999",188509
+40-44,44,Master's degree,Other,5-10 years,1-2 years,2,"150,000-199,999",189967
+40-44,44,Master's degree,Product/Project Manager,10-20 years,1-2 years,1,"150,000-199,999",190065
+40-44,44,Master's degree,Product/Project Manager,3-5 years,2-3 years,3,"2,000-2,999",2447
+40-44,42,Some college/university study without earning a bachelor's degree,Other,20+ years,4-5 years,4,"20,000-24,999",22998
+40-44,40,Master's degree,Data Scientist,10-20 years,5-10 years,8,"200,000-249,999",203295
+40-44,40,Bachelor's degree,Business Analyst,20+ years,1-2 years,2,"200,000-249,999",236292
+40-44,40,Doctoral degree,Data Scientist,10-20 years,20 or more years,21,"200,000-249,999",244618
+40-44,40,Master's degree,Data Engineer,20+ years,4-5 years,5,"200,000-249,999",249990
+40-44,41,Bachelor's degree,Data Scientist,10-20 years,4-5 years,4,"200,000-249,999",242611
+40-44,42,Doctoral degree,Research Scientist,10-20 years,5-10 years,8,"200,000-249,999",217913
+40-44,42,Professional degree,Product/Project Manager,5-10 years,5-10 years,7,"200,000-249,999",229089
+40-44,42,Master's degree,Data Scientist,10-20 years,4-5 years,4,"200,000-249,999",242711
+40-44,43,Master's degree,Data Scientist,20+ years,5-10 years,10,"200,000-249,999",218400
+40-44,43,Master's degree,Research Scientist,20+ years,5-10 years,5,"200,000-249,999",225007
+40-44,43,Bachelor's degree,Other,20+ years,2-3 years,2,"200,000-249,999",230365
+40-44,43,Doctoral degree,Data Scientist,5-10 years,10-20 years,10,"200,000-249,999",231368
+40-44,44,Bachelor's degree,Machine Learning Engineer,10-20 years,4-5 years,5,"200,000-249,999",221882
+40-44,44,Doctoral degree,Data Scientist,20+ years,5-10 years,6,"200,000-249,999",222669
+40-44,40,Some college/university study without earning a bachelor's degree,Other,I have never written code,,,"25,000-29,999",27648
+40-44,40,Bachelor's degree,Other,< 1 years,Under 1 year,0.9,"25,000-29,999",28904
+40-44,42,Doctoral degree,Other,5-10 years,5-10 years,7,"250,000-299,999",252076
+40-44,44,Bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"250,000-299,999",273129
+40-44,44,Bachelor's degree,Other,3-5 years,Under 1 year,0.6,"3,000-3,999",3420
+40-44,40,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.9,"30,000-39,999",37078
+40-44,41,Master's degree,Data Engineer,1-2 years,1-2 years,1,"30,000-39,999",39839
+40-44,40,Doctoral degree,Software Engineer,5-10 years,5-10 years,6,"300,000-500,000",324229
+40-44,40,Professional degree,Machine Learning Engineer,20+ years,5-10 years,8,"300,000-500,000",483508
+40-44,41,I prefer not to answer,Data Engineer,10-20 years,2-3 years,3,"300,000-500,000",388007
+40-44,42,Doctoral degree,Other,20+ years,3-4 years,4,"300,000-500,000",449052
+40-44,42,Master's degree,Data Scientist,5-10 years,10-20 years,17,"300,000-500,000",481385
+40-44,43,Master's degree,Business Analyst,5-10 years,2-3 years,3,"300,000-500,000",443961
+40-44,43,Master's degree,Other,< 1 years,5-10 years,10,"300,000-500,000",474607
+40-44,43,Master's degree,Machine Learning Engineer,10-20 years,2-3 years,2,"300,000-500,000",491956
+40-44,44,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,10-20 years,3-4 years,4,"300,000-500,000",374933
+40-44,41,Master's degree,Statistician,1-2 years,1-2 years,2,"40,000-49,999",44074
+40-44,42,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.5,"40,000-49,999",44352
+40-44,42,Bachelor's degree,Data Analyst,< 1 years,Under 1 year,0.5,"40,000-49,999",46398
+40-44,42,Bachelor's degree,Other,3-5 years,Under 1 year,0.4,"40,000-49,999",46777
+40-44,43,Doctoral degree,Other,5-10 years,5-10 years,9,"40,000-49,999",41412
+40-44,43,Master's degree,Other,1-2 years,Under 1 year,0.1,"40,000-49,999",42849
+40-44,43,Some college/university study without earning a bachelor's degree,Data Scientist,5-10 years,4-5 years,5,"40,000-49,999",47619
+40-44,44,Master's degree,Data Analyst,3-5 years,2-3 years,3,"40,000-49,999",43070
+40-44,40,Doctoral degree,Research Scientist,10-20 years,3-4 years,4,"50,000-59,999",57262
+40-44,42,Doctoral degree,Research Scientist,5-10 years,1-2 years,2,"50,000-59,999",55262
+40-44,43,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"50,000-59,999",53180
+40-44,44,Master's degree,Business Analyst,1-2 years,Under 1 year,0.2,"50,000-59,999",53404
+40-44,40,Bachelor's degree,Data Analyst,1-2 years,Under 1 year,0.8,"60,000-69,999",62497
+40-44,40,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"60,000-69,999",68439
+40-44,41,Master's degree,Data Analyst,1-2 years,I do not use machine learning methods,0,"60,000-69,999",61296
+40-44,41,Master's degree,Business Analyst,3-5 years,1-2 years,2,"60,000-69,999",69820
+40-44,42,Master's degree,Data Analyst,< 1 years,Under 1 year,0.9,"60,000-69,999",60327
+40-44,40,Doctoral degree,Data Scientist,20+ years,2-3 years,2,"70,000-79,999",73559
+40-44,40,Bachelor's degree,Data Analyst,10-20 years,Under 1 year,0.5,"70,000-79,999",76500
+40-44,41,Doctoral degree,Research Scientist,< 1 years,Under 1 year,0.5,"70,000-79,999",72120
+40-44,41,Doctoral degree,Statistician,20+ years,2-3 years,2,"70,000-79,999",77610
+40-44,42,Bachelor's degree,Other,I have never written code,,,"70,000-79,999",71247
+40-44,42,Doctoral degree,Research Scientist,5-10 years,5-10 years,10,"70,000-79,999",72217
+40-44,42,Doctoral degree,Research Scientist,3-5 years,I do not use machine learning methods,0,"70,000-79,999",73960
+40-44,43,Bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.8,"70,000-79,999",75172
+40-44,43,Master's degree,Data Analyst,3-5 years,I do not use machine learning methods,0,"70,000-79,999",75763
+40-44,43,Doctoral degree,Data Scientist,10-20 years,1-2 years,1,"70,000-79,999",78235
+40-44,40,Doctoral degree,Research Scientist,5-10 years,1-2 years,1,"80,000-89,999",82931
+40-44,40,Doctoral degree,Data Analyst,5-10 years,2-3 years,2,"80,000-89,999",84812
+40-44,41,Master's degree,Data Scientist,5-10 years,1-2 years,1,"80,000-89,999",80030
+40-44,41,Master's degree,Data Scientist,10-20 years,4-5 years,5,"80,000-89,999",80411
+40-44,41,Doctoral degree,Research Scientist,10-20 years,Under 1 year,0.6,"80,000-89,999",86892
+40-44,43,Master's degree,Data Analyst,5-10 years,2-3 years,2,"80,000-89,999",85874
+40-44,43,Master's degree,Business Analyst,10-20 years,1-2 years,2,"80,000-89,999",86260
+40-44,43,Bachelor's degree,Data Scientist,3-5 years,4-5 years,4,"80,000-89,999",86406
+40-44,44,Bachelor's degree,Software Engineer,10-20 years,1-2 years,1,"80,000-89,999",84544
+40-44,41,Bachelor's degree,DBA/Database Engineer,5-10 years,2-3 years,2,"90,000-99,999",93539
+40-44,41,Some college/university study without earning a bachelor's degree,Product/Project Manager,3-5 years,Under 1 year,0.3,"90,000-99,999",98583
+40-44,40,Doctoral degree,Currently not employed,10-20 years,4-5 years,4,,
+40-44,40,Some college/university study without earning a bachelor's degree,Currently not employed,10-20 years,I do not use machine learning methods,0,,
+40-44,40,Master's degree,Currently not employed,10-20 years,Under 1 year,1.0,,
+40-44,40,Bachelor's degree,Student,I have never written code,,,,
+40-44,40,Bachelor's degree,Product/Project Manager,10-20 years,,,,
+40-44,40,Bachelor's degree,Student,< 1 years,,,,
+40-44,40,Doctoral degree,Data Scientist,,,,,
+40-44,40,Master's degree,Machine Learning Engineer,20+ years,,,,
+40-44,40,Master's degree,Student,I have never written code,,,,
+40-44,40,Some college/university study without earning a bachelor's degree,Data Analyst,I have never written code,,,,
+40-44,41,Master's degree,Currently not employed,3-5 years,1-2 years,2,,
+40-44,41,Master's degree,Student,3-5 years,2-3 years,3,,
+40-44,41,Master's degree,Other,3-5 years,3-4 years,4,,
+40-44,41,Bachelor's degree,Product/Project Manager,< 1 years,Under 1 year,0.2,,
+40-44,41,Bachelor's degree,Currently not employed,< 1 years,Under 1 year,0.4,,
+40-44,41,Master's degree,Student,10-20 years,Under 1 year,0.1,,
+40-44,41,Master's degree,Student,< 1 years,Under 1 year,0.9,,
+40-44,41,Professional degree,Student,3-5 years,Under 1 year,0.1,,
+40-44,41,Bachelor's degree,Data Engineer,,,,,
+40-44,41,Master's degree,Other,I have never written code,,,,
+40-44,41,Professional degree,Student,I have never written code,,,,
+40-44,42,Doctoral degree,Data Scientist,20+ years,10-20 years,10,,
+40-44,42,Bachelor's degree,Data Scientist,5-10 years,3-4 years,3,,
+40-44,42,Doctoral degree,Research Scientist,20+ years,5-10 years,8,,
+40-44,42,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+40-44,42,Doctoral degree,Student,1-2 years,Under 1 year,0.3,,
+40-44,42,Bachelor's degree,Other,10-20 years,,,,
+40-44,42,Bachelor's degree,Product/Project Manager,I have never written code,,,,
+40-44,42,Bachelor's degree,Currently not employed,< 1 years,,,,
+40-44,42,Bachelor's degree,Currently not employed,I have never written code,,,,
+40-44,42,Bachelor's degree,Currently not employed,< 1 years,,,,
+40-44,42,Master's degree,Product/Project Manager,,,,,
+40-44,42,Master's degree,Software Engineer,< 1 years,,,,
+40-44,42,Master's degree,Student,< 1 years,,,,
+40-44,42,Master's degree,Data Analyst,1-2 years,,,,
+40-44,42,Some college/university study without earning a bachelor's degree,Other,1-2 years,,,,
+40-44,43,Master's degree,Currently not employed,20+ years,1-2 years,2,,
+40-44,43,Bachelor's degree,Data Engineer,5-10 years,3-4 years,4,,
+40-44,43,Doctoral degree,Statistician,10-20 years,5-10 years,10,,
+40-44,43,Doctoral degree,Currently not employed,< 1 years,,,,
+40-44,43,Master's degree,Machine Learning Engineer,20+ years,,,,
+40-44,44,Master's degree,Currently not employed,20+ years,10-20 years,13,,
+40-44,44,Master's degree,Student,5-10 years,3-4 years,4,,
+40-44,44,Doctoral degree,Research Scientist,20+ years,I do not use machine learning methods,0,,
+40-44,44,Master's degree,Other,20+ years,I do not use machine learning methods,0,,
+40-44,44,Some college/university study without earning a bachelor's degree,Student,< 1 years,I do not use machine learning methods,0,,
+40-44,44,Bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.2,,
+40-44,44,Bachelor's degree,Currently not employed,20+ years,Under 1 year,0.1,,
+40-44,44,Master's degree,Currently not employed,3-5 years,Under 1 year,0.9,,
+40-44,44,Bachelor's degree,Product/Project Manager,1-2 years,,,,
+40-44,44,Bachelor's degree,Other,20+ years,,,,
+40-44,44,Doctoral degree,Data Scientist,5-10 years,,,,
+40-44,44,Master's degree,,,,,,
+40-44,44,Master's degree,Data Engineer,20+ years,,,,
+40-44,44,Master's degree,Software Engineer,10-20 years,,,,
+40-44,44,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,3-5 years,,,,
+45-49,45,Doctoral degree,Machine Learning Engineer,10-20 years,5-10 years,5,"> $500,000",849451
+45-49,45,Bachelor's degree,Data Scientist,20+ years,3-4 years,3,"> $500,000",869874
+45-49,46,Master's degree,Data Scientist,10-20 years,3-4 years,4,"> $500,000",836000
+45-49,49,Doctoral degree,Software Engineer,20+ years,5-10 years,10,"> $500,000",500656
+45-49,49,Master's degree,Software Engineer,10-20 years,5-10 years,6,"> $500,000",995982
+45-49,46,Master's degree,Data Scientist,1-2 years,1-2 years,2,$0-999,681
+45-49,47,Doctoral degree,Research Scientist,I have never written code,,,$0-999,594
+45-49,47,Doctoral degree,Data Scientist,20+ years,10-20 years,12,$0-999,910
+45-49,49,Master's degree,Business Analyst,I have never written code,,,$0-999,190
+45-49,49,Doctoral degree,Other,20+ years,1-2 years,1,$0-999,697
+45-49,49,Master's degree,Research Scientist,10-20 years,1-2 years,1,$0-999,829
+45-49,49,Master's degree,Software Engineer,5-10 years,Under 1 year,0.6,"10,000-14,999",11363
+45-49,45,Master's degree,Software Engineer,20+ years,Under 1 year,0.4,"100,000-124,999",104006
+45-49,45,Master's degree,Data Scientist,1-2 years,Under 1 year,0.2,"100,000-124,999",112244
+45-49,45,Doctoral degree,Research Scientist,10-20 years,10-20 years,19,"100,000-124,999",119926
+45-49,45,Bachelor's degree,Data Engineer,20+ years,4-5 years,5,"100,000-124,999",123406
+45-49,46,Bachelor's degree,Product/Project Manager,20+ years,2-3 years,2,"100,000-124,999",101353
+45-49,46,Master's degree,Business Analyst,20+ years,1-2 years,1,"100,000-124,999",105555
+45-49,46,Doctoral degree,Research Scientist,10-20 years,Under 1 year,0.7,"100,000-124,999",108473
+45-49,46,Master's degree,Data Analyst,20+ years,Under 1 year,0.5,"100,000-124,999",111194
+45-49,46,Master's degree,Data Scientist,20+ years,3-4 years,4,"100,000-124,999",119002
+45-49,46,Master's degree,Data Engineer,10-20 years,4-5 years,4,"100,000-124,999",120502
+45-49,46,Bachelor's degree,Business Analyst,1-2 years,I do not use machine learning methods,0,"100,000-124,999",121096
+45-49,47,Master's degree,Product/Project Manager,20+ years,5-10 years,5,"100,000-124,999",100695
+45-49,47,Master's degree,Data Scientist,1-2 years,1-2 years,2,"100,000-124,999",102088
+45-49,47,Master's degree,Research Scientist,3-5 years,I do not use machine learning methods,0,"100,000-124,999",110092
+45-49,47,Doctoral degree,Research Scientist,5-10 years,1-2 years,2,"100,000-124,999",112908
+45-49,47,Master's degree,Data Analyst,20+ years,Under 1 year,0.5,"100,000-124,999",117325
+45-49,47,Bachelor's degree,Data Scientist,3-5 years,Under 1 year,0.7,"100,000-124,999",119192
+45-49,47,Master's degree,Software Engineer,20+ years,4-5 years,4,"100,000-124,999",122412
+45-49,48,Master's degree,Product/Project Manager,10-20 years,1-2 years,1,"100,000-124,999",108019
+45-49,48,Master's degree,Data Analyst,20+ years,1-2 years,1,"100,000-124,999",123020
+45-49,48,Doctoral degree,Data Scientist,5-10 years,2-3 years,3,"100,000-124,999",124163
+45-49,49,Master's degree,Data Scientist,20+ years,10-20 years,19,"100,000-124,999",100338
+45-49,49,Some college/university study without earning a bachelor's degree,Data Analyst,5-10 years,1-2 years,2,"100,000-124,999",103083
+45-49,45,Doctoral degree,Research Scientist,10-20 years,5-10 years,7,"125,000-149,999",127557
+45-49,45,Master's degree,Other,10-20 years,5-10 years,8,"125,000-149,999",129035
+45-49,45,Master's degree,Business Analyst,20+ years,I do not use machine learning methods,0,"125,000-149,999",137512
+45-49,45,Master's degree,Business Analyst,5-10 years,I do not use machine learning methods,0,"125,000-149,999",142254
+45-49,46,Master's degree,Other,20+ years,I do not use machine learning methods,0,"125,000-149,999",136555
+45-49,47,Master's degree,Software Engineer,20+ years,5-10 years,10,"125,000-149,999",135365
+45-49,47,Master's degree,Product/Project Manager,< 1 years,2-3 years,2,"125,000-149,999",143355
+45-49,47,Master's degree,Data Scientist,3-5 years,3-4 years,3,"125,000-149,999",146313
+45-49,48,Bachelor's degree,Data Scientist,3-5 years,1-2 years,1,"125,000-149,999",135316
+45-49,48,I prefer not to answer,Software Engineer,20+ years,5-10 years,9,"125,000-149,999",136169
+45-49,48,Bachelor's degree,Software Engineer,20+ years,1-2 years,2,"125,000-149,999",146034
+45-49,48,Doctoral degree,Data Scientist,20+ years,10-20 years,14,"125,000-149,999",148215
+45-49,48,Doctoral degree,Research Scientist,20+ years,20 or more years,24,"125,000-149,999",149092
+45-49,49,Master's degree,Data Scientist,3-5 years,3-4 years,3,"125,000-149,999",126083
+45-49,49,Master's degree,Other,20+ years,20 or more years,20,"125,000-149,999",130337
+45-49,49,Professional degree,Other,I have never written code,,,"125,000-149,999",131269
+45-49,49,Master's degree,Data Analyst,10-20 years,1-2 years,1,"125,000-149,999",142572
+45-49,45,Bachelor's degree,Business Analyst,20+ years,1-2 years,2,"150,000-199,999",150480
+45-49,45,Bachelor's degree,Data Scientist,5-10 years,5-10 years,8,"150,000-199,999",166263
+45-49,45,Master's degree,Data Scientist,10-20 years,5-10 years,10,"150,000-199,999",172860
+45-49,45,Bachelor's degree,Machine Learning Engineer,20+ years,3-4 years,3,"150,000-199,999",177759
+45-49,45,Bachelor's degree,Product/Project Manager,< 1 years,1-2 years,2,"150,000-199,999",181265
+45-49,45,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,20+ years,5-10 years,9,"150,000-199,999",186663
+45-49,45,Master's degree,DBA/Database Engineer,10-20 years,3-4 years,4,"150,000-199,999",194006
+45-49,46,Doctoral degree,Other,10-20 years,Under 1 year,0.3,"150,000-199,999",156923
+45-49,46,Master's degree,Software Engineer,3-5 years,1-2 years,1,"150,000-199,999",161265
+45-49,46,Master's degree,Business Analyst,1-2 years,1-2 years,2,"150,000-199,999",172513
+45-49,46,Master's degree,Data Engineer,10-20 years,1-2 years,1,"150,000-199,999",191050
+45-49,46,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,20+ years,2-3 years,3,"150,000-199,999",195303
+45-49,46,Doctoral degree,Data Scientist,20+ years,10-20 years,16,"150,000-199,999",197151
+45-49,47,Master's degree,Machine Learning Engineer,5-10 years,3-4 years,4,"150,000-199,999",157620
+45-49,47,Doctoral degree,Data Scientist,10-20 years,10-20 years,11,"150,000-199,999",171659
+45-49,47,Master's degree,Data Scientist,20+ years,5-10 years,8,"150,000-199,999",193803
+45-49,48,Doctoral degree,Data Scientist,10-20 years,10-20 years,14,"150,000-199,999",167320
+45-49,48,Doctoral degree,Data Scientist,5-10 years,5-10 years,5,"150,000-199,999",177734
+45-49,48,Master's degree,Product/Project Manager,1-2 years,1-2 years,2,"150,000-199,999",181764
+45-49,48,Doctoral degree,Other,20+ years,5-10 years,9,"150,000-199,999",194293
+45-49,49,Bachelor's degree,Other,10-20 years,3-4 years,4,"150,000-199,999",151950
+45-49,49,Bachelor's degree,Software Engineer,20+ years,2-3 years,3,"150,000-199,999",161854
+45-49,49,I prefer not to answer,Software Engineer,10-20 years,1-2 years,2,"150,000-199,999",167927
+45-49,49,Master's degree,Data Scientist,20+ years,20 or more years,22,"150,000-199,999",183172
+45-49,49,Bachelor's degree,Software Engineer,20+ years,4-5 years,5,"150,000-199,999",186563
+45-49,49,Doctoral degree,Other,20+ years,5-10 years,10,"150,000-199,999",199421
+45-49,45,Master's degree,Other,20+ years,20 or more years,26,"200,000-249,999",203954
+45-49,46,Master's degree,Data Analyst,3-5 years,Under 1 year,0.4,"200,000-249,999",209840
+45-49,46,Master's degree,Data Scientist,20+ years,4-5 years,4,"200,000-249,999",214284
+45-49,46,Doctoral degree,Data Scientist,20+ years,10-20 years,17,"200,000-249,999",215983
+45-49,47,Master's degree,Data Scientist,< 1 years,Under 1 year,0.1,"200,000-249,999",210083
+45-49,47,Bachelor's degree,Data Scientist,20+ years,4-5 years,5,"200,000-249,999",227996
+45-49,48,Master's degree,Product/Project Manager,10-20 years,20 or more years,25,"200,000-249,999",207221
+45-49,48,Master's degree,Other,10-20 years,10-20 years,12,"200,000-249,999",217621
+45-49,48,Doctoral degree,Software Engineer,20+ years,20 or more years,21,"200,000-249,999",218696
+45-49,48,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.7,"200,000-249,999",235211
+45-49,49,Some college/university study without earning a bachelor's degree,Other,20+ years,Under 1 year,0.1,"200,000-249,999",212953
+45-49,49,Bachelor's degree,Business Analyst,20+ years,2-3 years,2,"200,000-249,999",218840
+45-49,49,Master's degree,Data Engineer,10-20 years,4-5 years,5,"200,000-249,999",221720
+45-49,49,Doctoral degree,Research Scientist,20+ years,2-3 years,2,"200,000-249,999",233424
+45-49,49,Master's degree,Data Scientist,10-20 years,10-20 years,17,"200,000-249,999",234931
+45-49,49,Master's degree,Machine Learning Engineer,5-10 years,4-5 years,4,"200,000-249,999",238132
+45-49,45,Professional degree,Other,3-5 years,2-3 years,2,"250,000-299,999",260063
+45-49,46,Bachelor's degree,Product/Project Manager,20+ years,I do not use machine learning methods,0,"250,000-299,999",277603
+45-49,46,Bachelor's degree,Other,20+ years,1-2 years,2,"250,000-299,999",278386
+45-49,49,Doctoral degree,Data Scientist,10-20 years,5-10 years,9,"250,000-299,999",287827
+45-49,48,Master's degree,Other,3-5 years,Under 1 year,0.8,"30,000-39,999",34263
+45-49,45,Some college/university study without earning a bachelor's degree,Other,20+ years,2-3 years,3,"300,000-500,000",491464
+45-49,46,Master's degree,Data Scientist,20+ years,4-5 years,4,"300,000-500,000",377768
+45-49,48,Doctoral degree,Other,20+ years,3-4 years,4,"300,000-500,000",400234
+45-49,49,Bachelor's degree,Other,20+ years,5-10 years,7,"300,000-500,000",373587
+45-49,46,Bachelor's degree,Other,1-2 years,1-2 years,2,"40,000-49,999",41817
+45-49,47,Some college/university study without earning a bachelor's degree,Data Scientist,5-10 years,3-4 years,3,"40,000-49,999",49251
+45-49,46,Doctoral degree,Other,10-20 years,Under 1 year,0.4,"50,000-59,999",53010
+45-49,46,Bachelor's degree,Other,10-20 years,I do not use machine learning methods,0,"50,000-59,999",53135
+45-49,47,Bachelor's degree,Data Engineer,20+ years,Under 1 year,0.9,"50,000-59,999",56608
+45-49,48,Bachelor's degree,Data Analyst,1-2 years,1-2 years,1,"50,000-59,999",51916
+45-49,47,Master's degree,Other,20+ years,Under 1 year,0.2,"60,000-69,999",61777
+45-49,48,Bachelor's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"7,500-9,999",7014
+45-49,49,Master's degree,Research Scientist,10-20 years,1-2 years,1,"7,500-9,999",9484
+45-49,46,Master's degree,Business Analyst,< 1 years,Under 1 year,0.7,"70,000-79,999",78364
+45-49,47,Doctoral degree,Statistician,5-10 years,I do not use machine learning methods,0,"70,000-79,999",71936
+45-49,47,Master's degree,Data Analyst,10-20 years,Under 1 year,0.0,"70,000-79,999",73002
+45-49,47,Master's degree,Product/Project Manager,< 1 years,4-5 years,4,"70,000-79,999",75678
+45-49,49,Doctoral degree,Research Scientist,5-10 years,1-2 years,2,"70,000-79,999",72992
+45-49,46,Doctoral degree,Software Engineer,5-10 years,1-2 years,2,"80,000-89,999",83061
+45-49,49,Some college/university study without earning a bachelor's degree,Data Analyst,3-5 years,Under 1 year,0.9,"80,000-89,999",80529
+45-49,45,Master's degree,Statistician,5-10 years,I do not use machine learning methods,0,"90,000-99,999",92510
+45-49,45,Doctoral degree,Research Scientist,20+ years,20 or more years,21,"90,000-99,999",95574
+45-49,46,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,2-3 years,2,"90,000-99,999",98161
+45-49,47,Master's degree,Data Analyst,10-20 years,3-4 years,3,"90,000-99,999",91206
+45-49,48,Master's degree,Data Analyst,3-5 years,Under 1 year,1.0,"90,000-99,999",92504
+45-49,48,Master's degree,Software Engineer,10-20 years,5-10 years,10,"90,000-99,999",94251
+45-49,49,Master's degree,Product/Project Manager,5-10 years,I do not use machine learning methods,0,"90,000-99,999",92213
+45-49,49,Master's degree,Data Scientist,5-10 years,2-3 years,3,"90,000-99,999",96041
+45-49,45,Master's degree,Currently not employed,3-5 years,2-3 years,3,,
+45-49,45,Master's degree,Student,< 1 years,Under 1 year,0.8,,
+45-49,45,Master's degree,Student,5-10 years,Under 1 year,0.1,,
+45-49,45,Master's degree,Currently not employed,1-2 years,Under 1 year,0.6,,
+45-49,45,Master's degree,,,,,,
+45-49,45,Master's degree,Currently not employed,1-2 years,,,,
+45-49,45,Some college/university study without earning a bachelor's degree,Currently not employed,< 1 years,,,,
+45-49,46,Bachelor's degree,Currently not employed,1-2 years,1-2 years,1,,
+45-49,46,Doctoral degree,Product/Project Manager,10-20 years,1-2 years,2,,
+45-49,46,Some college/university study without earning a bachelor's degree,Currently not employed,3-5 years,1-2 years,2,,
+45-49,46,Bachelor's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,,
+45-49,46,Doctoral degree,Research Scientist,3-5 years,I do not use machine learning methods,0,,
+45-49,46,Doctoral degree,Currently not employed,20+ years,I do not use machine learning methods,0,,
+45-49,46,I prefer not to answer,Student,20+ years,I do not use machine learning methods,0,,
+45-49,46,Master's degree,Currently not employed,20+ years,I do not use machine learning methods,0,,
+45-49,46,Master's degree,Business Analyst,5-10 years,Under 1 year,0.6,,
+45-49,46,Bachelor's degree,Data Scientist,20+ years,,,,
+45-49,46,Bachelor's degree,Product/Project Manager,< 1 years,,,,
+45-49,46,Master's degree,Student,< 1 years,,,,
+45-49,46,Some college/university study without earning a bachelor's degree,Student,I have never written code,,,,
+45-49,47,Doctoral degree,Currently not employed,1-2 years,1-2 years,1,,
+45-49,47,Master's degree,Currently not employed,5-10 years,2-3 years,2,,
+45-49,47,Bachelor's degree,Currently not employed,20+ years,I do not use machine learning methods,0,,
+45-49,47,Bachelor's degree,Currently not employed,20+ years,Under 1 year,0.7,,
+45-49,48,Master's degree,Software Engineer,5-10 years,1-2 years,1,,
+45-49,48,Master's degree,Other,20+ years,10-20 years,10,,
+45-49,48,Doctoral degree,Currently not employed,10-20 years,4-5 years,4,,
+45-49,48,Master's degree,Data Scientist,3-5 years,5-10 years,9,,
+45-49,48,Doctoral degree,Other,,,,,
+45-49,48,Master's degree,Data Analyst,1-2 years,,,,
+45-49,48,Master's degree,Business Analyst,1-2 years,,,,
+45-49,48,Some college/university study without earning a bachelor's degree,Currently not employed,I have never written code,,,,
+45-49,49,Master's degree,Currently not employed,5-10 years,1-2 years,2,,
+45-49,49,Master's degree,Currently not employed,10-20 years,2-3 years,3,,
+45-49,49,Master's degree,Currently not employed,20+ years,5-10 years,7,,
+45-49,49,Master's degree,Currently not employed,10-20 years,Under 1 year,0.3,,
+45-49,49,Some college/university study without earning a bachelor's degree,Software Engineer,5-10 years,Under 1 year,0.9,,
+45-49,49,Master's degree,Student,1-2 years,,,,
+45-49,49,Master's degree,Business Analyst,I have never written code,,,,
+45-49,49,Master's degree,Software Engineer,5-10 years,,,,
+45-49,49,Master's degree,Other,,,,,
+50-54,50,Master's degree,Product/Project Manager,5-10 years,1-2 years,2,$0-999,483
+50-54,50,I prefer not to answer,Product/Project Manager,10-20 years,Under 1 year,0.1,$0-999,966
+50-54,51,Master's degree,Other,I have never written code,,,$0-999,262
+50-54,51,Some college/university study without earning a bachelor's degree,Other,I have never written code,,,$0-999,433
+50-54,52,Doctoral degree,Data Scientist,20+ years,2-3 years,2,$0-999,173
+50-54,52,Master's degree,Other,< 1 years,Under 1 year,0.2,$0-999,368
+50-54,52,Master's degree,Software Engineer,20+ years,5-10 years,10,$0-999,422
+50-54,52,Doctoral degree,Research Scientist,20+ years,20 or more years,26,$0-999,553
+50-54,53,Some college/university study without earning a bachelor's degree,Other,1-2 years,Under 1 year,0.4,$0-999,147
+50-54,53,Doctoral degree,Other,< 1 years,Under 1 year,1.0,$0-999,173
+50-54,53,Doctoral degree,Research Scientist,1-2 years,Under 1 year,0.6,$0-999,610
+50-54,53,Master's degree,Research Scientist,10-20 years,4-5 years,5,$0-999,652
+50-54,54,Doctoral degree,Research Scientist,20+ years,20 or more years,20,$0-999,562
+50-54,54,Master's degree,Business Analyst,10-20 years,4-5 years,5,$0-999,647
+50-54,50,Master's degree,Data Analyst,20+ years,1-2 years,1,"1,000-1,999",1900
+50-54,50,Master's degree,Business Analyst,3-5 years,I do not use machine learning methods,0,"1,000-1,999",1997
+50-54,52,Some college/university study without earning a bachelor's degree,Other,I have never written code,,,"1,000-1,999",1001
+50-54,54,Doctoral degree,Research Scientist,20+ years,10-20 years,15,"1,000-1,999",1014
+50-54,50,Master's degree,Business Analyst,20+ years,1-2 years,1,"100,000-124,999",108491
+50-54,50,Doctoral degree,Data Scientist,20+ years,10-20 years,17,"100,000-124,999",109247
+50-54,51,Bachelor's degree,Data Engineer,20+ years,2-3 years,2,"100,000-124,999",100120
+50-54,51,Master's degree,Other,20+ years,1-2 years,1,"100,000-124,999",120893
+50-54,52,Doctoral degree,Research Scientist,20+ years,4-5 years,5,"100,000-124,999",113274
+50-54,52,Master's degree,Data Analyst,5-10 years,Under 1 year,0.4,"100,000-124,999",124931
+50-54,53,Master's degree,DBA/Database Engineer,20+ years,4-5 years,4,"100,000-124,999",100931
+50-54,53,Master's degree,Software Engineer,20+ years,3-4 years,4,"100,000-124,999",116377
+50-54,54,Master's degree,Business Analyst,3-5 years,I do not use machine learning methods,0,"100,000-124,999",101391
+50-54,54,Master's degree,Machine Learning Engineer,10-20 years,1-2 years,1,"100,000-124,999",112610
+50-54,54,Master's degree,Software Engineer,20+ years,1-2 years,1,"100,000-124,999",116729
+50-54,54,Doctoral degree,Other,< 1 years,Under 1 year,0.9,"100,000-124,999",121833
+50-54,54,Master's degree,Other,I have never written code,,,"100,000-124,999",124039
+50-54,50,Doctoral degree,Data Scientist,20+ years,5-10 years,7,"125,000-149,999",130105
+50-54,50,Master's degree,Product/Project Manager,3-5 years,I do not use machine learning methods,0,"125,000-149,999",142537
+50-54,51,Doctoral degree,Data Scientist,20+ years,2-3 years,2,"125,000-149,999",127694
+50-54,51,Bachelor's degree,Other,I have never written code,,,"125,000-149,999",135439
+50-54,51,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,Under 1 year,0.6,"125,000-149,999",143150
+50-54,52,Master's degree,Data Analyst,20+ years,2-3 years,3,"125,000-149,999",129584
+50-54,52,Master's degree,Product/Project Manager,20+ years,1-2 years,1,"125,000-149,999",135873
+50-54,52,Master's degree,Software Engineer,20+ years,1-2 years,1,"125,000-149,999",138399
+50-54,52,Professional degree,Software Engineer,20+ years,1-2 years,2,"125,000-149,999",140046
+50-54,52,Master's degree,Product/Project Manager,1-2 years,20 or more years,25,"125,000-149,999",141274
+50-54,52,Bachelor's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"125,000-149,999",149003
+50-54,53,Bachelor's degree,Other,20+ years,5-10 years,5,"125,000-149,999",125017
+50-54,53,Master's degree,Software Engineer,20+ years,1-2 years,2,"125,000-149,999",143236
+50-54,53,Master's degree,Software Engineer,10-20 years,2-3 years,3,"125,000-149,999",146332
+50-54,54,Bachelor's degree,Business Analyst,< 1 years,Under 1 year,0.8,"125,000-149,999",127680
+50-54,54,Master's degree,Product/Project Manager,20+ years,1-2 years,2,"125,000-149,999",129026
+50-54,54,Master's degree,Other,5-10 years,5-10 years,5,"125,000-149,999",134747
+50-54,54,Doctoral degree,Data Scientist,20+ years,3-4 years,3,"125,000-149,999",135292
+50-54,54,Professional degree,Statistician,10-20 years,20 or more years,26,"125,000-149,999",138959
+50-54,54,Bachelor's degree,Software Engineer,20+ years,20 or more years,22,"125,000-149,999",145445
+50-54,54,Master's degree,Data Analyst,10-20 years,I do not use machine learning methods,0,"125,000-149,999",148160
+50-54,54,Bachelor's degree,Other,20+ years,5-10 years,9,"125,000-149,999",148432
+50-54,50,Professional degree,Data Scientist,20+ years,3-4 years,4,"150,000-199,999",156873
+50-54,50,Bachelor's degree,Product/Project Manager,20+ years,1-2 years,1,"150,000-199,999",180264
+50-54,50,Master's degree,Other,10-20 years,2-3 years,2,"150,000-199,999",185629
+50-54,50,Master's degree,Research Scientist,20+ years,Under 1 year,0.3,"150,000-199,999",191961
+50-54,51,Master's degree,Product/Project Manager,5-10 years,Under 1 year,0.3,"150,000-199,999",153678
+50-54,51,Master's degree,Other,I have never written code,,,"150,000-199,999",154899
+50-54,51,Professional degree,Research Scientist,20+ years,20 or more years,24,"150,000-199,999",157451
+50-54,51,Master's degree,Data Analyst,5-10 years,2-3 years,2,"150,000-199,999",157558
+50-54,51,Doctoral degree,Product/Project Manager,10-20 years,5-10 years,8,"150,000-199,999",161300
+50-54,51,Master's degree,Other,10-20 years,20 or more years,25,"150,000-199,999",173393
+50-54,51,Master's degree,Data Scientist,20+ years,5-10 years,10,"150,000-199,999",189336
+50-54,51,Doctoral degree,Software Engineer,20+ years,2-3 years,3,"150,000-199,999",193388
+50-54,51,Master's degree,Software Engineer,10-20 years,2-3 years,3,"150,000-199,999",194700
+50-54,52,Master's degree,Product/Project Manager,20+ years,4-5 years,4,"150,000-199,999",187808
+50-54,52,Master's degree,Software Engineer,20+ years,1-2 years,2,"150,000-199,999",189186
+50-54,52,Doctoral degree,Data Scientist,20+ years,20 or more years,27,"150,000-199,999",197751
+50-54,53,Master's degree,Product/Project Manager,20+ years,5-10 years,7,"150,000-199,999",154827
+50-54,53,Bachelor's degree,Other,< 1 years,I do not use machine learning methods,0,"150,000-199,999",156127
+50-54,53,Master's degree,Statistician,I have never written code,,,"150,000-199,999",158430
+50-54,53,Master's degree,Software Engineer,20+ years,20 or more years,28,"150,000-199,999",164195
+50-54,53,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,1-2 years,1,"150,000-199,999",177080
+50-54,53,Doctoral degree,Data Scientist,20+ years,20 or more years,25,"150,000-199,999",181356
+50-54,53,Master's degree,Machine Learning Engineer,10-20 years,5-10 years,6,"150,000-199,999",181570
+50-54,53,Master's degree,Software Engineer,20+ years,2-3 years,3,"150,000-199,999",192600
+50-54,53,Master's degree,Data Scientist,10-20 years,I do not use machine learning methods,0,"150,000-199,999",197021
+50-54,54,Bachelor's degree,Other,20+ years,3-4 years,3,"150,000-199,999",159611
+50-54,54,Bachelor's degree,Data Scientist,1-2 years,10-20 years,19,"150,000-199,999",173520
+50-54,54,Doctoral degree,Research Scientist,20+ years,5-10 years,7,"150,000-199,999",174545
+50-54,54,Bachelor's degree,Other,20+ years,1-2 years,1,"150,000-199,999",179210
+50-54,54,Doctoral degree,Research Scientist,20+ years,10-20 years,13,"150,000-199,999",191889
+50-54,53,Master's degree,Business Analyst,3-5 years,1-2 years,1,"2,000-2,999",2872
+50-54,52,Master's degree,Product/Project Manager,< 1 years,I do not use machine learning methods,0,"20,000-24,999",23196
+50-54,50,Master's degree,Software Engineer,20+ years,1-2 years,2,"200,000-249,999",204032
+50-54,50,Master's degree,Research Scientist,10-20 years,5-10 years,5,"200,000-249,999",224106
+50-54,50,Master's degree,Data Scientist,20+ years,5-10 years,6,"200,000-249,999",236505
+50-54,51,Doctoral degree,Data Scientist,20+ years,20 or more years,28,"200,000-249,999",220688
+50-54,52,Master's degree,Data Engineer,20+ years,2-3 years,3,"200,000-249,999",203712
+50-54,54,Doctoral degree,Software Engineer,20+ years,20 or more years,21,"200,000-249,999",205176
+50-54,54,Master's degree,Software Engineer,20+ years,4-5 years,4,"200,000-249,999",243182
+50-54,52,No formal education past high school,Data Analyst,< 1 years,I do not use machine learning methods,0,"25,000-29,999",26834
+50-54,53,Bachelor's degree,Other,< 1 years,Under 1 year,0.9,"25,000-29,999",25520
+50-54,50,Bachelor's degree,Software Engineer,20+ years,1-2 years,2,"250,000-299,999",251776
+50-54,50,Doctoral degree,Other,20+ years,2-3 years,3,"250,000-299,999",252608
+50-54,50,Master's degree,Machine Learning Engineer,20+ years,10-20 years,12,"250,000-299,999",299728
+50-54,51,Bachelor's degree,Data Scientist,5-10 years,3-4 years,3,"250,000-299,999",276583
+50-54,53,Master's degree,Product/Project Manager,1-2 years,Under 1 year,0.8,"250,000-299,999",276294
+50-54,53,Doctoral degree,Software Engineer,20+ years,I do not use machine learning methods,0,"250,000-299,999",293475
+50-54,54,Master's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"250,000-299,999",253197
+50-54,50,Master's degree,Data Scientist,20+ years,Under 1 year,0.2,"30,000-39,999",33881
+50-54,51,Bachelor's degree,Data Engineer,10-20 years,1-2 years,1,"30,000-39,999",31923
+50-54,51,Bachelor's degree,Other,I have never written code,,,"30,000-39,999",39610
+50-54,52,Bachelor's degree,Data Engineer,10-20 years,1-2 years,2,"30,000-39,999",39790
+50-54,52,Professional degree,Other,< 1 years,I do not use machine learning methods,0,"300,000-500,000",322968
+50-54,52,Doctoral degree,Other,20+ years,5-10 years,6,"300,000-500,000",362874
+50-54,53,Bachelor's degree,Software Engineer,20+ years,5-10 years,5,"300,000-500,000",439244
+50-54,54,Doctoral degree,Product/Project Manager,20+ years,20 or more years,25,"300,000-500,000",424850
+50-54,50,Doctoral degree,Other,20+ years,2-3 years,3,"40,000-49,999",42725
+50-54,51,Master's degree,Other,20+ years,1-2 years,1,"40,000-49,999",42621
+50-54,51,Master's degree,Research Scientist,3-5 years,I do not use machine learning methods,0,"40,000-49,999",46746
+50-54,54,Master's degree,Other,20+ years,4-5 years,4,"40,000-49,999",43604
+50-54,51,Master's degree,Software Engineer,20+ years,2-3 years,3,"50,000-59,999",59513
+50-54,53,Some college/university study without earning a bachelor's degree,Software Engineer,3-5 years,1-2 years,2,"50,000-59,999",53697
+50-54,52,Master's degree,Software Engineer,20+ years,5-10 years,8,"60,000-69,999",62128
+50-54,52,Bachelor's degree,Data Engineer,10-20 years,1-2 years,2,"60,000-69,999",65159
+50-54,53,Some college/university study without earning a bachelor's degree,Research Scientist,I have never written code,,,"60,000-69,999",67442
+50-54,50,Some college/university study without earning a bachelor's degree,Data Analyst,20+ years,1-2 years,2,"70,000-79,999",70359
+50-54,50,Master's degree,Data Scientist,10-20 years,1-2 years,2,"70,000-79,999",71499
+50-54,50,Doctoral degree,Statistician,10-20 years,20 or more years,27,"80,000-89,999",84716
+50-54,50,Master's degree,Other,I have never written code,,,"80,000-89,999",85699
+50-54,52,Doctoral degree,Other,1-2 years,Under 1 year,0.8,"80,000-89,999",82898
+50-54,52,Bachelor's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"80,000-89,999",82922
+50-54,53,Bachelor's degree,Product/Project Manager,I have never written code,,,"80,000-89,999",89750
+50-54,50,Doctoral degree,Other,20+ years,5-10 years,10,"90,000-99,999",90547
+50-54,52,Bachelor's degree,Other,3-5 years,I do not use machine learning methods,0,"90,000-99,999",90149
+50-54,52,Master's degree,Data Scientist,20+ years,20 or more years,27,"90,000-99,999",92326
+50-54,52,Doctoral degree,Research Scientist,10-20 years,10-20 years,16,"90,000-99,999",92944
+50-54,52,Master's degree,Product/Project Manager,10-20 years,Under 1 year,0.8,"90,000-99,999",93632
+50-54,53,Bachelor's degree,Data Analyst,20+ years,Under 1 year,0.6,"90,000-99,999",91846
+50-54,53,Doctoral degree,Statistician,20+ years,3-4 years,3,"90,000-99,999",93983
+50-54,53,Doctoral degree,Data Scientist,20+ years,10-20 years,18,"90,000-99,999",94819
+50-54,53,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,Under 1 year,0.6,"90,000-99,999",95979
+50-54,54,Master's degree,Product/Project Manager,< 1 years,1-2 years,1,"90,000-99,999",90540
+50-54,54,Doctoral degree,Data Scientist,3-5 years,2-3 years,3,"90,000-99,999",90862
+50-54,50,I prefer not to answer,Currently not employed,20+ years,1-2 years,1,,
+50-54,50,Bachelor's degree,Product/Project Manager,20+ years,2-3 years,3,,
+50-54,50,Professional degree,Statistician,20+ years,3-4 years,3,,
+50-54,50,Bachelor's degree,Student,< 1 years,Under 1 year,0.8,,
+50-54,50,Master's degree,Student,1-2 years,Under 1 year,0.2,,
+50-54,50,Bachelor's degree,Data Scientist,20+ years,,,,
+50-54,50,Master's degree,Business Analyst,< 1 years,,,,
+50-54,50,No formal education past high school,,,,,,
+50-54,50,Some college/university study without earning a bachelor's degree,Currently not employed,I have never written code,,,,
+50-54,51,Master's degree,Software Engineer,20+ years,1-2 years,1,,
+50-54,51,Master's degree,Product/Project Manager,1-2 years,1-2 years,2,,
+50-54,51,Doctoral degree,Machine Learning Engineer,20+ years,4-5 years,4,,
+50-54,51,No formal education past high school,Student,1-2 years,Under 1 year,0.0,,
+50-54,51,Master's degree,Student,< 1 years,,,,
+50-54,52,Bachelor's degree,Currently not employed,3-5 years,2-3 years,2,,
+50-54,52,Bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+50-54,52,Master's degree,Student,1-2 years,,,,
+50-54,52,Master's degree,Business Analyst,3-5 years,,,,
+50-54,53,Master's degree,Currently not employed,10-20 years,1-2 years,1,,
+50-54,53,Master's degree,Data Engineer,20+ years,1-2 years,2,,
+50-54,53,Professional degree,Software Engineer,20+ years,1-2 years,1,,
+50-54,53,Doctoral degree,Data Scientist,20+ years,3-4 years,3,,
+50-54,53,Bachelor's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+50-54,53,Master's degree,Statistician,20+ years,I do not use machine learning methods,0,,
+50-54,53,Master's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+50-54,53,Master's degree,Student,< 1 years,Under 1 year,0.3,,
+50-54,53,Doctoral degree,Other,20+ years,,,,
+50-54,53,Master's degree,Data Scientist,10-20 years,,,,
+50-54,53,No formal education past high school,,,,,,
+50-54,53,Professional degree,Currently not employed,I have never written code,,,,
+50-54,53,Professional degree,Other,,,,,
+50-54,54,Master's degree,Currently not employed,1-2 years,1-2 years,2,,
+50-54,54,Bachelor's degree,Currently not employed,20+ years,2-3 years,3,,
+50-54,54,Some college/university study without earning a bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.2,,
+50-54,54,Master's degree,Data Analyst,3-5 years,,,,
+50-54,54,Master's degree,,,,,,
+55-59,56,I prefer not to answer,Research Scientist,20+ years,10-20 years,16,"> $500,000",550362
+55-59,55,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,10-20 years,10,$0-999,135
+55-59,55,Bachelor's degree,Other,3-5 years,3-4 years,3,$0-999,233
+55-59,56,Bachelor's degree,Product/Project Manager,I have never written code,,,$0-999,560
+55-59,57,Master's degree,Data Scientist,20+ years,1-2 years,1,$0-999,30
+55-59,57,Doctoral degree,Research Scientist,20+ years,3-4 years,4,$0-999,242
+55-59,58,Doctoral degree,Other,20+ years,I do not use machine learning methods,0,$0-999,635
+55-59,58,Doctoral degree,Data Scientist,20+ years,5-10 years,8,$0-999,857
+55-59,58,Bachelor's degree,Software Engineer,20+ years,Under 1 year,0.9,$0-999,923
+55-59,58,Master's degree,Software Engineer,20+ years,I do not use machine learning methods,0,$0-999,953
+55-59,58,Doctoral degree,Product/Project Manager,3-5 years,3-4 years,3,$0-999,987
+55-59,59,Master's degree,Business Analyst,20+ years,1-2 years,2,$0-999,555
+55-59,51,Bachelor's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"100,000-124,999",121677
+55-59,55,Master's degree,Software Engineer,20+ years,Under 1 year,0.5,"100,000-124,999",105363
+55-59,55,Bachelor's degree,Business Analyst,20+ years,3-4 years,4,"100,000-124,999",106591
+55-59,55,Master's degree,Other,3-5 years,Under 1 year,0.1,"100,000-124,999",112687
+55-59,55,Master's degree,Data Analyst,20+ years,Under 1 year,0.6,"100,000-124,999",118734
+55-59,56,Master's degree,Product/Project Manager,20+ years,2-3 years,2,"100,000-124,999",102861
+55-59,57,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"100,000-124,999",106246
+55-59,59,Master's degree,Other,< 1 years,Under 1 year,0.5,"100,000-124,999",124772
+55-59,55,Bachelor's degree,Product/Project Manager,20+ years,5-10 years,6,"125,000-149,999",141193
+55-59,55,Master's degree,Other,20+ years,4-5 years,4,"125,000-149,999",143927
+55-59,56,Doctoral degree,Research Scientist,I have never written code,,,"125,000-149,999",138699
+55-59,56,Doctoral degree,Data Scientist,20+ years,Under 1 year,0.3,"125,000-149,999",147730
+55-59,57,Bachelor's degree,Software Engineer,20+ years,Under 1 year,0.0,"125,000-149,999",139017
+55-59,58,Bachelor's degree,Data Analyst,10-20 years,I do not use machine learning methods,0,"125,000-149,999",132210
+55-59,58,Master's degree,Data Analyst,20+ years,2-3 years,2,"125,000-149,999",138506
+55-59,58,Master's degree,Data Engineer,20+ years,3-4 years,4,"125,000-149,999",142312
+55-59,59,Master's degree,Data Scientist,20+ years,5-10 years,6,"125,000-149,999",132109
+55-59,59,Master's degree,Software Engineer,20+ years,3-4 years,3,"125,000-149,999",136562
+55-59,55,Master's degree,Data Analyst,10-20 years,I do not use machine learning methods,0,"150,000-199,999",173395
+55-59,55,Doctoral degree,Data Engineer,20+ years,4-5 years,5,"150,000-199,999",185079
+55-59,55,Doctoral degree,Product/Project Manager,5-10 years,2-3 years,2,"150,000-199,999",190894
+55-59,55,Doctoral degree,Software Engineer,20+ years,5-10 years,5,"150,000-199,999",199935
+55-59,56,Bachelor's degree,Software Engineer,20+ years,5-10 years,10,"150,000-199,999",157139
+55-59,56,Doctoral degree,Other,20+ years,I do not use machine learning methods,0,"150,000-199,999",164293
+55-59,57,Master's degree,Software Engineer,20+ years,2-3 years,2,"150,000-199,999",177979
+55-59,57,Doctoral degree,Data Scientist,20+ years,20 or more years,27,"150,000-199,999",188069
+55-59,58,Master's degree,Product/Project Manager,20+ years,5-10 years,6,"150,000-199,999",193263
+55-59,59,Bachelor's degree,Product/Project Manager,5-10 years,2-3 years,3,"150,000-199,999",151571
+55-59,59,Master's degree,Data Scientist,20+ years,20 or more years,28,"150,000-199,999",167483
+55-59,59,Doctoral degree,Statistician,20+ years,20 or more years,26,"150,000-199,999",174391
+55-59,59,Professional degree,Research Scientist,1-2 years,1-2 years,1,"150,000-199,999",177407
+55-59,59,Master's degree,Machine Learning Engineer,20+ years,4-5 years,5,"150,000-199,999",190559
+55-59,59,Doctoral degree,Data Scientist,10-20 years,10-20 years,13,"150,000-199,999",198668
+55-59,55,Some college/university study without earning a bachelor's degree,Other,1-2 years,I do not use machine learning methods,0,"2,000-2,999",2130
+55-59,55,Doctoral degree,Research Scientist,3-5 years,5-10 years,7,"200,000-249,999",219807
+55-59,55,Doctoral degree,Other,20+ years,1-2 years,1,"200,000-249,999",241542
+55-59,56,Bachelor's degree,Product/Project Manager,20+ years,Under 1 year,0.4,"200,000-249,999",237678
+55-59,56,Some college/university study without earning a bachelor's degree,Data Analyst,20+ years,2-3 years,2,"200,000-249,999",247739
+55-59,57,Master's degree,Product/Project Manager,20+ years,I do not use machine learning methods,0,"200,000-249,999",214588
+55-59,58,Bachelor's degree,Data Scientist,3-5 years,Under 1 year,0.8,"200,000-249,999",227236
+55-59,58,Doctoral degree,Data Scientist,20+ years,20 or more years,21,"200,000-249,999",242076
+55-59,59,Doctoral degree,Research Scientist,20+ years,I do not use machine learning methods,0,"200,000-249,999",205735
+55-59,59,Bachelor's degree,Machine Learning Engineer,20+ years,5-10 years,6,"200,000-249,999",241037
+55-59,59,Master's degree,Other,20+ years,2-3 years,2,"200,000-249,999",245644
+55-59,55,Doctoral degree,Other,20+ years,4-5 years,5,"250,000-299,999",276975
+55-59,58,Master's degree,Other,5-10 years,Under 1 year,0.5,"250,000-299,999",250870
+55-59,59,Master's degree,Data Scientist,5-10 years,5-10 years,8,"250,000-299,999",264306
+55-59,56,Doctoral degree,Data Scientist,3-5 years,3-4 years,4,"300,000-500,000",485321
+55-59,57,Doctoral degree,Data Scientist,20+ years,20 or more years,28,"300,000-500,000",332645
+55-59,58,Master's degree,Data Scientist,20+ years,20 or more years,28,"300,000-500,000",441651
+55-59,59,Master's degree,Other,I have never written code,,,"300,000-500,000",375753
+55-59,57,Doctoral degree,Research Scientist,5-10 years,I do not use machine learning methods,0,"40,000-49,999",41868
+55-59,58,Bachelor's degree,Software Engineer,20+ years,2-3 years,3,"40,000-49,999",45319
+55-59,55,Doctoral degree,Research Scientist,3-5 years,2-3 years,2,"50,000-59,999",50591
+55-59,57,Master's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"50,000-59,999",55219
+55-59,55,Master's degree,Data Analyst,1-2 years,1-2 years,2,"60,000-69,999",61437
+55-59,55,Bachelor's degree,Other,1-2 years,1-2 years,2,"60,000-69,999",64242
+55-59,56,Master's degree,Business Analyst,10-20 years,4-5 years,5,"60,000-69,999",67007
+55-59,57,No formal education past high school,Software Engineer,10-20 years,I do not use machine learning methods,0,"7,500-9,999",8318
+55-59,55,Bachelor's degree,Business Analyst,3-5 years,I do not use machine learning methods,0,"70,000-79,999",76034
+55-59,56,Bachelor's degree,Other,I have never written code,,,"70,000-79,999",70273
+55-59,56,Master's degree,Business Analyst,3-5 years,I do not use machine learning methods,0,"70,000-79,999",73689
+55-59,58,Master's degree,Other,20+ years,10-20 years,16,"70,000-79,999",71742
+55-59,58,Master's degree,Data Analyst,5-10 years,Under 1 year,0.3,"70,000-79,999",74085
+55-59,55,Doctoral degree,Data Scientist,I have never written code,,,"80,000-89,999",86032
+55-59,57,Doctoral degree,Other,I have never written code,,,"80,000-89,999",81332
+55-59,57,Master's degree,Research Scientist,20+ years,Under 1 year,0.8,"80,000-89,999",88030
+55-59,58,Master's degree,Software Engineer,20+ years,Under 1 year,0.9,"80,000-89,999",82498
+55-59,58,Master's degree,Other,I have never written code,,,"80,000-89,999",89968
+55-59,55,Bachelor's degree,Product/Project Manager,< 1 years,Under 1 year,0.9,"90,000-99,999",96497
+55-59,56,Master's degree,Software Engineer,10-20 years,Under 1 year,0.9,"90,000-99,999",90302
+55-59,56,Master's degree,Other,3-5 years,Under 1 year,0.7,"90,000-99,999",95329
+55-59,58,Master's degree,Other,3-5 years,Under 1 year,0.5,"90,000-99,999",98286
+55-59,59,Doctoral degree,Other,< 1 years,Under 1 year,0.8,"90,000-99,999",91801
+55-59,59,Master's degree,Research Scientist,5-10 years,5-10 years,9,"90,000-99,999",94882
+55-59,55,Master's degree,Research Scientist,20+ years,3-4 years,3,,
+55-59,55,Some college/university study without earning a bachelor's degree,Currently not employed,20+ years,4-5 years,5,,
+55-59,55,Bachelor's degree,Currently not employed,3-5 years,Under 1 year,0.2,,
+55-59,56,Bachelor's degree,,,,,,
+55-59,56,Bachelor's degree,Other,5-10 years,,,,
+55-59,56,Master's degree,Other,,,,,
+55-59,56,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,,,,
+55-59,57,Bachelor's degree,Currently not employed,3-5 years,2-3 years,3,,
+55-59,57,Doctoral degree,Software Engineer,20+ years,5-10 years,9,,
+55-59,58,Master's degree,Other,5-10 years,3-4 years,3,,
+55-59,58,Doctoral degree,Currently not employed,5-10 years,5-10 years,9,,
+55-59,58,Bachelor's degree,Currently not employed,10-20 years,I do not use machine learning methods,0,,
+55-59,58,Bachelor's degree,Student,3-5 years,I do not use machine learning methods,0,,
+55-59,58,Master's degree,Software Engineer,5-10 years,Under 1 year,0.8,,
+55-59,58,Doctoral degree,Other,10-20 years,,,,
+55-59,58,Some college/university study without earning a bachelor's degree,Currently not employed,I have never written code,,,,
+55-59,59,Doctoral degree,Currently not employed,10-20 years,2-3 years,2,,
+55-59,59,Master's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+55-59,59,Master's degree,Research Scientist,20+ years,,,,
+55-59,59,Some college/university study without earning a bachelor's degree,Other,3-5 years,,,,
+60-69,60,Master's degree,Data Analyst,10-20 years,1-2 years,1,$0-999,89
+60-69,60,Bachelor's degree,Other,20+ years,Under 1 year,0.9,$0-999,228
+60-69,60,Bachelor's degree,Other,20+ years,2-3 years,2,$0-999,417
+60-69,60,Master's degree,Other,20+ years,10-20 years,12,$0-999,418
+60-69,60,Bachelor's degree,Product/Project Manager,5-10 years,3-4 years,3,$0-999,964
+60-69,61,Master's degree,Software Engineer,20+ years,1-2 years,1,$0-999,539
+60-69,61,Master's degree,Other,20+ years,2-3 years,2,$0-999,911
+60-69,62,Doctoral degree,Data Scientist,20+ years,5-10 years,9,$0-999,270
+60-69,62,Master's degree,Other,20+ years,4-5 years,4,$0-999,561
+60-69,63,Bachelor's degree,Data Analyst,10-20 years,Under 1 year,0.4,$0-999,211
+60-69,64,Bachelor's degree,Data Scientist,20+ years,20 or more years,21,$0-999,955
+60-69,65,Doctoral degree,Statistician,20+ years,2-3 years,3,$0-999,205
+60-69,65,Bachelor's degree,Other,3-5 years,3-4 years,4,$0-999,804
+60-69,65,Master's degree,Data Engineer,20+ years,Under 1 year,0.2,$0-999,904
+60-69,66,Bachelor's degree,Other,5-10 years,Under 1 year,0.6,$0-999,746
+60-69,66,Master's degree,Data Scientist,20+ years,4-5 years,5,$0-999,967
+60-69,68,Bachelor's degree,Software Engineer,20+ years,I do not use machine learning methods,0,$0-999,274
+60-69,65,Master's degree,Data Scientist,3-5 years,1-2 years,1,"10,000-14,999",12932
+60-69,67,Bachelor's degree,Other,20+ years,I do not use machine learning methods,0,"10,000-14,999",12241
+60-69,69,Master's degree,Business Analyst,20+ years,20 or more years,24,"10,000-14,999",12609
+60-69,60,Master's degree,DBA/Database Engineer,20+ years,I do not use machine learning methods,0,"100,000-124,999",108339
+60-69,61,Bachelor's degree,DBA/Database Engineer,20+ years,3-4 years,4,"100,000-124,999",103381
+60-69,62,Bachelor's degree,Other,20+ years,4-5 years,4,"100,000-124,999",108570
+60-69,62,Master's degree,Data Scientist,20+ years,5-10 years,7,"100,000-124,999",114394
+60-69,62,Doctoral degree,Other,20+ years,Under 1 year,0.9,"100,000-124,999",120587
+60-69,63,Master's degree,Software Engineer,20+ years,4-5 years,4,"100,000-124,999",109013
+60-69,64,Some college/university study without earning a bachelor's degree,Other,10-20 years,3-4 years,4,"100,000-124,999",105143
+60-69,64,Professional degree,Statistician,20+ years,I do not use machine learning methods,0,"100,000-124,999",109179
+60-69,64,Bachelor's degree,Other,20+ years,4-5 years,4,"100,000-124,999",117927
+60-69,66,Bachelor's degree,DBA/Database Engineer,20+ years,I do not use machine learning methods,0,"100,000-124,999",101667
+60-69,66,Bachelor's degree,Research Scientist,5-10 years,Under 1 year,0.2,"100,000-124,999",106148
+60-69,66,Doctoral degree,Research Scientist,20+ years,2-3 years,3,"100,000-124,999",106174
+60-69,66,Master's degree,Product/Project Manager,20+ years,1-2 years,2,"100,000-124,999",113863
+60-69,68,Master's degree,Product/Project Manager,10-20 years,2-3 years,3,"100,000-124,999",103023
+60-69,68,Doctoral degree,Data Scientist,20+ years,20 or more years,29,"100,000-124,999",108080
+60-69,68,Professional degree,Research Scientist,I have never written code,,,"100,000-124,999",111541
+60-69,68,Bachelor's degree,Other,I have never written code,,,"100,000-124,999",120675
+60-69,68,Master's degree,Data Engineer,20+ years,Under 1 year,0.2,"100,000-124,999",123271
+60-69,69,Professional degree,Software Engineer,20+ years,3-4 years,4,"100,000-124,999",119735
+60-69,61,Bachelor's degree,Other,20+ years,5-10 years,5,"125,000-149,999",138196
+60-69,62,Master's degree,DBA/Database Engineer,20+ years,3-4 years,3,"125,000-149,999",128436
+60-69,64,Doctoral degree,Research Scientist,10-20 years,1-2 years,1,"125,000-149,999",129561
+60-69,64,Master's degree,Data Engineer,20+ years,5-10 years,9,"125,000-149,999",134167
+60-69,64,Professional degree,Data Scientist,5-10 years,4-5 years,5,"125,000-149,999",136222
+60-69,65,Master's degree,Software Engineer,20+ years,Under 1 year,0.2,"125,000-149,999",137704
+60-69,65,Master's degree,DBA/Database Engineer,20+ years,1-2 years,1,"125,000-149,999",145760
+60-69,66,Master's degree,Product/Project Manager,20+ years,Under 1 year,0.2,"125,000-149,999",136843
+60-69,67,Some college/university study without earning a bachelor's degree,Product/Project Manager,3-5 years,1-2 years,2,"125,000-149,999",129620
+60-69,68,Doctoral degree,Data Scientist,20+ years,10-20 years,15,"125,000-149,999",131187
+60-69,68,Doctoral degree,Data Scientist,20+ years,20 or more years,28,"125,000-149,999",142043
+60-69,65,Master's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"15,000-19,999",19202
+60-69,60,Master's degree,Data Scientist,20+ years,20 or more years,21,"150,000-199,999",170128
+60-69,60,Bachelor's degree,Software Engineer,20+ years,Under 1 year,0.4,"150,000-199,999",178557
+60-69,62,Doctoral degree,Statistician,10-20 years,Under 1 year,0.6,"150,000-199,999",166785
+60-69,62,Doctoral degree,Research Scientist,20+ years,20 or more years,20,"150,000-199,999",177212
+60-69,62,Doctoral degree,Research Scientist,20+ years,20 or more years,27,"150,000-199,999",195176
+60-69,63,Doctoral degree,Research Scientist,20+ years,5-10 years,9,"150,000-199,999",154446
+60-69,63,Bachelor's degree,Software Engineer,20+ years,5-10 years,9,"150,000-199,999",175826
+60-69,63,Doctoral degree,Research Scientist,20+ years,I do not use machine learning methods,0,"150,000-199,999",176721
+60-69,63,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,2-3 years,2,"150,000-199,999",179052
+60-69,64,Master's degree,Product/Project Manager,20+ years,Under 1 year,0.5,"150,000-199,999",170580
+60-69,66,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,3-4 years,4,"150,000-199,999",153120
+60-69,66,Doctoral degree,Other,1-2 years,10-20 years,13,"150,000-199,999",157979
+60-69,66,Bachelor's degree,Product/Project Manager,< 1 years,Under 1 year,0.1,"150,000-199,999",170468
+60-69,66,Master's degree,Data Scientist,20+ years,20 or more years,23,"150,000-199,999",182587
+60-69,67,Master's degree,Data Analyst,20+ years,2-3 years,3,"150,000-199,999",180277
+60-69,68,Master's degree,Other,20+ years,2-3 years,3,"150,000-199,999",172059
+60-69,69,Master's degree,Software Engineer,10-20 years,I do not use machine learning methods,0,"150,000-199,999",151414
+60-69,69,Doctoral degree,Software Engineer,20+ years,5-10 years,8,"150,000-199,999",153646
+60-69,64,Master's degree,Product/Project Manager,20+ years,Under 1 year,0.9,"20,000-24,999",21281
+60-69,66,Master's degree,Other,1-2 years,1-2 years,1,"20,000-24,999",23255
+60-69,67,Master's degree,Product/Project Manager,10-20 years,Under 1 year,0.2,"20,000-24,999",21462
+60-69,60,Master's degree,Other,20+ years,5-10 years,6,"200,000-249,999",212547
+60-69,60,Master's degree,Software Engineer,20+ years,5-10 years,6,"200,000-249,999",220585
+60-69,63,Doctoral degree,Data Engineer,20+ years,5-10 years,9,"200,000-249,999",213692
+60-69,66,Bachelor's degree,Research Scientist,20+ years,5-10 years,7,"200,000-249,999",202409
+60-69,67,Bachelor's degree,Other,3-5 years,Under 1 year,0.1,"200,000-249,999",213462
+60-69,68,Doctoral degree,Data Scientist,20+ years,20 or more years,21,"200,000-249,999",200726
+60-69,62,Professional degree,Other,5-10 years,Under 1 year,0.5,"250,000-299,999",260975
+60-69,62,Doctoral degree,Other,10-20 years,20 or more years,28,"250,000-299,999",286063
+60-69,64,Master's degree,Other,20+ years,4-5 years,5,"250,000-299,999",287118
+60-69,61,Doctoral degree,Data Analyst,20+ years,I do not use machine learning methods,0,"30,000-39,999",33879
+60-69,60,Doctoral degree,Statistician,20+ years,1-2 years,1,"300,000-500,000",356024
+60-69,69,Doctoral degree,Other,20+ years,2-3 years,3,"300,000-500,000",475051
+60-69,62,Master's degree,Product/Project Manager,I have never written code,,,"40,000-49,999",47816
+60-69,66,Master's degree,Product/Project Manager,20+ years,1-2 years,1,"40,000-49,999",43085
+60-69,68,Master's degree,Business Analyst,< 1 years,I do not use machine learning methods,0,"40,000-49,999",40021
+60-69,64,Some college/university study without earning a bachelor's degree,Machine Learning Engineer,3-5 years,2-3 years,3,"5,000-7,499",6542
+60-69,68,Bachelor's degree,Software Engineer,20+ years,I do not use machine learning methods,0,"50,000-59,999",53380
+60-69,68,Master's degree,Data Analyst,1-2 years,1-2 years,2,"60,000-69,999",61422
+60-69,68,Master's degree,Product/Project Manager,20+ years,1-2 years,1,"60,000-69,999",63818
+60-69,62,Bachelor's degree,Product/Project Manager,20+ years,3-4 years,3,"70,000-79,999",71789
+60-69,64,Master's degree,Data Analyst,1-2 years,4-5 years,5,"70,000-79,999",73235
+60-69,67,Master's degree,Other,20+ years,2-3 years,3,"70,000-79,999",76635
+60-69,67,Doctoral degree,Other,10-20 years,4-5 years,4,"70,000-79,999",77560
+60-69,68,Master's degree,Data Scientist,1-2 years,Under 1 year,0.0,"70,000-79,999",75075
+60-69,68,Master's degree,Other,1-2 years,Under 1 year,0.8,"70,000-79,999",75255
+60-69,69,Master's degree,Other,I have never written code,,,"70,000-79,999",77228
+60-69,60,Doctoral degree,Research Scientist,20+ years,I do not use machine learning methods,0,"80,000-89,999",87273
+60-69,61,Doctoral degree,Data Scientist,20+ years,4-5 years,4,"80,000-89,999",88901
+60-69,62,Doctoral degree,Research Scientist,20+ years,I do not use machine learning methods,0,"80,000-89,999",83060
+60-69,67,Doctoral degree,Machine Learning Engineer,10-20 years,20 or more years,27,"80,000-89,999",80578
+60-69,60,Master's degree,Statistician,20+ years,10-20 years,15,"90,000-99,999",92850
+60-69,60,Master's degree,Software Engineer,20+ years,Under 1 year,0.5,"90,000-99,999",99644
+60-69,61,Doctoral degree,Product/Project Manager,10-20 years,I do not use machine learning methods,0,"90,000-99,999",91925
+60-69,61,Master's degree,Software Engineer,20+ years,2-3 years,3,"90,000-99,999",93278
+60-69,61,Master's degree,Other,20+ years,Under 1 year,0.2,"90,000-99,999",94432
+60-69,61,Bachelor's degree,Software Engineer,20+ years,4-5 years,5,"90,000-99,999",99413
+60-69,63,Bachelor's degree,Product/Project Manager,10-20 years,1-2 years,2,"90,000-99,999",93601
+60-69,64,Some college/university study without earning a bachelor's degree,Software Engineer,20+ years,2-3 years,2,"90,000-99,999",98514
+60-69,65,Doctoral degree,Other,I have never written code,,,"90,000-99,999",99400
+60-69,68,Master's degree,DBA/Database Engineer,20+ years,3-4 years,4,"90,000-99,999",91128
+60-69,68,Bachelor's degree,Software Engineer,10-20 years,Under 1 year,0.3,"90,000-99,999",93134
+60-69,60,Doctoral degree,Currently not employed,20+ years,10-20 years,17,,
+60-69,60,Bachelor's degree,Currently not employed,1-2 years,I do not use machine learning methods,0,,
+60-69,60,Some college/university study without earning a bachelor's degree,Student,1-2 years,I do not use machine learning methods,0,,
+60-69,60,Bachelor's degree,Currently not employed,20+ years,Under 1 year,0.0,,
+60-69,60,Doctoral degree,Currently not employed,5-10 years,Under 1 year,0.1,,
+60-69,62,Master's degree,Product/Project Manager,5-10 years,4-5 years,4,,
+60-69,62,Master's degree,Student,3-5 years,Under 1 year,0.3,,
+60-69,62,Master's degree,Currently not employed,I have never written code,,,,
+60-69,63,Master's degree,Currently not employed,20+ years,1-2 years,2,,
+60-69,65,Doctoral degree,Currently not employed,1-2 years,2-3 years,2,,
+60-69,65,Master's degree,Student,20+ years,I do not use machine learning methods,0,,
+60-69,66,Bachelor's degree,Software Engineer,20+ years,1-2 years,1,,
+60-69,66,Master's degree,Currently not employed,10-20 years,3-4 years,3,,
+60-69,66,Master's degree,Currently not employed,< 1 years,I do not use machine learning methods,0,,
+60-69,66,Doctoral degree,Currently not employed,20+ years,Under 1 year,1.0,,
+60-69,66,Master's degree,Data Scientist,20+ years,Under 1 year,0.6,,
+60-69,66,Doctoral degree,Other,I have never written code,,,,
+60-69,66,Doctoral degree,Currently not employed,20+ years,,,,
+60-69,66,Some college/university study without earning a bachelor's degree,Product/Project Manager,10-20 years,,,,
+60-69,67,Bachelor's degree,Product/Project Manager,5-10 years,,,,
+60-69,68,Master's degree,Currently not employed,1-2 years,2-3 years,2,,
+60-69,68,Master's degree,Currently not employed,3-5 years,Under 1 year,0.9,,
+60-69,69,Master's degree,Currently not employed,10-20 years,2-3 years,2,,
+60-69,69,Some college/university study without earning a bachelor's degree,Student,1-2 years,2-3 years,2,,
+60-69,69,Bachelor's degree,Other,1-2 years,I do not use machine learning methods,0,,
+60-69,69,Bachelor's degree,Currently not employed,,,,,
